@@ -1,1 +1,0 @@
-# byfctournament.github.io
