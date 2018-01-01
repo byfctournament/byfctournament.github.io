@@ -5,6 +5,9 @@ description: Logistics and important information
 image: 
 ---
 
+
+# PLEASE NOTE: THIS PAGE WILL BE UPDATED FOR 2018
+
 10–11 June, 2017. Oakwood Park, Maidstone, Kent ME16 8AG
 
 1. The address for the venue is Oakwood Park, Maidstone, Kent ME16 8AG however please ensure all visitors access the complex via Queens Road and not Oakwood Road or Tonbridge Road. If vehicles attempt to access the complex via Oakwood Road or Tonbridge Road they will be redirected to Queens Road.
