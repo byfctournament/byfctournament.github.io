@@ -1,8 +1,8 @@
 # Site settings
 title: BYFC
-subtitle: Tournament 2017
+subtitle: Tournament 2018
 email: webmaster@barmingyouth.co.uk
-description: Welcome to the Barming Youth FC tournament 2017. See below for useful information; use the menu (top right) to view results.
+description: Welcome to the Barming Youth FC tournament 2018. See below for useful information; use the menu (top right) to view results.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
