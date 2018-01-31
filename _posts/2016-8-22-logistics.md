@@ -6,9 +6,7 @@ image:
 ---
 
 
-# PLEASE NOTE: THIS PAGE WILL BE UPDATED FOR 2018
-
-10–11 June, 2017. Oakwood Park, Maidstone, Kent ME16 8AG
+9–10 June, 2018. Oakwood Park, Maidstone, Kent ME16 8AG
 
 1. The address for the venue is Oakwood Park, Maidstone, Kent ME16 8AG however please ensure all visitors access the complex via Queens Road and not Oakwood Road or Tonbridge Road. If vehicles attempt to access the complex via Oakwood Road or Tonbridge Road they will be redirected to Queens Road.
 For those just dropping off, use the same access and you will be directed accordingly.
@@ -21,14 +19,14 @@ For those just dropping off, use the same access and you will be directed accord
 
 5. Confirmation of times/dates: -
 
-	* Sat 10th June a.m. (first k.o. 9.00 a.m.): Under 7 Junior, Under 7s, Under 8s, Under 9s
-	* Sat 10th June p.m. (first k.o. 2.00 p.m.): Under 10s, Under 11s, Under 11 Girls, Under 12s, Under 13s
-	* Sun 11th June a.m. (first k.o. 9.00 a.m.): Under 14s, Under 14 Girls, Under 15s, Under 16 Boys
-	* Sun 11th June p.m. (first k.o. 2.00 p.m.):, U18 Boys, Ladies, Men’s, Veterans
+	* Sat 9th June a.m. (first k.o. 9.00 a.m.): Under 7, Under 8, Under 9, Under 13
+	* Sat 9th June p.m. (first k.o. 2.00 p.m.): Under 10, Under 12, Under 14, Under 15
+	* Sun 10th June a.m. (first k.o. 9.00 a.m.): Under 9 Girls, Under 11, Under 12 Girls, Under 15 Girls, Under 16
+	* Sun 10th June p.m. (first k.o. 2.00 p.m.): Ladies 16+, Under 18, Men, Vets
 
 6. Ten minutes prior to first kick off (8.50 a.m. or 1.50 p.m.) please report to the registration desk again. They will confirm the number of teams competing.
 
-7. In accordance with direction received from the Kent FA we are making the U7 Juniors, U7s, U8s and U9s a competitive competition with group and knock out stages. Players of all teams will receive a medal.
+7. In accordance with direction received from the Kent FA we are making the U7s, U8s and U9s a competitive competition with group and knock out stages. Players of all teams will receive a medal.
 
 8. [Tournament Rules](/2016/08/24/rules.html) 
 
