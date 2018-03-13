@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-form
 title: Register
 description: Please register here
 ---
