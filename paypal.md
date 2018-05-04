@@ -1,5 +1,5 @@
 ---
-layout: pageplain
+layout: post-no-form
 title: PayPal payment
 ---
 
