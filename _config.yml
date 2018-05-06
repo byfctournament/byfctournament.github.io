@@ -6,12 +6,12 @@ description: Welcome to the Barming Youth FC tournament 2018. See below for usef
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 40 Bridge Mill Way
+street_address: 55 Beverley Road
 city: Maidstone
 state: Kent
-zip_code: ME15 6FD
+zip_code: ME16 9DU
 country: 
-phone: 07710 425812
+phone: 07952 267596
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
