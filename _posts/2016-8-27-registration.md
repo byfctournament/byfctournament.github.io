@@ -1,6 +1,6 @@
 ---
 layout: post-no-form
-title: Register
+title: Registration CLOSED
 description: Please register here
 ---
 
