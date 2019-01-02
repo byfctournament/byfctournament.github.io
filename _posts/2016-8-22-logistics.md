@@ -6,9 +6,9 @@ image:
 ---
 
 
-9–10 June, 2018. Oakwood Park, Maidstone, Kent ME16 8AG
+8–9 June, 2019. Oakwood Park, Maidstone, Kent ME16 0LD
 
-1. The address for the venue is Oakwood Park, Maidstone, Kent ME16 8AG however please ensure all visitors access the complex via Queens Road and not Oakwood Road or Tonbridge Road. If vehicles attempt to access the complex via Oakwood Road or Tonbridge Road they will be redirected to Queens Road.
+1. The address for the venue is Oakwood Park, Maidstone, Kent ME16 8AG however please ensure all visitors access the complex via Queens Road and not Oakwood Road or Tonbridge Road (ME16 0LD). If vehicles attempt to access the complex via Oakwood Road or Tonbridge Road they will be redirected to Queens Road.
 For those just dropping off, use the same access and you will be directed accordingly.
 
 2. When you enter the complex you will be directed to designated parking areas. Please do not park anywhere other than as directed. Under no circumstances should you park at, or restrict access to, the main car park at Oakwood House. They have functions ongoing over the entire weekend.
@@ -19,10 +19,10 @@ For those just dropping off, use the same access and you will be directed accord
 
 5. Confirmation of times/dates: -
 
-	* Sat 9th June a.m. (first k.o. 9.00 a.m.): Under 7, Under 8, Under 9, Under 13
-	* Sat 9th June p.m. (first k.o. 2.00 p.m.): Under 10, Under 12, Under 14, Under 15
-	* Sun 10th June a.m. (first k.o. 9.00 a.m.): Under 9 Girls, Under 11, Under 12 Girls, Under 15 Girls, Under 16
-	* Sun 10th June p.m. (first k.o. 2.00 p.m.): Ladies 16+, Under 18, Men, Vets
+	* Sat 8th June a.m. (first k.o. 9.00 a.m.): TO BE CONFIRMED
+	* Sat 9th June p.m. (first k.o. 2.00 p.m.): TO BE CONFIRMED
+	* Sun 10th June a.m. (first k.o. 9.00 a.m.): TO BE CONFIRMED
+	* Sun 10th June p.m. (first k.o. 2.00 p.m.): TO BE CONFIRMED
 
 6. Ten minutes prior to first kick off (8.50 a.m. or 1.50 p.m.) please report to the registration desk again. They will confirm the number of teams competing.
 
