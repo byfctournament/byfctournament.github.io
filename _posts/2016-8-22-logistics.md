@@ -19,10 +19,10 @@ For those just dropping off, use the same access and you will be directed accord
 
 5. Confirmation of times/dates: -
 
-	* Sat 8th June a.m. (first k.o. 9.00 a.m.): TO BE CONFIRMED
-	* Sat 9th June p.m. (first k.o. 2.00 p.m.): TO BE CONFIRMED
-	* Sun 10th June a.m. (first k.o. 9.00 a.m.): TO BE CONFIRMED
-	* Sun 10th June p.m. (first k.o. 2.00 p.m.): TO BE CONFIRMED
+	* Sat 8th June a.m. (first k.o. 9.00 a.m.): Under 7, Under 8, Under 9, Under 10
+	* Sat 9th June p.m. (first k.o. 2.00 p.m.): Under 10 Girls, Under 11, Under 12, Under 13
+	* Sun 10th June a.m. (first k.o. 9.00 a.m.): Under 14, Under 15, Ladies, Vets
+	* Sun 10th June p.m. (first k.o. 2.00 p.m.): Under 16, Under 16 Girls, Under 18, Men
 
 6. Ten minutes prior to first kick off (8.50 a.m. or 1.50 p.m.) please report to the registration desk again. They will confirm the number of teams competing.
 

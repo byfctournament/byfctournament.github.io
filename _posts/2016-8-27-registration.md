@@ -1,6 +1,6 @@
 ---
 layout: post-no-form
-title: Registration opening soon...
+title: Register
 description: Please register here
 ---
 
