@@ -5,4 +5,6 @@ description:
 image: http://medwayjsna.info/misc/ph.jpg
 ---
 
-![Photography](http://medwayjsna.info/misc/ph.jpg)
+
+<img src="http://medwayjsna.info/misc/ph.jpg" alt="Photography" width="600" />
+
