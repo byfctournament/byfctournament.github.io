@@ -11,5 +11,6 @@ exclude: true
 |:------------------------:|:-----------:|:----------:|
 |   Aylesford U8 royals    | 2 &mdash; 0 | Charing U8 |
 | Tunbridge Wells Dynamoes | 3 &mdash; 0 | Charing U8 |
+|  Maidstone Utd Youth U8  | 7 &mdash; 0 | Charing U8 |
 
  <br /><br /><br />

@@ -12,5 +12,6 @@ exclude: true
 | Swanscombe Tigers U9 Black | 1 &mdash; 0 |     Vinters Valley U9      |
 |      BARMING Youth U9      | 5 &mdash; 0 | Swanscombe Tigers U9 Black |
 |     Aylesford Colts U9     | 0 &mdash; 0 | Swanscombe Tigers U9 Black |
+|     Castle athletic U9     | 0 &mdash; 2 | Swanscombe Tigers U9 Black |
 
  <br /><br /><br />
