@@ -13,5 +13,6 @@ exclude: true
 |  Barming U8 Colts   | 0 &mdash; 0 | K Sports U8 United |
 | K Sports U8 United  | 0 &mdash; 0 |  Vinters Rangers   |
 | Rusthall U8 Rockets | 4 &mdash; 0 | K Sports U8 United |
+| K Sports U8 United  | 0 &mdash; 1 |  Castle Wanderers  |
 
  <br /><br /><br />

@@ -12,6 +12,6 @@ exclude: true
 | Barming U10 Blues | 0 &mdash; 1 |          Charing U10 White          |
 | Barming U10 Blues | 0 &mdash; 1 | Tunbridge Wells Foresters Firehawks |
 | Barming U10 Blues | 1 &mdash; 4 |            Rusthall City            |
-| Barming Youth U10 | 0 &mdash; 2 |          Barming U10 Blues          |
+| Barming Youth U10 | 1 &mdash; 0 |          Barming U10 Blues          |
 
  <br /><br /><br />
