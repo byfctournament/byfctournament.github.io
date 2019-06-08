@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2019-06-08 11:47:57 
+#### Updated 2019-06-08 12:11:17 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -16,12 +16,12 @@ Click on the results summary to see individual match results.
 |         Team          | Played |                                                                                 Results                                                                                  | Points |
 |:---------------------:|:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |     Ashford FC U7     |  6/6   |     <a href="teamres/Ashford-FC-U7.html"><font size="1">W</font>6<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   18   |
-|        MPE U7         |  4/6   |        <a href="teamres/MPE-U7.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>         |   9    |
-|   Vinters U7 Green    |  5/6   |   <a href="teamres/Vinters-U7-Green.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>    |   9    |
-| Yalding & Laddingford |  5/6   | <a href="teamres/Yalding-&-Laddingford.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   6    |
-|   Barming U7 blues    |  5/6   |   <a href="teamres/Barming-U7-blues.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   6    |
-|     Charing U7 C      |  5/6   |     <a href="teamres/Charing-U7-C.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   3    |
-|     Charing U7 A      |  4/6   |     <a href="teamres/Charing-U7-A.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   0    |
+|        MPE U7         |  6/6   |        <a href="teamres/MPE-U7.html"><font size="1">W</font>5<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>         |   15   |
+|   Vinters U7 Green    |  6/6   |   <a href="teamres/Vinters-U7-Green.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   9    |
+|   Barming U7 blues    |  6/6   |   <a href="teamres/Barming-U7-blues.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   9    |
+| Yalding & Laddingford |  6/6   | <a href="teamres/Yalding-&-Laddingford.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a> |   6    |
+|     Charing U7 C      |  6/6   |     <a href="teamres/Charing-U7-C.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   6    |
+|     Charing U7 A      |  6/6   |     <a href="teamres/Charing-U7-A.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>6<font size="1">G</font></a>      |   0    |
 
 
 ### U7 Group 2
@@ -32,8 +32,8 @@ Click on the results summary to see individual match results.
 |   Bearsted FC    |  5/5   |   <a href="teamres/Bearsted-FC.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   10   |
 | Barming Youth U7 |  5/5   | <a href="teamres/Barming-Youth-U7.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a> |   10   |
 | Vinters Park U7  |  5/5   | <a href="teamres/Vinters-Park-U7.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>  |   8    |
-|   Charing U7 B   |  4/5   |   <a href="teamres/Charing-U7-B.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>   |   0    |
-|  Hurricanes U7   |  4/5   |  <a href="teamres/Hurricanes-U7.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>   |   0    |
+|   Charing U7 B   |  5/5   |   <a href="teamres/Charing-U7-B.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>   |   3    |
+|  Hurricanes U7   |  5/5   |  <a href="teamres/Hurricanes-U7.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>5<font size="1">G</font></a>   |   0    |
 
 
 ### U8 Group 1
@@ -45,9 +45,9 @@ Click on the results summary to see individual match results.
 | Rusthall U8 Rockets |  5/6   | <a href="teamres/Rusthall-U8-Rockets.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a> |   11   |
 |    Leybourne U8     |  6/6   |    <a href="teamres/Leybourne-U8.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>     |   11   |
 |  Castle Wanderers   |  6/6   |  <a href="teamres/Castle-Wanderers.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>   |   7    |
-| Aylesford U8 colts  |  5/6   | <a href="teamres/Aylesford-U8-colts.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>  |   5    |
+| Aylesford U8 colts  |  6/6   | <a href="teamres/Aylesford-U8-colts.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>  |   6    |
 |  Barming U8 Colts   |  5/6   |  <a href="teamres/Barming-U8-Colts-.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>  |   3    |
-| K Sports U8 United  |  5/6   | <a href="teamres/K-Sports-U8-United.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>3<font size="1">G</font></a>  |   2    |
+| K Sports U8 United  |  6/6   | <a href="teamres/K-Sports-U8-United.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>3<font size="1">G</font></a>  |   3    |
 
 
 ### U8 Group 2
@@ -79,12 +79,13 @@ Click on the results summary to see individual match results.
 
 |            Team            | Played |                                                                                    Results                                                                                    | Points |
 |:--------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|     Larkfield Boys U9      |  5/5   |     <a href="teamres/Larkfield-Boys-U9.html"><font size="1">W</font>5<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>      |   15   |
 |      BARMING Youth U9      |  5/5   |      <a href="teamres/BARMING-Youth-U9.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>      |   12   |
-|     Larkfield Boys U9      |  4/5   |     <a href="teamres/Larkfield-Boys-U9.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>      |   12   |
 |     Aylesford Colts U9     |  5/5   |     <a href="teamres/Aylesford-Colts-U9.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>     |   7    |
 | Swanscombe Tigers U9 Black |  5/5   | <a href="teamres/Swanscombe-Tigers-U9-Black.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a> |   7    |
 |     Castle athletic U9     |  5/5   |    <a href="teamres/Castle-athletic-U9-.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>     |   1    |
-|     Vinters Valley U9      |  4/5   |     <a href="teamres/Vinters-Valley-U9.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>      |   1    |
+|     Vinters Valley U9      |  5/5   |     <a href="teamres/Vinters-Valley-U9.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>      |   1    |
+
 
 
 ### U9 Group 2
@@ -98,15 +99,28 @@ Click on the results summary to see individual match results.
 |      Charing U9       |  4/4   |      <a href="teamres/Charing-U9.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>       |   0    |
 
 
+
 ### U9 Group 3
 
 |         Team          | Played |                                                                                 Results                                                                                  | Points |
 |:---------------------:|:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |        MPE U9         |  4/4   |        <a href="teamres/MPE-U9.html"><font size="1">W</font>3<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>         |   11   |
-|    Barming Blue U9    |  3/4   |    <a href="teamres/Barming-Blue-U9.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   8    |
-|     USM Marly U9      |  2/4   |     <a href="teamres/USM-Marly-U9.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>      |   3    |
+|     USM Marly U9      |  4/4   |     <a href="teamres/USM-Marly-U9.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>      |   9    |
+|    Barming Blue U9    |  4/4   |    <a href="teamres/Barming-Blue-U9.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>    |   8    |
 |      K Sports U9      |  4/4   |      <a href="teamres/K-Sports-U9.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>      |   3    |
-| Vinters Valley Two U9 |  3/4   | <a href="teamres/Vinters-Valley-Two-U9.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   0    |
+| Vinters Valley Two U9 |  4/4   | <a href="teamres/Vinters-Valley-Two-U9.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a> |   0    |
+
+
+
+### U9 knock-out
+ 
+
+| Type |       Team 1        | Score |        Team 2         |
+|:----:|:-------------------:|:-----:|:---------------------:|
+|  QF  |  Larkfield Boys U9  |       |    Vinters Park U9    |
+|  QF  |       MPE U9        |       | Medway town U9 whites |
+|  QF  | Aylesford Royals U9 |       |    Barming Blue U9    |
+|  QF  |  BARMING Youth U9   |       |     USM Marly U9      |
 
 
 ### U10 Group 1

@@ -14,5 +14,6 @@ exclude: true
 |   Barming U7 blues    | 0 &mdash; 2 |   Charing U7 C   |
 |     Charing U7 A      | 0 &mdash; 2 | Barming U7 blues |
 |   Barming U7 blues    | 1 &mdash; 6 |  Ashford FC U7   |
+|   Barming U7 blues    | 1 &mdash; 0 | Vinters U7 Green |
 
  <br /><br /><br />

@@ -14,5 +14,6 @@ exclude: true
 | Barming U7 blues | 0 &mdash; 2 |     Charing U7 C      |
 |   Charing U7 C   | 0 &mdash; 3 | Yalding & Laddingford |
 |   Charing U7 C   | 0 &mdash; 4 |   Vinters U7 Green    |
+|   Charing U7 C   | 3 &mdash; 0 |     Charing U7 A      |
 
  <br /><br /><br />
