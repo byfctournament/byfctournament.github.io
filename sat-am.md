@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2019-06-08 13:06:06 
+#### Updated 2019-06-08 13:25:50 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -86,7 +86,7 @@ Click on the results summary to see individual match results.
 |  QF  | Tunbridge Wells Torpedoes | 1 &mdash; 0 |       Leybourne U8       |
 |  QF  |     K-Sports Colts U8     | 2 &mdash; 0 |     Vinters Rangers      |
 |  QF  |     Barming U8 Youth      | 2 &mdash; 1 |   Rusthall U8 Rockets    |
-|  SF  |  Maidstone Utd Youth U8   |             |     Barming U8 Youth     |
+|  SF  |  Maidstone Utd Youth U8   | 3 &mdash; 0 |     Barming U8 Youth     |
 |  SF  | Tunbridge Wells Torpedoes |             |    K-Sports Colts U8     |
 
 
@@ -175,6 +175,8 @@ Click on the results summary to see individual match results.
 |  QF  |            Rusthall City            | 2 &mdash; 0 |      Charing U10 Black      |
 |  QF  | Tunbridge Wells Foresters Firehawks | 0 &mdash; 1 | Holland’s and Blair Youth |
 |  QF  |          Charing U10 White          | 0 &mdash; 1 |      Rusthall Victors       |
+|  SF  |          Barming Youth U10          |             |        Rusthall City        |
+|  SF  |     Holland’s and Blair Youth     |             |      Rusthall Victors       |
 
 
 
