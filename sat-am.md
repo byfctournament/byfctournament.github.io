@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2019-06-08 12:44:49 
+#### Updated 2019-06-08 13:06:06 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -84,8 +84,10 @@ Click on the results summary to see individual match results.
 |:----:|:-------------------------:|:-----------:|:------------------------:|
 |  QF  |  Maidstone Utd Youth U8   | 4 &mdash; 0 | Tunbridge Wells Dynamoes |
 |  QF  | Tunbridge Wells Torpedoes | 1 &mdash; 0 |       Leybourne U8       |
-|  QF  |     K-Sports Colts U8     |             |     Vinters Rangers      |
-|  QF  |     Barming U8 Youth      |             |   Rusthall U8 Rockets    |
+|  QF  |     K-Sports Colts U8     | 2 &mdash; 0 |     Vinters Rangers      |
+|  QF  |     Barming U8 Youth      | 2 &mdash; 1 |   Rusthall U8 Rockets    |
+|  SF  |  Maidstone Utd Youth U8   |             |     Barming U8 Youth     |
+|  SF  | Tunbridge Wells Torpedoes |             |    K-Sports Colts U8     |
 
 
 ### U9 Group 1
@@ -134,7 +136,9 @@ Click on the results summary to see individual match results.
 |  QF  |  Larkfield Boys U9  | 3 &mdash; 0 |    Vinters Park U9    |
 |  QF  |       MPE U9        | 1 &mdash; 0 | Medway town U9 whites |
 |  QF  | Aylesford Royals U9 | 0 &mdash; 1 |    Barming Blue U9    |
-|  QF  |  BARMING Youth U9   |             |     USM Marly U9      |
+|  QF  |  BARMING Youth U9   | 0 &mdash; 2 |     USM Marly U9      |
+|  SF  |  Larkfield Boys U9  |             |     USM Marly U9      |
+|  SF  |       MPE U9        |             |    Barming Blue U9    |
 
 
 ### U10 Group 1
@@ -149,6 +153,7 @@ Click on the results summary to see individual match results.
 |          Barming U10 Blues          |  4/4   |          <a href="teamres/Barming-U10-Blues.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>          |   0    |
 
 
+
 ### U10 Group 2
 
 |            Team             | Played |                                                                                    Results                                                                                     | Points |
@@ -158,6 +163,18 @@ Click on the results summary to see individual match results.
 |      Charing U10 Black      |  4/4   |      <a href="teamres/Charing-U10-Black.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>      |   6    |
 |    Barming U10 Blues MK2    |  4/4   |    <a href="teamres/Barming-U10-Blues-MK2.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   2    |
 |    Tunbridge Wells Youth    |  4/4   |    <a href="teamres/Tunbridge-Wells-Youth.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   2    |
+
+
+
+### U10 knock-out
+ 
+
+| Type |               Team 1                |    Score    |           Team 2            |
+|:----:|:-----------------------------------:|:-----------:|:---------------------------:|
+|  QF  |          Barming Youth U10          | 1 &mdash; 0 |    Barming U10 Blues MK2    |
+|  QF  |            Rusthall City            | 2 &mdash; 0 |      Charing U10 Black      |
+|  QF  | Tunbridge Wells Foresters Firehawks | 0 &mdash; 1 | Holland’s and Blair Youth |
+|  QF  |          Charing U10 White          | 0 &mdash; 1 |      Rusthall Victors       |
 
 
 
