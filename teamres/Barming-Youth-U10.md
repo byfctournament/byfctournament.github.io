@@ -11,5 +11,6 @@ exclude: true
 |:-----------------:|:-----------:|:-----------------:|
 | Barming Youth U10 | 0 &mdash; 0 |   Rusthall City   |
 | Barming Youth U10 | 3 &mdash; 1 | Charing U10 White |
+| Barming Youth U10 | 0 &mdash; 2 | Barming U10 Blues |
 
  <br /><br /><br />
