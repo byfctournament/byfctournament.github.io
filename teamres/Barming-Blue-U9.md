@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|   Team 1    |  ::Score::  |     Team 2      |
-|:-----------:|:-----------:|:---------------:|
-| K Sports U9 | 0 &mdash; 3 | Barming Blue U9 |
+|        Team 1         |  ::Score::  |     Team 2      |
+|:---------------------:|:-----------:|:---------------:|
+|      K Sports U9      | 0 &mdash; 3 | Barming Blue U9 |
+| Vinters Valley Two U9 | 0 &mdash; 1 | Barming Blue U9 |
 
  <br /><br /><br />

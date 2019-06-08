@@ -11,5 +11,6 @@ exclude: true
 |:----------------:|:-----------:|:----------------:|
 | West Farleigh U7 | 0 &mdash; 0 | Vinters Park U7  |
 | Vinters Park U7  | 0 &mdash; 0 | Barming Youth U7 |
+|   Bearsted FC    | 1 &mdash; 0 | Vinters Park U7  |
 
  <br /><br /><br />

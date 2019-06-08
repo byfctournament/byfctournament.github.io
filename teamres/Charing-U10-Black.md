@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|      Team 1       |  ::Score::  |      Team 2      |
-|:-----------------:|:-----------:|:----------------:|
-| Charing U10 Black | 0 &mdash; 5 | Rusthall Victors |
+|      Team 1       |  ::Score::  |           Team 2            |
+|:-----------------:|:-----------:|:---------------------------:|
+| Charing U10 Black | 0 &mdash; 5 |      Rusthall Victors       |
+| Charing U10 Black | 0 &mdash; 1 | Holland’s and Blair Youth |
 
  <br /><br /><br />

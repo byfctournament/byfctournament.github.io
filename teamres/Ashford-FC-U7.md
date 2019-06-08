@@ -11,5 +11,6 @@ exclude: true
 |:----------------:|:-----------:|:-------------:|
 |  Ashford FC U7   | 4 &mdash; 0 | Charing U7 C  |
 | Vinters U7 Green | 0 &mdash; 6 | Ashford FC U7 |
+|      MPE U7      | 1 &mdash; 2 | Ashford FC U7 |
 
  <br /><br /><br />
