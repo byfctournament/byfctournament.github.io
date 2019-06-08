@@ -13,5 +13,6 @@ exclude: true
 |  BARMING Youth U9  | 5 &mdash; 0 | Swanscombe Tigers U9 Black |
 | Larkfield Boys U9  | 3 &mdash; 0 |      BARMING Youth U9      |
 |  BARMING Youth U9  | 5 &mdash; 0 |     Vinters Valley U9      |
+| Castle athletic U9 | 0 &mdash; 2 |      BARMING Youth U9      |
 
  <br /><br /><br />
