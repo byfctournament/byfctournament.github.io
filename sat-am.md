@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2019-06-08 10:16:23 
+#### Updated 2019-06-08 10:23:19 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -42,10 +42,10 @@ Click on the results summary to see individual match results.
 |        Team         | Played |                                                                                Results                                                                                 | Points |
 |:-------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |    Leybourne U8     |  3/6   |    <a href="teamres/Leybourne-U8.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   9    |
-| Rusthall U8 Rockets |  2/6   | <a href="teamres/Rusthall-U8-Rockets.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   6    |
-|   Vinters Rangers   |  2/6   |   <a href="teamres/Vinters-Rangers.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>   |   6    |
-| K Sports U8 United  |  1/6   | <a href="teamres/K-Sports-U8-United.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   0    |
-|  Barming U8 Colts   |  2/6   |  <a href="teamres/Barming-U8-Colts-.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>  |   0    |
+| Rusthall U8 Rockets |  3/6   | <a href="teamres/Rusthall-U8-Rockets.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a> |   7    |
+|   Vinters Rangers   |  3/6   |   <a href="teamres/Vinters-Rangers.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>   |   7    |
+| K Sports U8 United  |  2/6   | <a href="teamres/K-Sports-U8-United.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>  |   1    |
+|  Barming U8 Colts   |  3/6   |  <a href="teamres/Barming-U8-Colts-.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>  |   1    |
 |  Castle Wanderers   |  2/6   |  <a href="teamres/Castle-Wanderers.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   0    |
 | Aylesford U8 colts  |  2/6   | <a href="teamres/Aylesford-U8-colts.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>  |   0    |
 
@@ -66,12 +66,12 @@ Click on the results summary to see individual match results.
 
 |           Team            | Played |                                                                                   Results                                                                                    | Points |
 |:-------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|     K-Sports Colts U8     |  3/5   |     <a href="teamres/K-Sports-Colts-U8.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   8    |
-| Tunbridge Wells Torpedoes |  2/5   | <a href="teamres/Tunbridge-Wells-Torpedoes.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   5    |
+|     K-Sports Colts U8     |  4/5   |     <a href="teamres/K-Sports-Colts-U8.html"><font size="1">W</font>3<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   11   |
+| Tunbridge Wells Torpedoes |  3/5   | <a href="teamres/Tunbridge-Wells-Torpedoes.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   8    |
 |      Castle Athletic      |  3/5   |      <a href="teamres/Castle-Athletic.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>      |   4    |
-|    Hartley De Sales U8    |  2/5   |    <a href="teamres/Hartley-De-Sales-U8.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>    |   3    |
-|      Rochester FC U8      |  2/5   |      <a href="teamres/Rochester-FC-U8.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>      |   1    |
-|     Barming U8 Blues      |  2/5   |     <a href="teamres/Barming-U8-Blues.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>      |   0    |
+|    Hartley De Sales U8    |  3/5   |    <a href="teamres/Hartley-De-Sales-U8.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>    |   3    |
+|     Barming U8 Blues      |  4/5   |     <a href="teamres/Barming-U8-Blues.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>      |   3    |
+|      Rochester FC U8      |  3/5   |      <a href="teamres/Rochester-FC-U8.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>      |   1    |
 
 
 ### U9 Group 1
