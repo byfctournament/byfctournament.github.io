@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2019-06-08 11:24:32 
+#### Updated 2019-06-08 11:31:24 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -18,8 +18,8 @@ Click on the results summary to see individual match results.
 |     Ashford FC U7     |  5/6   |     <a href="teamres/Ashford-FC-U7.html"><font size="1">W</font>5<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   15   |
 |        MPE U7         |  4/6   |        <a href="teamres/MPE-U7.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>         |   9    |
 |   Vinters U7 Green    |  5/6   |   <a href="teamres/Vinters-U7-Green.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>    |   9    |
-| Yalding & Laddingford |  4/6   | <a href="teamres/Yalding-&-Laddingford.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a> |   6    |
-|   Barming U7 blues    |  3/6   |   <a href="teamres/Barming-U7-blues.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>    |   3    |
+| Yalding & Laddingford |  5/6   | <a href="teamres/Yalding-&-Laddingford.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   6    |
+|   Barming U7 blues    |  4/6   |   <a href="teamres/Barming-U7-blues.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>    |   6    |
 |     Charing U7 C      |  5/6   |     <a href="teamres/Charing-U7-C.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   3    |
 |     Charing U7 A      |  4/6   |     <a href="teamres/Charing-U7-A.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   0    |
 
@@ -55,10 +55,10 @@ Click on the results summary to see individual match results.
 |           Team           | Played |                                                                                   Results                                                                                   | Points |
 |:------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |  Maidstone Utd Youth U8  |  5/5   |  <a href="teamres/Maidstone-Utd-Youth-U8.html"><font size="1">W</font>5<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>  |   15   |
+|     Barming U8 Youth     |  5/5   |     <a href="teamres/Barming-U8-Youth.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   12   |
 | Tunbridge Wells Dynamoes |  5/5   | <a href="teamres/Tunbridge-Wells-Dynamoes.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a> |   9    |
-|     Barming U8 Youth     |  4/5   |     <a href="teamres/Barming-U8-Youth.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   9    |
 |   Aylesford U8 royals    |  5/5   |   <a href="teamres/Aylesford-U8-royals.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   6    |
-|        Charing U8        |  3/5   |        <a href="teamres/Charing-U8.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>        |   0    |
+|        Charing U8        |  4/5   |        <a href="teamres/Charing-U8.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>        |   0    |
 |      K Sports Youth      |  4/5   |      <a href="teamres/K-Sports-Youth.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   0    |
 
 
@@ -92,10 +92,10 @@ Click on the results summary to see individual match results.
 |         Team          | Played |                                                                                 Results                                                                                  | Points |
 |:---------------------:|:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |  Aylesford Royals U9  |  4/4   |  <a href="teamres/Aylesford-Royals-U9.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>  |   10   |
+| Medway town U9 whites |  4/4   | <a href="teamres/Medway-town-U9-whites.html"><font size="1">W</font>1<font size="1">S</font>2<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a> |   8    |
 |    Vinters Park U9    |  3/4   |    <a href="teamres/Vinters-Park-U9.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>    |   5    |
-| Medway town U9 whites |  3/4   | <a href="teamres/Medway-town-U9-whites.html"><font size="1">W</font>0<font size="1">S</font>2<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a> |   5    |
 |      Usm Marly B      |  3/4   |      <a href="teamres/Usm-Marly-B.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>      |   5    |
-|      Charing U9       |  3/4   |      <a href="teamres/Charing-U9.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>       |   0    |
+|      Charing U9       |  4/4   |      <a href="teamres/Charing-U9.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>       |   0    |
 
 
 ### U9 Group 3
