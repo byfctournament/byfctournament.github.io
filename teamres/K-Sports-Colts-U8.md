@@ -11,5 +11,6 @@ exclude: true
 |:-------------------:|:-----------:|:-------------------------:|
 | Hartley De Sales U8 | 0 &mdash; 4 |     K-Sports Colts U8     |
 |  K-Sports Colts U8  | 1 &mdash; 1 | Tunbridge Wells Torpedoes |
+|  K-Sports Colts U8  | 4 &mdash; 0 |      Castle Athletic      |
 
  <br /><br /><br />
