@@ -13,5 +13,6 @@ exclude: true
 |    Barming U8 Youth    | 1 &mdash; 3 |  Maidstone Utd Youth U8  |
 | Maidstone Utd Youth U8 | 3 &mdash; 0 |   Aylesford U8 royals    |
 | Maidstone Utd Youth U8 | 7 &mdash; 0 |        Charing U8        |
+|     K Sports Youth     | 0 &mdash; 7 |  Maidstone Utd Youth U8  |
 
  <br /><br /><br />

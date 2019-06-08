@@ -13,5 +13,6 @@ exclude: true
 |      BARMING Youth U9      | 5 &mdash; 0 | Swanscombe Tigers U9 Black |
 |     Aylesford Colts U9     | 0 &mdash; 0 | Swanscombe Tigers U9 Black |
 |     Castle athletic U9     | 0 &mdash; 2 | Swanscombe Tigers U9 Black |
+| Swanscombe Tigers U9 Black | 0 &mdash; 1 |     Larkfield Boys U9      |
 
  <br /><br /><br />

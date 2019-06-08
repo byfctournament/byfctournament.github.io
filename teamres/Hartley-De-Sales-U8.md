@@ -13,5 +13,6 @@ exclude: true
 |    Hartley De Sales U8    | 2 &mdash; 0 |  Barming U8 Blues   |
 | Tunbridge Wells Torpedoes | 3 &mdash; 0 | Hartley De Sales U8 |
 |      Rochester FC U8      | 0 &mdash; 1 | Hartley De Sales U8 |
+|    Hartley De Sales U8    | 0 &mdash; 0 |   Castle Athletic   |
 
  <br /><br /><br />

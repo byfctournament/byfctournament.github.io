@@ -7,11 +7,12 @@ exclude: true
 
 
 
-|         Team 1         |  ::Score::  |       Team 2        |
-|:----------------------:|:-----------:|:-------------------:|
-|  Aylesford U8 royals   | 0 &mdash; 3 |  Barming U8 Youth   |
-|  Aylesford U8 royals   | 2 &mdash; 0 |     Charing U8      |
-| Maidstone Utd Youth U8 | 3 &mdash; 0 | Aylesford U8 royals |
-|     K Sports Youth     | 0 &mdash; 1 | Aylesford U8 royals |
+|         Team 1         |  ::Score::  |          Team 2          |
+|:----------------------:|:-----------:|:------------------------:|
+|  Aylesford U8 royals   | 0 &mdash; 3 |     Barming U8 Youth     |
+|  Aylesford U8 royals   | 2 &mdash; 0 |        Charing U8        |
+| Maidstone Utd Youth U8 | 3 &mdash; 0 |   Aylesford U8 royals    |
+|     K Sports Youth     | 0 &mdash; 1 |   Aylesford U8 royals    |
+|  Aylesford U8 royals   | 1 &mdash; 4 | Tunbridge Wells Dynamoes |
 
  <br /><br /><br />
