@@ -13,5 +13,6 @@ exclude: true
 |  Vinters Rangers   | 2 &mdash; 0 |  Barming U8 Colts   |
 |  Vinters Rangers   | 0 &mdash; 0 | Rusthall U8 Rockets |
 | K Sports U8 United | 0 &mdash; 0 |   Vinters Rangers   |
+| Aylesford U8 colts | 0 &mdash; 2 |   Vinters Rangers   |
 
  <br /><br /><br />

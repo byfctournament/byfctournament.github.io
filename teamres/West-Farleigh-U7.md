@@ -13,5 +13,6 @@ exclude: true
 |  Hurricanes U7   | 0 &mdash; 3 | West Farleigh U7 |
 | West Farleigh U7 | 4 &mdash; 1 |   Charing U7 B   |
 | Barming Youth U7 | 0 &mdash; 3 | West Farleigh U7 |
+| West Farleigh U7 | 0 &mdash; 0 |   Bearsted FC    |
 
  <br /><br /><br />

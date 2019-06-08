@@ -13,5 +13,6 @@ exclude: true
 |  Castle Wanderers   | 0 &mdash; 4 | Rusthall U8 Rockets |
 |   Vinters Rangers   | 0 &mdash; 0 | Rusthall U8 Rockets |
 | Rusthall U8 Rockets | 0 &mdash; 0 |    Leybourne U8     |
+| Rusthall U8 Rockets | 4 &mdash; 0 | K Sports U8 United  |
 
  <br /><br /><br />

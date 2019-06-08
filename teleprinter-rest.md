@@ -3,7 +3,56 @@ layout: page
 title: Teleprinter (earlier)
 ---
 
-<table><tr><td>2019-06-08 10:52:22 [L] Castle Athletic [ 0 - 3 ] Tunbridge Wells Torpedoes &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Castle+Athletic+[+0+-+3+]+Tunbridge+Wells+Torpedoes&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-08 10:52:51 [L] Barming Youth U7 [ 0 - 3 ] West Farleigh U7 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Youth+U7+[+0+-+3+]+West+Farleigh+U7&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Youth+U7+[+0+-+3+]+West+Farleigh+U7
+  &description=[L]+Barming+Youth+U7+[+0+-+3+]+West+Farleigh+U7" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 10:52:51 [L] Barming Youth U7 [ 0 - 3 ] West Farleigh U7 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Youth+U7+[+0+-+3+]+West+Farleigh+U7&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Youth+U7+[+0+-+3+]+West+Farleigh+U7
+  &description=[L]+Barming+Youth+U7+[+0+-+3+]+West+Farleigh+U7" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 10:52:43 [L] Barming Youth U10 [ 0 - 2 ] Barming U10 Blues &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Youth+U10+[+0+-+2+]+Barming+U10+Blues&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Youth+U10+[+0+-+2+]+Barming+U10+Blues
+  &description=[L]+Barming+Youth+U10+[+0+-+2+]+Barming+U10+Blues" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 10:52:43 [L] Barming Youth U10 [ 0 - 2 ] Barming U10 Blues &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Youth+U10+[+0+-+2+]+Barming+U10+Blues&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Youth+U10+[+0+-+2+]+Barming+U10+Blues
+  &description=[L]+Barming+Youth+U10+[+0+-+2+]+Barming+U10+Blues" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 10:52:33 [L] Castle Wanderers [ 4 - 1 ] Barming U8 Colts  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Castle+Wanderers+[+4+-+1+]+Barming+U8+Colts+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Castle+Wanderers+[+4+-+1+]+Barming+U8+Colts+
+  &description=[L]+Castle+Wanderers+[+4+-+1+]+Barming+U8+Colts+" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 10:52:32 [L] Castle Wanderers [ 4 - 1 ] Barming U8 Colts  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Castle+Wanderers+[+4+-+1+]+Barming+U8+Colts+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Castle+Wanderers+[+4+-+1+]+Barming+U8+Colts+
+  &description=[L]+Castle+Wanderers+[+4+-+1+]+Barming+U8+Colts+" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 10:52:23 [L] Castle Athletic [ 0 - 3 ] Tunbridge Wells Torpedoes &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Castle+Athletic+[+0+-+3+]+Tunbridge+Wells+Torpedoes&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Castle+Athletic+[+0+-+3+]+Tunbridge+Wells+Torpedoes
+  &description=[L]+Castle+Athletic+[+0+-+3+]+Tunbridge+Wells+Torpedoes" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 10:52:22 [L] Castle Athletic [ 0 - 3 ] Tunbridge Wells Torpedoes &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Castle+Athletic+[+0+-+3+]+Tunbridge+Wells+Torpedoes&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Castle+Athletic+[+0+-+3+]+Tunbridge+Wells+Torpedoes
