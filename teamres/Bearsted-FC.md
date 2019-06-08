@@ -12,5 +12,6 @@ exclude: true
 | Bearsted FC  | 1 &mdash; 2 | Barming Youth U7 |
 | Charing U7 B | 0 &mdash; 5 |   Bearsted FC    |
 | Bearsted FC  | 1 &mdash; 0 | Vinters Park U7  |
+| Bearsted FC  | 7 &mdash; 0 |  Hurricanes U7   |
 
  <br /><br /><br />

@@ -6,8 +6,10 @@ exclude: true
 ---
 
 
-|            |               |            |
-|:----------:|:-------------:|:----------:|
-| **Team 1** | **::Score::** | **Team 2** |
+
+|        Team 1         |  ::Score::  |   Team 2    |
+|:---------------------:|:-----------:|:-----------:|
+| Medway town U9 whites | 2 &mdash; 2 | Usm Marly B |
+|      Usm Marly B      | 1 &mdash; 0 | Charing U9  |
 
  <br /><br /><br />
