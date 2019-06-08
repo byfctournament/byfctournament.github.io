@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2019-06-08 12:11:17 
+#### Updated 2019-06-08 12:44:49 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -41,13 +41,14 @@ Click on the results summary to see individual match results.
 
 |        Team         | Played |                                                                                Results                                                                                 | Points |
 |:-------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Rusthall U8 Rockets |  6/6   | <a href="teamres/Rusthall-U8-Rockets.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a> |   14   |
 |   Vinters Rangers   |  6/6   |   <a href="teamres/Vinters-Rangers.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>   |   14   |
-| Rusthall U8 Rockets |  5/6   | <a href="teamres/Rusthall-U8-Rockets.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a> |   11   |
 |    Leybourne U8     |  6/6   |    <a href="teamres/Leybourne-U8.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>     |   11   |
 |  Castle Wanderers   |  6/6   |  <a href="teamres/Castle-Wanderers.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>   |   7    |
 | Aylesford U8 colts  |  6/6   | <a href="teamres/Aylesford-U8-colts.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>  |   6    |
-|  Barming U8 Colts   |  5/6   |  <a href="teamres/Barming-U8-Colts-.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>  |   3    |
+|  Barming U8 Colts   |  6/6   |  <a href="teamres/Barming-U8-Colts-.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>  |   3    |
 | K Sports U8 United  |  6/6   | <a href="teamres/K-Sports-U8-United.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>3<font size="1">G</font></a>  |   3    |
+
 
 
 ### U8 Group 2
@@ -62,6 +63,7 @@ Click on the results summary to see individual match results.
 |        Charing U8        |  5/5   |        <a href="teamres/Charing-U8.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>5<font size="1">G</font></a>        |   0    |
 
 
+
 ### U8 Group 3
 
 |           Team            | Played |                                                                                   Results                                                                                    | Points |
@@ -72,6 +74,18 @@ Click on the results summary to see individual match results.
 |      Castle Athletic      |  5/5   |      <a href="teamres/Castle-Athletic.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>      |   5    |
 |     Barming U8 Blues      |  5/5   |     <a href="teamres/Barming-U8-Blues.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   3    |
 |      Rochester FC U8      |  5/5   |      <a href="teamres/Rochester-FC-U8.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>      |   1    |
+
+
+
+### U8 knock-out
+ 
+
+| Type |          Team 1           |    Score    |          Team 2          |
+|:----:|:-------------------------:|:-----------:|:------------------------:|
+|  QF  |  Maidstone Utd Youth U8   | 4 &mdash; 0 | Tunbridge Wells Dynamoes |
+|  QF  | Tunbridge Wells Torpedoes | 1 &mdash; 0 |       Leybourne U8       |
+|  QF  |     K-Sports Colts U8     |             |     Vinters Rangers      |
+|  QF  |     Barming U8 Youth      |             |   Rusthall U8 Rockets    |
 
 
 ### U9 Group 1
@@ -115,12 +129,12 @@ Click on the results summary to see individual match results.
 ### U9 knock-out
  
 
-| Type |       Team 1        | Score |        Team 2         |
-|:----:|:-------------------:|:-----:|:---------------------:|
-|  QF  |  Larkfield Boys U9  |       |    Vinters Park U9    |
-|  QF  |       MPE U9        |       | Medway town U9 whites |
-|  QF  | Aylesford Royals U9 |       |    Barming Blue U9    |
-|  QF  |  BARMING Youth U9   |       |     USM Marly U9      |
+| Type |       Team 1        |    Score    |        Team 2         |
+|:----:|:-------------------:|:-----------:|:---------------------:|
+|  QF  |  Larkfield Boys U9  | 3 &mdash; 0 |    Vinters Park U9    |
+|  QF  |       MPE U9        | 1 &mdash; 0 | Medway town U9 whites |
+|  QF  | Aylesford Royals U9 | 0 &mdash; 1 |    Barming Blue U9    |
+|  QF  |  BARMING Youth U9   |             |     USM Marly U9      |
 
 
 ### U10 Group 1

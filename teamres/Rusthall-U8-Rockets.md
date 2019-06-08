@@ -14,5 +14,6 @@ exclude: true
 |   Vinters Rangers   | 0 &mdash; 0 | Rusthall U8 Rockets |
 | Rusthall U8 Rockets | 0 &mdash; 0 |    Leybourne U8     |
 | Rusthall U8 Rockets | 4 &mdash; 0 | K Sports U8 United  |
+|  Barming U8 Colts   | 0 &mdash; 2 | Rusthall U8 Rockets |
 
  <br /><br /><br />

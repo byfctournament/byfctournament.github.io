@@ -3,7 +3,49 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-08 12:11:09 [L] Barming U7 blues [ 1 - 0 ] Vinters U7 Green &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+U7+blues+[+1+-+0+]+Vinters+U7+Green&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-08 12:44:35 [Q] MPE U9 [ 1 - 0 ] Medway town U9 whites &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+MPE+U9+[+1+-+0+]+Medway+town+U9+whites&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[Q]+MPE+U9+[+1+-+0+]+Medway+town+U9+whites
+  &description=[Q]+MPE+U9+[+1+-+0+]+Medway+town+U9+whites" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 12:44:23 [Q] Larkfield Boys U9 [ 3 - 0 ] Vinters Park U9 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Larkfield+Boys+U9+[+3+-+0+]+Vinters+Park+U9&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[Q]+Larkfield+Boys+U9+[+3+-+0+]+Vinters+Park+U9
+  &description=[Q]+Larkfield+Boys+U9+[+3+-+0+]+Vinters+Park+U9" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 12:44:04 [Q] Aylesford Royals U9 [ 0 - 1 ] Barming Blue U9 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Aylesford+Royals+U9+[+0+-+1+]+Barming+Blue+U9&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[Q]+Aylesford+Royals+U9+[+0+-+1+]+Barming+Blue+U9
+  &description=[Q]+Aylesford+Royals+U9+[+0+-+1+]+Barming+Blue+U9" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 12:43:45 [Q] Tunbridge Wells Torpedoes [ 1 - 0 ] Leybourne U8 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Tunbridge+Wells+Torpedoes+[+1+-+0+]+Leybourne+U8&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[Q]+Tunbridge+Wells+Torpedoes+[+1+-+0+]+Leybourne+U8
+  &description=[Q]+Tunbridge+Wells+Torpedoes+[+1+-+0+]+Leybourne+U8" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 12:43:28 [Q] Maidstone Utd Youth U8 [ 4 - 0 ] Tunbridge Wells Dynamoes &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Maidstone+Utd+Youth+U8+[+4+-+0+]+Tunbridge+Wells+Dynamoes&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[Q]+Maidstone+Utd+Youth+U8+[+4+-+0+]+Tunbridge+Wells+Dynamoes
+  &description=[Q]+Maidstone+Utd+Youth+U8+[+4+-+0+]+Tunbridge+Wells+Dynamoes" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 12:13:06 [L] Barming U8 Colts  [ 0 - 2 ] Rusthall U8 Rockets &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+U8+Colts++[+0+-+2+]+Rusthall+U8+Rockets&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+U8+Colts++[+0+-+2+]+Rusthall+U8+Rockets
+  &description=[L]+Barming+U8+Colts++[+0+-+2+]+Rusthall+U8+Rockets" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 12:11:09 [L] Barming U7 blues [ 1 - 0 ] Vinters U7 Green &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+U7+blues+[+1+-+0+]+Vinters+U7+Green&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Barming+U7+blues+[+1+-+0+]+Vinters+U7+Green
@@ -169,47 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Charing+U8+[+0+-+11+]+Barming+U8+Youth
   &description=[L]+Charing+U8+[+0+-+11+]+Barming+U8+Youth" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-08 11:27:25 [L] Yalding & Laddingford [ 1 - 2 ] Barming U7 blues &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Yalding+&+Laddingford+[+1+-+2+]+Barming+U7+blues&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Yalding+&+Laddingford+[+1+-+2+]+Barming+U7+blues
-  &description=[L]+Yalding+&+Laddingford+[+1+-+2+]+Barming+U7+blues" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-08 11:24:26 [L] Castle Wanderers [ 0 - 0 ] Leybourne U8 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Castle+Wanderers+[+0+-+0+]+Leybourne+U8&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Castle+Wanderers+[+0+-+0+]+Leybourne+U8
-  &description=[L]+Castle+Wanderers+[+0+-+0+]+Leybourne+U8" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-08 11:24:19 [L] Castle Wanderers [ 0 - 0 ] Leybourne U8 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Castle+Wanderers+[+0+-+0+]+Leybourne+U8&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Castle+Wanderers+[+0+-+0+]+Leybourne+U8
-  &description=[L]+Castle+Wanderers+[+0+-+0+]+Leybourne+U8" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-08 11:24:05 [L] Barming U8 Colts  [ 1 - 1 ] Aylesford U8 colts &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+U8+Colts++[+1+-+1+]+Aylesford+U8+colts&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Barming+U8+Colts++[+1+-+1+]+Aylesford+U8+colts
-  &description=[L]+Barming+U8+Colts++[+1+-+1+]+Aylesford+U8+colts" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-08 11:23:49 [L] Vinters Valley U9 [ 0 - 0 ] Castle athletic U9  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Vinters+Valley+U9+[+0+-+0+]+Castle+athletic+U9+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Vinters+Valley+U9+[+0+-+0+]+Castle+athletic+U9+
-  &description=[L]+Vinters+Valley+U9+[+0+-+0+]+Castle+athletic+U9+" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-08 11:23:35 [L] Vinters Valley U9 [ 0 - 4 ] Aylesford Colts U9 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Vinters+Valley+U9+[+0+-+4+]+Aylesford+Colts+U9&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Vinters+Valley+U9+[+0+-+4+]+Aylesford+Colts+U9
-  &description=[L]+Vinters+Valley+U9+[+0+-+4+]+Aylesford+Colts+U9" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>
