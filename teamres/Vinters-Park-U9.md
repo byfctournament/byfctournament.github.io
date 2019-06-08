@@ -12,5 +12,6 @@ exclude: true
 |    Vinters Park U9    | 0 &mdash; 1 | Aylesford Royals U9 |
 |      Charing U9       | 1 &mdash; 2 |   Vinters Park U9   |
 | Medway town U9 whites | 1 &mdash; 1 |   Vinters Park U9   |
+|    Vinters Park U9    | 1 &mdash; 0 |     Usm Marly B     |
 
  <br /><br /><br />
