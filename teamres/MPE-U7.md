@@ -7,8 +7,9 @@ exclude: true
 
 
 
-| Team 1 |  ::Score::  |      Team 2      |
-|:------:|:-----------:|:----------------:|
-| MPE U7 | 3 &mdash; 0 | Barming U7 blues |
+|    Team 1    |  ::Score::  |      Team 2      |
+|:------------:|:-----------:|:----------------:|
+|    MPE U7    | 3 &mdash; 0 | Barming U7 blues |
+| Charing U7 C | 0 &mdash; 6 |      MPE U7      |
 
  <br /><br /><br />

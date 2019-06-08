@@ -6,8 +6,9 @@ exclude: true
 ---
 
 
-|            |               |            |
-|:----------:|:-------------:|:----------:|
-| **Team 1** | **::Score::** | **Team 2** |
+
+|      Team 1       |  ::Score::  |      Team 2      |
+|:-----------------:|:-----------:|:----------------:|
+| Charing U10 Black | 0 &mdash; 5 | Rusthall Victors |
 
  <br /><br /><br />
