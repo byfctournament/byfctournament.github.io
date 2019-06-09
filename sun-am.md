@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 12:15:00 
+#### Updated 2019-06-09 12:22:37 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
