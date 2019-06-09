@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 11:32:29 
+#### Updated 2019-06-09 11:37:36 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -110,6 +110,7 @@ Click on the results summary to see individual match results.
 |   Barming Bandits   |  4/4   |   <a href="teamres/Barming-Bandits.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>   |   2    |
 
 
+
 ### Vets Group 2
 
 |         Team         | Played |                                                                                 Results                                                                                 | Points |
@@ -118,6 +119,18 @@ Click on the results summary to see individual match results.
 |       Heath FC       |  3/3   |       <a href="teamres/Heath-FC.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>       |   6    |
 | K Sports Vets GREENS |  3/3   | <a href="teamres/K-Sports-Vets-GREENS.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>0<font size="1">G</font></a> |   3    |
 |    Barming TNV X     |  3/3   |    <a href="teamres/Barming-TNV-X.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>     |   1    |
+
+
+
+### Vets knock-out
+ 
+
+| Type |       Team 1        | Score |        Team 2        |
+|:----:|:-------------------:|:-----:|:--------------------:|
+|  QF  | K Sports Vets BLUES |       |    Barming TNV X     |
+|  QF  | K Sports Vets REDS  |       | K Sports Vets GREENS |
+|  QF  |  Barming Old Boys   |       |       Heath FC       |
+|  QF  |    Barming TNV Y    |       |     Barming Duds     |
 
 
 
