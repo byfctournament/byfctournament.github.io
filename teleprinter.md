@@ -3,7 +3,35 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 13:13:24 [F] K Sports Vets BLUES [ 1 - 2 ] Barming Old Boys &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+K+Sports+Vets+BLUES+[+1+-+2+]+Barming+Old+Boys&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 14:10:19 [L] Barming Mens B [ 0 - 1 ] Larkfield Men Res Plus &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Mens+B+[+0+-+1+]+Larkfield+Men+Res+Plus&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Mens+B+[+0+-+1+]+Larkfield+Men+Res+Plus
+  &description=[L]+Barming+Mens+B+[+0+-+1+]+Larkfield+Men+Res+Plus" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:10:11 [L] Barming Mens B [ 0 - 1 ] Barming Fenerbackache &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Mens+B+[+0+-+1+]+Barming+Fenerbackache&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Mens+B+[+0+-+1+]+Barming+Fenerbackache
+  &description=[L]+Barming+Mens+B+[+0+-+1+]+Barming+Fenerbackache" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:10:03 [L] Barming Mens Youth C [ 1 - 0 ] Barming Mens B &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B
+  &description=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:09:54 [L] Barming Mens B [ 0 - 1 ] Mens Blues Panthers &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Mens+B+[+0+-+1+]+Mens+Blues+Panthers&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Mens+B+[+0+-+1+]+Mens+Blues+Panthers
+  &description=[L]+Barming+Mens+B+[+0+-+1+]+Mens+Blues+Panthers" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 13:13:24 [F] K Sports Vets BLUES [ 1 - 2 ] Barming Old Boys &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+K+Sports+Vets+BLUES+[+1+-+2+]+Barming+Old+Boys&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[F]+K+Sports+Vets+BLUES+[+1+-+2+]+Barming+Old+Boys
@@ -183,33 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Cray+Valley+(PM)+Ladies++[+0+-+1+]+Burgess+Hill+Town+Green
   &description=[L]+Cray+Valley+(PM)+Ladies++[+0+-+1+]+Burgess+Hill+Town+Green" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 11:17:29 [L] K Sports Vets BLUES [ 1 - 0 ] Barming TNV Y &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+K+Sports+Vets+BLUES+[+1+-+0+]+Barming+TNV+Y&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+K+Sports+Vets+BLUES+[+1+-+0+]+Barming+TNV+Y
-  &description=[L]+K+Sports+Vets+BLUES+[+1+-+0+]+Barming+TNV+Y" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 11:17:16 [L] Barming Old Boys [ 1 - 0 ] K Sports Vets REDS &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Old+Boys+[+1+-+0+]+K+Sports+Vets+REDS&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Barming+Old+Boys+[+1+-+0+]+K+Sports+Vets+REDS
-  &description=[L]+Barming+Old+Boys+[+1+-+0+]+K+Sports+Vets+REDS" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 11:17:01 [L] Barming Reds [ 1 - 3 ] Biddenden Juniors U14 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Reds+[+1+-+3+]+Biddenden+Juniors+U14&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Barming+Reds+[+1+-+3+]+Biddenden+Juniors+U14
-  &description=[L]+Barming+Reds+[+1+-+3+]+Biddenden+Juniors+U14" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 11:09:47 [L] Oasis Ladies Red [ 2 - 3 ] Barming Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Oasis+Ladies+Red+[+2+-+3+]+Barming+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Oasis+Ladies+Red+[+2+-+3+]+Barming+Blue
-  &description=[L]+Oasis+Ladies+Red+[+2+-+3+]+Barming+Blue" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>
