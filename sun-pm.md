@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 16:17:26 
+#### Updated 2019-06-09 16:41:12 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -37,12 +37,12 @@ Click on the results summary to see individual match results.
 ### U16 knock-out
  
 
-| Type |      Team 1       | Score |      Team 2       |
-|:----:|:-----------------:|:-----:|:-----------------:|
-|  QF  |   Barming Bears   |       |   Barming Bulls   |
-|  QF  |   East Peckham    |       | Barming Spitfires |
-|  QF  | Chatham Town Blue |       | Chatham Town Red  |
-|  QF  | Park Farm Rangers |       |     EP United     |
+| Type |      Team 1       |    Score    |      Team 2       |
+|:----:|:-----------------:|:-----------:|:-----------------:|
+|  QF  |   Barming Bears   |             |   Barming Bulls   |
+|  QF  |   East Peckham    | 1 &mdash; 0 | Barming Spitfires |
+|  QF  | Chatham Town Blue | 1 &mdash; 2 | Chatham Town Red  |
+|  QF  | Park Farm Rangers | 0 &mdash; 1 |     EP United     |
 
 
 ### U16 Girls Group 1
@@ -74,10 +74,12 @@ Click on the results summary to see individual match results.
 
 | Type |            Team 1             |    Score    |              Team 2              |
 |:----:|:-----------------------------:|:-----------:|:--------------------------------:|
-|  QF  |     Junior Reds U15 Roses     |             |      Heybridge Swift Girls       |
+|  QF  |     Junior Reds U15 Roses     | 6 &mdash; 0 |      Heybridge Swift Girls       |
 |  QF  |  Grasshoppers JFC U16 girls   | 0 &mdash; 1 |       Gravesham Girls U16        |
-|  QF  | Maidstone Utd Women U16 Amber |             |   Maidstone whites U16 ladies    |
+|  QF  | Maidstone Utd Women U16 Amber | 1 &mdash; 3 |   Maidstone whites U16 ladies    |
 |  QF  |       Barming U16 Girls       | 1 &mdash; 4 | Maidstone United U15 Girls Amber |
+|  SF  |     Junior Reds U15 Roses     |             |       Gravesham Girls U16        |
+|  SF  |  Maidstone whites U16 ladies  |             | Maidstone United U15 Girls Amber |
 
 
 ### U18 Group 1
@@ -120,11 +122,12 @@ Click on the results summary to see individual match results.
 
 |             Team             | Played |                                                                                     Results                                                                                      | Points |
 |:----------------------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|        Barming MENS A        |  4/4   |        <a href="teamres/Barming-MENS-A.html"><font size="1">W</font>3<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>         |   11   |
 |         Barnhurst FC         |  4/4   |         <a href="teamres/Barnhurst-FC.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>          |   9    |
-|        Barming MENS A        |  3/4   |        <a href="teamres/Barming-MENS-A.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>         |   8    |
 |          EU Barming          |  4/4   |          <a href="teamres/EU-Barming.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>           |   4    |
-|      Larkfield Men Res       |  3/4   |       <a href="teamres/Larkfield-Men-Res.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>       |   2    |
+|      Larkfield Men Res       |  4/4   |       <a href="teamres/Larkfield-Men-Res.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>       |   2    |
 | Barming Mens Blues Lightning |  4/4   | <a href="teamres/Barming-Mens-Blues-Lightning-.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a> |   2    |
+
 
 
 ### Men Group 2
@@ -136,6 +139,18 @@ Click on the results summary to see individual match results.
 |  Mens Blues Panthers   |  4/4   |  <a href="teamres/Mens-Blues-Panthers.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   6    |
 | Larkfield Men Res Plus |  4/4   | <a href="teamres/Larkfield-Men-Res-Plus.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a> |   4    |
 |     Barming Mens B     |  4/4   |     <a href="teamres/Barming-Mens-B.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>     |   0    |
+
+
+
+### Men knock-out
+ 
+
+| Type |      Team 1       | Score |         Team 2         |
+|:----:|:-----------------:|:-----:|:----------------------:|
+|  QF  |  Barming MENS A   |       | Larkfield Men Res Plus |
+|  QF  |   Barnhurst FC    |       |  Mens Blues Panthers   |
+|  QF  |    EU Barming     |       |  Barming Mens Youth C  |
+|  QF  | Larkfield Men Res |       | Barming Fenerbackache  |
 
 
 
