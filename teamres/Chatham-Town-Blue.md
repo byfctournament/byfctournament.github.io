@@ -6,8 +6,9 @@ exclude: true
 ---
 
 
-|            |               |            |
-|:----------:|:-------------:|:----------:|
-| **Team 1** | **::Score::** | **Team 2** |
+
+|      Team 1       |  ::Score::  |    Team 2     |
+|:-----------------:|:-----------:|:-------------:|
+| Chatham Town Blue | 1 &mdash; 2 | Barming Bears |
 
  <br /><br /><br />

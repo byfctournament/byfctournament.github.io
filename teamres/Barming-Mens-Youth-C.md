@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|        Team 1        |  ::Score::  |     Team 2     |
-|:--------------------:|:-----------:|:--------------:|
-| Barming Mens Youth C | 1 &mdash; 0 | Barming Mens B |
+|        Team 1         |  ::Score::  |        Team 2        |
+|:---------------------:|:-----------:|:--------------------:|
+| Barming Fenerbackache | 2 &mdash; 0 | Barming Mens Youth C |
+| Barming Mens Youth C  | 1 &mdash; 0 |    Barming Mens B    |
 
  <br /><br /><br />
