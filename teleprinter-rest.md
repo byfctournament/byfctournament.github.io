@@ -3,7 +3,70 @@ layout: page
 title: Teleprinter (earlier)
 ---
 
-<table><tr><td>2019-06-08 13:05:51 [Q] Tunbridge Wells Foresters Firehawks [ 0 - 1 ] Holland’s and Blair Youth &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Tunbridge+Wells+Foresters+Firehawks+[+0+-+1+]+Holland’s+and+Blair+Youth&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 09:16:40 [L] Burgess Hill Town Red [ 0 - 1 ] Belhus Ladies A &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Burgess+Hill+Town+Red+[+0+-+1+]+Belhus+Ladies+A&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Burgess+Hill+Town+Red+[+0+-+1+]+Belhus+Ladies+A
+  &description=[L]+Burgess+Hill+Town+Red+[+0+-+1+]+Belhus+Ladies+A" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 09:16:27 [L] Otford United Juniors A [ 0 - 2 ] Eastbourne Borough Red  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Otford+United+Juniors+A+[+0+-+2+]+Eastbourne+Borough+Red+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Otford+United+Juniors+A+[+0+-+2+]+Eastbourne+Borough+Red+
+  &description=[L]+Otford+United+Juniors+A+[+0+-+2+]+Eastbourne+Borough+Red+" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 09:16:12 [L] Barming Bandits [ 0 - 0 ] Barming TNV Y &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Bandits+[+0+-+0+]+Barming+TNV+Y&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Bandits+[+0+-+0+]+Barming+TNV+Y
+  &description=[L]+Barming+Bandits+[+0+-+0+]+Barming+TNV+Y" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 09:15:56 [L] Barming Duds [ 1 - 1 ] Heath FC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Duds+[+1+-+1+]+Heath+FC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Duds+[+1+-+1+]+Heath+FC
+  &description=[L]+Barming+Duds+[+1+-+1+]+Heath+FC" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 09:15:39 [L] Chatham Riverside Rovers U15 [ 0 - 0 ] Bredhurst Juniors &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Chatham+Riverside+Rovers+U15+[+0+-+0+]+Bredhurst+Juniors&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Chatham+Riverside+Rovers+U15+[+0+-+0+]+Bredhurst+Juniors
+  &description=[L]+Chatham+Riverside+Rovers+U15+[+0+-+0+]+Bredhurst+Juniors" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 09:15:02 [L] Coxheath & Farleigh U15 [ 0 - 0 ] Barming Blues U15 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Coxheath+&+Farleigh+U15+[+0+-+0+]+Barming+Blues+U15&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Coxheath+&+Farleigh+U15+[+0+-+0+]+Barming+Blues+U15
+  &description=[L]+Coxheath+&+Farleigh+U15+[+0+-+0+]+Barming+Blues+U15" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 09:13:15 [L] Barming Blues U14 [ 0 - 1 ] Barming Youth &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Blues+U14+[+0+-+1+]+Barming+Youth&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Blues+U14+[+0+-+1+]+Barming+Youth
+  &description=[L]+Barming+Blues+U14+[+0+-+1+]+Barming+Youth" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 13:25:46 [S] Maidstone Utd Youth U8 [ 3 - 0 ] Barming U8 Youth &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Maidstone+Utd+Youth+U8+[+3+-+0+]+Barming+U8+Youth&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[S]+Maidstone+Utd+Youth+U8+[+3+-+0+]+Barming+U8+Youth
+  &description=[S]+Maidstone+Utd+Youth+U8+[+3+-+0+]+Barming+U8+Youth" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 13:06:00 [Q] Rusthall City [ 2 - 0 ] Charing U10 Black &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Rusthall+City+[+2+-+0+]+Charing+U10+Black&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[Q]+Rusthall+City+[+2+-+0+]+Charing+U10+Black
+  &description=[Q]+Rusthall+City+[+2+-+0+]+Charing+U10+Black" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-08 13:05:51 [Q] Tunbridge Wells Foresters Firehawks [ 0 - 1 ] Holland’s and Blair Youth &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Tunbridge+Wells+Foresters+Firehawks+[+0+-+1+]+Holland’s+and+Blair+Youth&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[Q]+Tunbridge+Wells+Foresters+Firehawks+[+0+-+1+]+Holland’s+and+Blair+Youth
