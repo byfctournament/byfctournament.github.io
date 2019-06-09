@@ -13,5 +13,6 @@ exclude: true
 |   Eastbourne United   | 0 &mdash; 0 | Bexhill United LFC |
 |    Belhus Ladies A    | 0 &mdash; 1 | Eastbourne United  |
 | Burgess Hill Town Red | 0 &mdash; 1 | Eastbourne United  |
+|   Eastbourne United   | 1 &mdash; 1 |   Barming White    |
 
  <br /><br /><br />

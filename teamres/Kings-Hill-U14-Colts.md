@@ -13,5 +13,6 @@ exclude: true
 |    Barming Youth     | 2 &mdash; 1 | Kings Hill U14 Colts |
 |  Barming Blues U14   | 0 &mdash; 1 | Kings Hill U14 Colts |
 | Kings Hill U14 Colts | 0 &mdash; 1 |    Ditton Minors     |
+| Kings Hill U14 Colts | 2 &mdash; 1 |     K sports U14     |
 
  <br /><br /><br />

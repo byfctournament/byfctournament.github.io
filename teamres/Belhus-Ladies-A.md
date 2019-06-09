@@ -13,5 +13,6 @@ exclude: true
 | Burgess Hill Town Red | 0 &mdash; 1 |  Belhus Ladies A   |
 |    Belhus Ladies A    | 0 &mdash; 1 | Eastbourne United  |
 |     Barming White     | 0 &mdash; 1 |  Belhus Ladies A   |
+|   Oasis Ladies Blue   | 0 &mdash; 0 |  Belhus Ladies A   |
 
  <br /><br /><br />

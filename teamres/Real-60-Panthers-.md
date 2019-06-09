@@ -13,5 +13,6 @@ exclude: true
 | Otford United Juniors A | 0 &mdash; 0 |    Real 60 Panthers     |
 |    Real 60 Panthers     | 0 &mdash; 3 | Eastbourne Borough Red  |
 |    Real 60 Panthers     | 0 &mdash; 0 | Coxheath & Farleigh U15 |
+|    Barming Blues U15    | 0 &mdash; 1 |    Real 60 Panthers     |
 
  <br /><br /><br />

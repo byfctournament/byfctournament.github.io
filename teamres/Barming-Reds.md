@@ -12,5 +12,6 @@ exclude: true
 |      Barming Reds       | 0 &mdash; 0 | K sports U14 United |
 | Sittingbourne lions U14 | 0 &mdash; 1 |    Barming Reds     |
 |      Barming Reds       | 0 &mdash; 1 |  Hempstead Valley   |
+|       Charing U14       | 0 &mdash; 0 |    Barming Reds     |
 
  <br /><br /><br />

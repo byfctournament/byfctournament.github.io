@@ -13,5 +13,6 @@ exclude: true
 | Coxheath & Farleigh U15 | 2 &mdash; 0 |    Pilgrims FC    |
 |       Pilgrims FC       | 1 &mdash; 0 | Barming Blues U15 |
 | Eastbourne Borough Red  | 4 &mdash; 0 |    Pilgrims FC    |
+| Otford United Juniors A | 0 &mdash; 1 |    Pilgrims FC    |
 
  <br /><br /><br />

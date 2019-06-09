@@ -13,5 +13,6 @@ exclude: true
 | Oasis Ladies Blue  | 0 &mdash; 0 |     Barming White     |
 | Bexhill United LFC | 5 &mdash; 0 |     Barming White     |
 |   Barming White    | 0 &mdash; 1 |    Belhus Ladies A    |
+| Eastbourne United  | 1 &mdash; 1 |     Barming White     |
 
  <br /><br /><br />
