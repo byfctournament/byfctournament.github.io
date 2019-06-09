@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 12:22:37 
+#### Updated 2019-06-09 12:32:08 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -115,10 +115,11 @@ Click on the results summary to see individual match results.
 ### Ladies knock-out
  
 
-| Type |         Team 1          |    Score    |      Team 2       |
-|:----:|:-----------------------:|:-----------:|:-----------------:|
-|  SF  | Burgess Hill Town Green | 1 &mdash; 0 | Eastbourne United |
-|  SF  |   Bexhill United LFC    |             |    Teynham LFC    |
+| Type |         Team 1          |    Score    |       Team 2       |
+|:----:|:-----------------------:|:-----------:|:------------------:|
+|  SF  | Burgess Hill Town Green | 1 &mdash; 0 | Eastbourne United  |
+|  SF  |   Bexhill United LFC    | 1 &mdash; 0 |    Teynham LFC     |
+|  F   | Burgess Hill Town Green |             | Bexhill United LFC |
 
 
 ### Vets Group 1

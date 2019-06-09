@@ -3,7 +3,14 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 12:13:04 [Q] Barming Old Boys [ 1 - 0 ] Heath FC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Barming+Old+Boys+[+1+-+0+]+Heath+FC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 12:26:19 [S] Bexhill United LFC [ 1 - 0 ] Teynham LFC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Bexhill+United+LFC+[+1+-+0+]+Teynham+LFC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[S]+Bexhill+United+LFC+[+1+-+0+]+Teynham+LFC
+  &description=[S]+Bexhill+United+LFC+[+1+-+0+]+Teynham+LFC" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 12:13:04 [Q] Barming Old Boys [ 1 - 0 ] Heath FC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Barming+Old+Boys+[+1+-+0+]+Heath+FC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[Q]+Barming+Old+Boys+[+1+-+0+]+Heath+FC
@@ -204,12 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Mersham+[+2+-+0+]+Barming+Blues+U14
   &description=[L]+Mersham+[+2+-+0+]+Barming+Blues+U14" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:57:55 [L] Belhus Ladies B [ 4 - 0 ] Burgess Hill Town Green &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Belhus+Ladies+B+[+4+-+0+]+Burgess+Hill+Town+Green&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Belhus+Ladies+B+[+4+-+0+]+Burgess+Hill+Town+Green
-  &description=[L]+Belhus+Ladies+B+[+4+-+0+]+Burgess+Hill+Town+Green" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>
