@@ -7,3 +7,5 @@ git push
 ## have not updated for all providers (Virgin seems to be slow)
 ## git remote add github git@github.com:byfctournament/byfctournament.github.io.git
 git push github master
+
+date

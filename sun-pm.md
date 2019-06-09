@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 14:28:42 
+#### Updated 2019-06-09 14:31:37 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -26,9 +26,9 @@ Click on the results summary to see individual match results.
 
 |       Team        | Played |                                                                               Results                                                                                | Points |
 |:-----------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|     EP United     |  1/3   |     <a href="teamres/EP-United.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   3    |
 | Chatham Town Red  |  1/3   | <a href="teamres/Chatham-Town-Red.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>  |   3    |
-|     EP United     |  0/3   |     <a href="teamres/EP-United.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   0    |
-| Barming Spitfires |  0/3   | <a href="teamres/Barming-Spitfires.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   0    |
+| Barming Spitfires |  1/3   | <a href="teamres/Barming-Spitfires.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   0    |
 |   Barming Bulls   |  1/3   |   <a href="teamres/Barming-Bulls.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>   |   0    |
 
 
@@ -70,10 +70,10 @@ Click on the results summary to see individual match results.
 
 |        Team         | Played |                                                                                Results                                                                                 | Points |
 |:-------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Barming Youth U18 B |  1/3   | <a href="teamres/Barming-Youth-U18-B.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   3    |
 | Barming Blues U18 B |  1/3   | <a href="teamres/Barming-Blues-U18-B.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   2    |
 |  Rochester FC U18   |  1/3   |  <a href="teamres/Rochester-FC-U18.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>   |   2    |
-|   St.Clere's Gold   |  0/3   |   <a href="teamres/St.Clere's-Gold.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>   |   0    |
-| Barming Youth U18 B |  0/3   | <a href="teamres/Barming-Youth-U18-B.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   0    |
+|   St.Clere's Gold   |  1/3   |   <a href="teamres/St.Clere's-Gold.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>   |   0    |
 
 
 ### Men Group 1
