@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 16:41:12 
+#### Updated 2019-06-09 16:47:51 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -39,10 +39,12 @@ Click on the results summary to see individual match results.
 
 | Type |      Team 1       |    Score    |      Team 2       |
 |:----:|:-----------------:|:-----------:|:-----------------:|
-|  QF  |   Barming Bears   |             |   Barming Bulls   |
+|  QF  |   Barming Bears   | 1 &mdash; 0 |   Barming Bulls   |
 |  QF  |   East Peckham    | 1 &mdash; 0 | Barming Spitfires |
 |  QF  | Chatham Town Blue | 1 &mdash; 2 | Chatham Town Red  |
 |  QF  | Park Farm Rangers | 0 &mdash; 1 |     EP United     |
+|  SF  |   Barming Bears   |             |   East Peckham    |
+|  SF  | Chatham Town Red  |             |     EP United     |
 
 
 ### U16 Girls Group 1
@@ -109,12 +111,12 @@ Click on the results summary to see individual match results.
 ### U18 knock-out
  
 
-| Type |      Team 1       | Score |       Team 2        |
-|:----:|:-----------------:|:-----:|:-------------------:|
-|  QF  |  Loose Lions U18  |       |   St.Clere's Gold   |
-|  QF  | Barming Blues U18 |       | Barming Youth U18 B |
-|  QF  | Barming U18 Youth |       | Barming Blues U18 B |
-|  QF  | St Clere's Orange |       |  Rochester FC U18   |
+| Type |      Team 1       |    Score    |       Team 2        |
+|:----:|:-----------------:|:-----------:|:-------------------:|
+|  QF  |  Loose Lions U18  |             |   St.Clere's Gold   |
+|  QF  | Barming Blues U18 |             | Barming Youth U18 B |
+|  QF  | Barming U18 Youth |             | Barming Blues U18 B |
+|  QF  | St Clere's Orange | 0 &mdash; 2 |  Rochester FC U18   |
 
 
 ### Men Group 1
