@@ -11,5 +11,6 @@ exclude: true
 |:-----------:|:-----------:|:-------------------------:|
 | Charing U14 | 0 &mdash; 1 |  Sittingbourne lions U14  |
 | Charing U14 | 1 &mdash; 0 | Kings Hill U14 Hurricanes |
+| Charing U14 | 0 &mdash; 1 |   Biddenden Juniors U14   |
 
  <br /><br /><br />

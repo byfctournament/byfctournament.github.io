@@ -11,5 +11,6 @@ exclude: true
 |:-----------------:|:-----------:|:-------------:|
 |   K sports U14    | 0 &mdash; 1 | Ditton Minors |
 | Barming Blues U14 | 1 &mdash; 3 | Ditton Minors |
+|      Mersham      | 2 &mdash; 1 | Ditton Minors |
 
  <br /><br /><br />

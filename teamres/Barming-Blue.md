@@ -11,5 +11,6 @@ exclude: true
 |:-----------------------:|:-----------:|:------------:|
 |   Aylesford Allstars    | 1 &mdash; 1 | Barming Blue |
 | Cray Valley (PM) Ladies | 1 &mdash; 1 | Barming Blue |
+|     Belhus Ladies B     | 1 &mdash; 0 | Barming Blue |
 
  <br /><br /><br />

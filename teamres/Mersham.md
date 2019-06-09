@@ -11,5 +11,6 @@ exclude: true
 |:-------:|:-----------:|:--------------------:|
 | Mersham | 1 &mdash; 0 | Kings Hill U14 Colts |
 | Mersham | 0 &mdash; 1 |     K sports U14     |
+| Mersham | 2 &mdash; 1 |    Ditton Minors     |
 
  <br /><br /><br />
