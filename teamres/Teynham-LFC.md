@@ -14,5 +14,6 @@ exclude: true
 |   Teynham LFC   | 1 &mdash; 0 |    Oasis Ladies Red     |
 |   Teynham LFC   | 1 &mdash; 0 |      Barming Blue       |
 |   Teynham LFC   | 0 &mdash; 1 |   Aylesford Allstars    |
+|   Teynham LFC   | 1 &mdash; 0 | Cray Valley (PM) Ladies |
 
  <br /><br /><br />

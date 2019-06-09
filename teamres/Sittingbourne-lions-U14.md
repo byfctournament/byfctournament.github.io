@@ -14,5 +14,6 @@ exclude: true
 | Kings Hill U14 Hurricanes | 0 &mdash; 1 | Sittingbourne lions U14 |
 |  Sittingbourne lions U14  | 0 &mdash; 0 |    Hempstead Valley     |
 |  Sittingbourne lions U14  | 0 &mdash; 5 |  Biddenden Juniors U14  |
+|    K sports U14 United    | 1 &mdash; 1 | Sittingbourne lions U14 |
 
  <br /><br /><br />
