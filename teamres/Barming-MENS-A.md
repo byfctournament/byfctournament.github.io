@@ -11,5 +11,6 @@ exclude: true
 |:----------------------------:|:-----------:|:--------------:|
 |        Barming MENS A        | 4 &mdash; 0 |   EU Barming   |
 | Barming Mens Blues Lightning | 0 &mdash; 3 | Barming MENS A |
+|        Barming MENS A        | 1 &mdash; 1 |  Barnhurst FC  |
 
  <br /><br /><br />
