@@ -12,5 +12,6 @@ exclude: true
 | Eastbourne Borough Blue | 1 &mdash; 0 |    Goudhurst Dynamos U14     |
 |     Real 60 Jaguars     | 0 &mdash; 2 |    Goudhurst Dynamos U14     |
 |  Goudhurst Dynamos U14  | 1 &mdash; 0 | Chatham Riverside Rovers U15 |
+|  Goudhurst Dynamos U14  | 0 &mdash; 0 |      Bredhurst Juniors       |
 
  <br /><br /><br />

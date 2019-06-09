@@ -12,5 +12,6 @@ exclude: true
 | Barming Blues U14 | 0 &mdash; 1 |    Barming Youth     |
 |   Barming Youth   | 2 &mdash; 1 | Kings Hill U14 Colts |
 |   K sports U14    | 0 &mdash; 2 |    Barming Youth     |
+|   Barming Youth   | 0 &mdash; 1 |       Mersham        |
 
  <br /><br /><br />

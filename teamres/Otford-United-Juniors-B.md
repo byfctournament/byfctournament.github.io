@@ -12,5 +12,6 @@ exclude: true
 |     Real 60 Jaguars     | 1 &mdash; 0 |   Otford United Juniors B    |
 | Otford United Juniors B | 0 &mdash; 1 | Chatham Riverside Rovers U15 |
 | Otford United Juniors B | 0 &mdash; 2 |      Bredhurst Juniors       |
+| Otford United Juniors B | 0 &mdash; 2 |   Eastbourne Borough Blue    |
 
  <br /><br /><br />

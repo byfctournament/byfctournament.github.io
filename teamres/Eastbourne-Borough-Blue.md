@@ -12,5 +12,6 @@ exclude: true
 | Eastbourne Borough Blue | 1 &mdash; 0 |  Goudhurst Dynamos U14  |
 |    Bredhurst Juniors    | 0 &mdash; 2 | Eastbourne Borough Blue |
 | Eastbourne Borough Blue | 1 &mdash; 1 |     Real 60 Jaguars     |
+| Otford United Juniors B | 0 &mdash; 2 | Eastbourne Borough Blue |
 
  <br /><br /><br />
