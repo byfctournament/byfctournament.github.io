@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 17:10:01 
+#### Updated 2019-06-09 17:19:56 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -43,8 +43,9 @@ Click on the results summary to see individual match results.
 |  QF  |   East Peckham    | 1 &mdash; 0 | Barming Spitfires |
 |  QF  | Chatham Town Blue | 1 &mdash; 2 | Chatham Town Red  |
 |  QF  | Park Farm Rangers | 0 &mdash; 1 |     EP United     |
-|  SF  |   Barming Bears   |             |   East Peckham    |
+|  SF  |   Barming Bears   | 0 &mdash; 2 |   East Peckham    |
 |  SF  | Chatham Town Red  | 0 &mdash; 1 |     EP United     |
+|  F   |   East Peckham    |             |     EP United     |
 
 
 ### U16 Girls Group 1
@@ -155,7 +156,7 @@ Click on the results summary to see individual match results.
 |  QF  |  Barming MENS A   | 1 &mdash; 0 | Larkfield Men Res Plus |
 |  QF  |   Barnhurst FC    | 3 &mdash; 0 |  Mens Blues Panthers   |
 |  QF  |    EU Barming     |             |  Barming Mens Youth C  |
-|  QF  | Larkfield Men Res |             | Barming Fenerbackache  |
+|  QF  | Larkfield Men Res | 0 &mdash; 1 | Barming Fenerbackache  |
 
 
 
