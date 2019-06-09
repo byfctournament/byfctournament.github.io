@@ -7,10 +7,11 @@ exclude: true
 
 
 
-|     Team 1      |  ::Score::  |       Team 2       |
-|:---------------:|:-----------:|:------------------:|
-| Barming Bandits | 0 &mdash; 0 |   Barming TNV Y    |
-|  Barming TNV Y  | 1 &mdash; 1 |  Barming Old Boys  |
-|  Barming TNV Y  | 1 &mdash; 0 | K Sports Vets REDS |
+|       Team 1        |  ::Score::  |       Team 2       |
+|:-------------------:|:-----------:|:------------------:|
+|   Barming Bandits   | 0 &mdash; 0 |   Barming TNV Y    |
+|    Barming TNV Y    | 1 &mdash; 1 |  Barming Old Boys  |
+|    Barming TNV Y    | 1 &mdash; 0 | K Sports Vets REDS |
+| K Sports Vets BLUES | 1 &mdash; 0 |   Barming TNV Y    |
 
  <br /><br /><br />

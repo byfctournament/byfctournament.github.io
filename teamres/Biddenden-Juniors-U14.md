@@ -14,5 +14,6 @@ exclude: true
 |   K sports U14 United   | 0 &mdash; 0 |   Biddenden Juniors U14   |
 |       Charing U14       | 0 &mdash; 1 |   Biddenden Juniors U14   |
 | Sittingbourne lions U14 | 0 &mdash; 5 |   Biddenden Juniors U14   |
+|      Barming Reds       | 1 &mdash; 3 |   Biddenden Juniors U14   |
 
  <br /><br /><br />

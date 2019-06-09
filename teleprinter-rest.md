@@ -3,7 +3,28 @@ layout: page
 title: Teleprinter (earlier)
 ---
 
-<table><tr><td>2019-06-09 10:35:17 [L] Real 60 Panthers  [ 0 - 0 ] Coxheath & Farleigh U15 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Real+60+Panthers++[+0+-+0+]+Coxheath+&+Farleigh+U15&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 10:37:01 [L] Chatham Riverside Rovers U15 [ 0 - 2 ] Real 60 Jaguars  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Chatham+Riverside+Rovers+U15+[+0+-+2+]+Real+60+Jaguars+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Chatham+Riverside+Rovers+U15+[+0+-+2+]+Real+60+Jaguars+
+  &description=[L]+Chatham+Riverside+Rovers+U15+[+0+-+2+]+Real+60+Jaguars+" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 10:36:43 [L] Goudhurst Dynamos U14 [ 0 - 0 ] Bredhurst Juniors &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Goudhurst+Dynamos+U14+[+0+-+0+]+Bredhurst+Juniors&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Goudhurst+Dynamos+U14+[+0+-+0+]+Bredhurst+Juniors
+  &description=[L]+Goudhurst+Dynamos+U14+[+0+-+0+]+Bredhurst+Juniors" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 10:35:49 [L] Kings Hill U14 Colts [ 0 - 1 ] Ditton Minors &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Kings+Hill+U14+Colts+[+0+-+1+]+Ditton+Minors&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Kings+Hill+U14+Colts+[+0+-+1+]+Ditton+Minors
+  &description=[L]+Kings+Hill+U14+Colts+[+0+-+1+]+Ditton+Minors" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 10:35:17 [L] Real 60 Panthers  [ 0 - 0 ] Coxheath & Farleigh U15 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Real+60+Panthers++[+0+-+0+]+Coxheath+&+Farleigh+U15&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Real+60+Panthers++[+0+-+0+]+Coxheath+&+Farleigh+U15

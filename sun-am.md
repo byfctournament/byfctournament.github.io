@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 11:10:54 
+#### Updated 2019-06-09 11:17:41 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -15,12 +15,12 @@ Click on the results summary to see individual match results.
 
 |           Team            | Played |                                                                                   Results                                                                                    | Points |
 |:-------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|   Biddenden Juniors U14   |  6/6   |   <a href="teamres/Biddenden-Juniors-U14.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>   |   10   |
 |     Hempstead Valley      |  5/6   |     <a href="teamres/Hempstead-Valley-.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>     |   10   |
-|   Biddenden Juniors U14   |  5/6   |   <a href="teamres/Biddenden-Juniors-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>   |   7    |
 |  Sittingbourne lions U14  |  5/6   |  <a href="teamres/Sittingbourne-lions-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>  |   7    |
 | Kings Hill U14 Hurricanes |  5/6   | <a href="teamres/Kings-Hill-U14-Hurricanes.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   6    |
 |    K sports U14 United    |  4/6   |    <a href="teamres/K-sports-U14-United.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>    |   5    |
-|       Barming Reds        |  4/6   |       <a href="teamres/Barming-Reds.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>        |   5    |
+|       Barming Reds        |  5/6   |       <a href="teamres/Barming-Reds.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>        |   5    |
 |        Charing U14        |  4/6   |        <a href="teamres/Charing-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>        |   4    |
 
 
@@ -92,10 +92,10 @@ Click on the results summary to see individual match results.
 
 |        Team         | Played |                                                                                Results                                                                                 | Points |
 |:-------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-| K Sports Vets BLUES |  3/4   | <a href="teamres/K-Sports-Vets-BLUES.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   6    |
-| K Sports Vets REDS  |  3/4   | <a href="teamres/K-Sports-Vets-REDS.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   6    |
-|    Barming TNV Y    |  3/4   |    <a href="teamres/Barming-TNV-Y.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>    |   6    |
-|  Barming Old Boys   |  3/4   |  <a href="teamres/Barming-Old-Boys.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>   |   3    |
+| K Sports Vets BLUES |  4/4   | <a href="teamres/K-Sports-Vets-BLUES.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   9    |
+| K Sports Vets REDS  |  4/4   | <a href="teamres/K-Sports-Vets-REDS.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>  |   6    |
+|    Barming TNV Y    |  4/4   |    <a href="teamres/Barming-TNV-Y.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   6    |
+|  Barming Old Boys   |  4/4   |  <a href="teamres/Barming-Old-Boys.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>   |   6    |
 |   Barming Bandits   |  4/4   |   <a href="teamres/Barming-Bandits.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>   |   2    |
 
 

@@ -12,5 +12,6 @@ exclude: true
 |   Barming Bandits   | 0 &mdash; 1 | K Sports Vets REDS |
 |    Barming TNV Y    | 1 &mdash; 0 | K Sports Vets REDS |
 | K Sports Vets BLUES | 0 &mdash; 2 | K Sports Vets REDS |
+|  Barming Old Boys   | 1 &mdash; 0 | K Sports Vets REDS |
 
  <br /><br /><br />
