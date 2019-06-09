@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 12:36:17 
+#### Updated 2019-06-09 12:55:06 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -121,9 +121,10 @@ Click on the results summary to see individual match results.
 |:----:|:-----------------------:|:-----------:|:------------------:|
 |  SF  | Burgess Hill Town Green | 1 &mdash; 0 | Eastbourne United  |
 |  SF  |   Bexhill United LFC    | 1 &mdash; 0 |    Teynham LFC     |
-|  F   | Burgess Hill Town Green |             | Bexhill United LFC |
+|  F   | Burgess Hill Town Green | 0 &mdash; 1 | Bexhill United LFC |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The Ladies winner is: Bexhill United LFC
 ### Vets Group 1
  Two groups. QF: 1st Group A v 4th Group B, 2nd Group A v 3rd Group B, 3rd Group A v 2nd Group B, 4th Group A v 1st Group B; SF: QF1 v QF2, QF3 v QF4; Final: SF1 v SF2
 
@@ -157,8 +158,9 @@ Click on the results summary to see individual match results.
 |  QF  | K Sports Vets REDS  | 0 &mdash; 1 | K Sports Vets GREENS |
 |  QF  |  Barming Old Boys   | 1 &mdash; 0 |       Heath FC       |
 |  QF  |    Barming TNV Y    | 0 &mdash; 1 |     Barming Duds     |
-|  SF  | K Sports Vets BLUES |             | K Sports Vets GREENS |
-|  SF  |  Barming Old Boys   |             |     Barming Duds     |
+|  SF  | K Sports Vets BLUES | 3 &mdash; 1 | K Sports Vets GREENS |
+|  SF  |  Barming Old Boys   | 3 &mdash; 1 |     Barming Duds     |
+|  F   | K Sports Vets BLUES |             |   Barming Old Boys   |
 
 
 
