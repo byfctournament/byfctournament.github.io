@@ -11,5 +11,6 @@ exclude: true
 |:------------------:|:-----------:|:-----------------:|
 | Barming Hurricanes | 0 &mdash; 1 |   East Peckham    |
 | Barming Hurricanes | 0 &mdash; 3 | Chatham Town Blue |
+| Barming Hurricanes | 0 &mdash; 1 |   Barming Bears   |
 
  <br /><br /><br />

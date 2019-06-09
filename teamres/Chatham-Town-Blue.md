@@ -11,5 +11,6 @@ exclude: true
 |:------------------:|:-----------:|:-----------------:|
 | Chatham Town Blue  | 1 &mdash; 2 |   Barming Bears   |
 | Barming Hurricanes | 0 &mdash; 3 | Chatham Town Blue |
+| Park Farm Rangers  | 0 &mdash; 2 | Chatham Town Blue |
 
  <br /><br /><br />

@@ -11,5 +11,6 @@ exclude: true
 |:--------------------------------:|:-----------:|:---------------------------:|
 | Maidstone United U15 Girls Amber | 1 &mdash; 0 |     Gravesham Girls U16     |
 |       Gravesham Girls U16        | 0 &mdash; 0 | Maidstone whites U16 ladies |
+|      Heybridge Swift Girls       | 1 &mdash; 1 |     Gravesham Girls U16     |
 
  <br /><br /><br />
