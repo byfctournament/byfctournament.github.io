@@ -7,9 +7,10 @@ exclude: true
 
 
 
-|         Team 1          |  ::Score::  |         Team 2         |
-|:-----------------------:|:-----------:|:----------------------:|
-| Otford United Juniors A | 0 &mdash; 2 | Eastbourne Borough Red |
-| Otford United Juniors A | 0 &mdash; 0 |    Real 60 Panthers    |
+|         Team 1          |  ::Score::  |         Team 2          |
+|:-----------------------:|:-----------:|:-----------------------:|
+| Otford United Juniors A | 0 &mdash; 2 | Eastbourne Borough Red  |
+| Otford United Juniors A | 0 &mdash; 0 |    Real 60 Panthers     |
+| Otford United Juniors A | 0 &mdash; 0 | Coxheath & Farleigh U15 |
 
  <br /><br /><br />

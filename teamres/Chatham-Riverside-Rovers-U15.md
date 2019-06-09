@@ -11,5 +11,6 @@ exclude: true
 |:----------------------------:|:-----------:|:----------------------------:|
 | Chatham Riverside Rovers U15 | 0 &mdash; 0 |      Bredhurst Juniors       |
 |   Otford United Juniors B    | 0 &mdash; 1 | Chatham Riverside Rovers U15 |
+|    Goudhurst Dynamos U14     | 1 &mdash; 0 | Chatham Riverside Rovers U15 |
 
  <br /><br /><br />

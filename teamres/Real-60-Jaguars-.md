@@ -10,5 +10,6 @@ exclude: true
 |     Team 1      |  ::Score::  |         Team 2          |
 |:---------------:|:-----------:|:-----------------------:|
 | Real 60 Jaguars | 1 &mdash; 0 | Otford United Juniors B |
+| Real 60 Jaguars | 0 &mdash; 2 |  Goudhurst Dynamos U14  |
 
  <br /><br /><br />

@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 09:59:58 
+#### Updated 2019-06-09 10:09:50 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -15,22 +15,22 @@ Click on the results summary to see individual match results.
 
 |           Team            | Played |                                                                                   Results                                                                                    | Points |
 |:-------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|    K sports U14 United    |  2/6   |    <a href="teamres/K-sports-U14-United.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>    |   4    |
+|    K sports U14 United    |  3/6   |    <a href="teamres/K-sports-U14-United.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>    |   5    |
 |       Barming Reds        |  2/6   |       <a href="teamres/Barming-Reds.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>        |   4    |
 |     Hempstead Valley      |  2/6   |     <a href="teamres/Hempstead-Valley-.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   3    |
-| Kings Hill U14 Hurricanes |  1/6   | <a href="teamres/Kings-Hill-U14-Hurricanes.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   3    |
+| Kings Hill U14 Hurricanes |  2/6   | <a href="teamres/Kings-Hill-U14-Hurricanes.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   3    |
 |  Sittingbourne lions U14  |  2/6   |  <a href="teamres/Sittingbourne-lions-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   3    |
-|        Charing U14        |  1/6   |        <a href="teamres/Charing-U14.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>        |   0    |
-|   Biddenden Juniors U14   |  2/6   |   <a href="teamres/Biddenden-Juniors-U14.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   0    |
+|        Charing U14        |  2/6   |        <a href="teamres/Charing-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>        |   3    |
+|   Biddenden Juniors U14   |  3/6   |   <a href="teamres/Biddenden-Juniors-U14.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>   |   1    |
 
 
 ### U14 Group 2
 
 |         Team         | Played |                                                                                 Results                                                                                 | Points |
 |:--------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|    Barming Youth     |  3/5   |    <a href="teamres/Barming-Youth.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   9    |
 |    Ditton Minors     |  2/5   |    <a href="teamres/Ditton-Minors.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   6    |
-|    Barming Youth     |  2/5   |    <a href="teamres/Barming-Youth.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   6    |
-|     K sports U14     |  2/5   |     <a href="teamres/K-sports-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   3    |
+|     K sports U14     |  3/5   |     <a href="teamres/K-sports-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>     |   3    |
 |       Mersham        |  2/5   |       <a href="teamres/Mersham.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>        |   3    |
 | Kings Hill U14 Colts |  2/5   | <a href="teamres/Kings-Hill-U14-Colts.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a> |   0    |
 |  Barming Blues U14   |  2/5   |  <a href="teamres/Barming-Blues-U14.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   0    |
@@ -42,11 +42,11 @@ Click on the results summary to see individual match results.
 |             Team             | Played |                                                                                     Results                                                                                     | Points |
 |:----------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |   Eastbourne Borough Blue    |  2/5   |   <a href="teamres/Eastbourne-Borough-Blue.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   6    |
-| Chatham Riverside Rovers U15 |  2/5   | <a href="teamres/Chatham-Riverside-Rovers-U15.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a> |   4    |
-|       Real 60 Jaguars        |  1/5   |       <a href="teamres/Real-60-Jaguars-.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>       |   3    |
-|      Bredhurst Juniors       |  2/5   |      <a href="teamres/Bredhurst-Juniors.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>       |   1    |
-|   Otford United Juniors B    |  2/5   |   <a href="teamres/Otford-United-Juniors-B.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>    |   0    |
-|    Goudhurst Dynamos U14     |  1/5   |    <a href="teamres/Goudhurst-Dynamos-U14.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   0    |
+|    Goudhurst Dynamos U14     |  3/5   |    <a href="teamres/Goudhurst-Dynamos-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   6    |
+|      Bredhurst Juniors       |  3/5   |      <a href="teamres/Bredhurst-Juniors.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>       |   4    |
+| Chatham Riverside Rovers U15 |  3/5   | <a href="teamres/Chatham-Riverside-Rovers-U15.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a> |   4    |
+|       Real 60 Jaguars        |  2/5   |       <a href="teamres/Real-60-Jaguars-.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>       |   3    |
+|   Otford United Juniors B    |  3/5   |   <a href="teamres/Otford-United-Juniors-B.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   0    |
 
 
 ### U15 Group 2
@@ -54,11 +54,11 @@ Click on the results summary to see individual match results.
 |          Team           | Played |                                                                                  Results                                                                                   | Points |
 |:-----------------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Eastbourne Borough Red  |  2/5   | <a href="teamres/Eastbourne-Borough-Red-.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   6    |
-| Coxheath & Farleigh U15 |  2/5   | <a href="teamres/Coxheath-&-Farleigh-U15.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a> |   4    |
-|       Pilgrims FC       |  2/5   |       <a href="teamres/Pilgrims-FC.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>       |   3    |
+|       Pilgrims FC       |  3/5   |       <a href="teamres/Pilgrims-FC.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>       |   6    |
+| Coxheath & Farleigh U15 |  3/5   | <a href="teamres/Coxheath-&-Farleigh-U15.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a> |   5    |
+| Otford United Juniors A |  3/5   | <a href="teamres/Otford-United-Juniors-A.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a> |   2    |
 |    Real 60 Panthers     |  2/5   |    <a href="teamres/Real-60-Panthers-.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   1    |
-| Otford United Juniors A |  2/5   | <a href="teamres/Otford-United-Juniors-A.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a> |   1    |
-|    Barming Blues U15    |  2/5   |    <a href="teamres/Barming-Blues-U15.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   1    |
+|    Barming Blues U15    |  3/5   |    <a href="teamres/Barming-Blues-U15.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>    |   1    |
 
 
 ### Ladies Group 1
@@ -66,13 +66,13 @@ Click on the results summary to see individual match results.
 
 |          Team           | Played |                                                                                   Results                                                                                   | Points |
 |:-----------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|   Aylesford Allstars    |  2/6   |   <a href="teamres/Aylesford-Allstars-.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   5    |
-| Cray Valley (PM) Ladies |  2/6   | <a href="teamres/Cray-Valley-(PM)-Ladies-.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   5    |
+|   Aylesford Allstars    |  3/6   |   <a href="teamres/Aylesford-Allstars-.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>    |   6    |
+| Cray Valley (PM) Ladies |  3/6   | <a href="teamres/Cray-Valley-(PM)-Ladies-.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a> |   6    |
 |      Barming Blue       |  2/6   |       <a href="teamres/Barming-Blue.html"><font size="1">W</font>0<font size="1">S</font>2<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>       |   4    |
+| Burgess Hill Town Green |  2/6   | <a href="teamres/Burgess-Hill-Town-Green.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>  |   4    |
 |       Teynham LFC       |  2/6   |       <a href="teamres/Teynham-LFC.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>        |   4    |
-| Burgess Hill Town Green |  1/6   | <a href="teamres/Burgess-Hill-Town-Green.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>  |   1    |
 |     Belhus Ladies B     |  2/6   |     <a href="teamres/Belhus-Ladies-B.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>      |   0    |
-|    Oasis Ladies Red     |  1/6   |     <a href="teamres/Oasis-Ladies-Red.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   0    |
+|    Oasis Ladies Red     |  2/6   |     <a href="teamres/Oasis-Ladies-Red.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>     |   0    |
 
 
 ### Ladies Group 2

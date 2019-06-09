@@ -7,9 +7,10 @@ exclude: true
 
 
 
-|       Team 1       |  ::Score::  |      Team 2      |
-|:------------------:|:-----------:|:----------------:|
-| Aylesford Allstars | 1 &mdash; 1 |   Barming Blue   |
-| Aylesford Allstars | 2 &mdash; 0 | Oasis Ladies Red |
+|         Team 1          |  ::Score::  |       Team 2       |
+|:-----------------------:|:-----------:|:------------------:|
+|   Aylesford Allstars    | 1 &mdash; 1 |    Barming Blue    |
+|   Aylesford Allstars    | 2 &mdash; 0 |  Oasis Ladies Red  |
+| Cray Valley (PM) Ladies | 0 &mdash; 0 | Aylesford Allstars |
 
  <br /><br /><br />

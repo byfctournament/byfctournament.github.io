@@ -11,5 +11,6 @@ exclude: true
 |:---------------------:|:-----------:|:-------------------------:|
 |   Hempstead Valley    | 1 &mdash; 0 |   Biddenden Juniors U14   |
 | Biddenden Juniors U14 | 0 &mdash; 1 | Kings Hill U14 Hurricanes |
+|  K sports U14 United  | 0 &mdash; 0 |   Biddenden Juniors U14   |
 
  <br /><br /><br />
