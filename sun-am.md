@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 12:32:08 
+#### Updated 2019-06-09 12:36:17 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -41,10 +41,11 @@ Click on the results summary to see individual match results.
 ### U14 knock-out
  
 
-| Type |      Team 1      | Score |        Team 2         |
-|:----:|:----------------:|:-----:|:---------------------:|
-|  SF  | Hempstead Valley |       |        Mersham        |
-|  SF  |  Barming Youth   |       | Biddenden Juniors U14 |
+| Type |      Team 1      |    Score    |        Team 2         |
+|:----:|:----------------:|:-----------:|:---------------------:|
+|  SF  | Hempstead Valley | 3 &mdash; 0 |        Mersham        |
+|  SF  |  Barming Youth   | 0 &mdash; 2 | Biddenden Juniors U14 |
+|  F   | Hempstead Valley |             | Biddenden Juniors U14 |
 
 
 ### U15 Group 1
@@ -81,9 +82,10 @@ Click on the results summary to see individual match results.
 |:----:|:-----------------------:|:-----------:|:----------------------:|
 |  SF  | Eastbourne Borough Blue | 2 &mdash; 0 |      Pilgrims FC       |
 |  SF  | Eastbourne Borough Red  | 5 &mdash; 1 |    Real 60 Jaguars     |
-|  F   | Eastbourne Borough Blue |             | Eastbourne Borough Red |
+|  F   | Eastbourne Borough Blue | 3 &mdash; 2 | Eastbourne Borough Red |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U15 winner is: Eastbourne Borough Blue
 ### Ladies Group 1
  Two groups. SF: 1st Group A v 2nd Group B, 2nd Group A v 1st Group B; Final: SF1 v SF2
 
