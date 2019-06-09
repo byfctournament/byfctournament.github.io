@@ -11,5 +11,6 @@ exclude: true
 |:----------------:|:-----------:|:-----------------:|
 | Chatham Town Red | 2 &mdash; 0 |   Barming Bulls   |
 | Chatham Town Red | 3 &mdash; 0 | Barming Spitfires |
+|    EP United     | 2 &mdash; 0 | Chatham Town Red  |
 
  <br /><br /><br />

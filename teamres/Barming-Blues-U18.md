@@ -12,5 +12,6 @@ exclude: true
 |  Loose Lions U18  | 0 &mdash; 2 |      Barming Blues U18      |
 | Barming Blues U18 | 0 &mdash; 0 | Yalding and Laddingford U18 |
 | St Clere's Orange | 0 &mdash; 0 |      Barming Blues U18      |
+| Barming Blues U18 | 1 &mdash; 1 |      Barming U18 Youth      |
 
  <br /><br /><br />
