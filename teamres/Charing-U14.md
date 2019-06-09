@@ -13,5 +13,6 @@ exclude: true
 | Charing U14 | 1 &mdash; 0 | Kings Hill U14 Hurricanes |
 | Charing U14 | 0 &mdash; 1 |   Biddenden Juniors U14   |
 | Charing U14 | 0 &mdash; 0 |       Barming Reds        |
+| Charing U14 | 2 &mdash; 0 |    K sports U14 United    |
 
  <br /><br /><br />

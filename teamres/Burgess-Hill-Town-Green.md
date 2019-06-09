@@ -13,5 +13,6 @@ exclude: true
 | Burgess Hill Town Green | 1 &mdash; 0 |    Oasis Ladies Red     |
 |   Aylesford Allstars    | 0 &mdash; 1 | Burgess Hill Town Green |
 |     Belhus Ladies B     | 4 &mdash; 0 | Burgess Hill Town Green |
+| Cray Valley (PM) Ladies | 0 &mdash; 1 | Burgess Hill Town Green |
 
  <br /><br /><br />

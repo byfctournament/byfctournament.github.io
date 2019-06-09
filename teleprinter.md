@@ -3,7 +3,21 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 11:17:29 [L] K Sports Vets BLUES [ 1 - 0 ] Barming TNV Y &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+K+Sports+Vets+BLUES+[+1+-+0+]+Barming+TNV+Y&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 11:23:29 [L] Charing U14 [ 2 - 0 ] K sports U14 United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Charing+U14+[+2+-+0+]+K+sports+U14+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Charing+U14+[+2+-+0+]+K+sports+U14+United
+  &description=[L]+Charing+U14+[+2+-+0+]+K+sports+U14+United" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:23:13 [L] Cray Valley (PM) Ladies  [ 0 - 1 ] Burgess Hill Town Green &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Cray+Valley+(PM)+Ladies++[+0+-+1+]+Burgess+Hill+Town+Green&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Cray+Valley+(PM)+Ladies++[+0+-+1+]+Burgess+Hill+Town+Green
+  &description=[L]+Cray+Valley+(PM)+Ladies++[+0+-+1+]+Burgess+Hill+Town+Green" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:17:29 [L] K Sports Vets BLUES [ 1 - 0 ] Barming TNV Y &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+K+Sports+Vets+BLUES+[+1+-+0+]+Barming+TNV+Y&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+K+Sports+Vets+BLUES+[+1+-+0+]+Barming+TNV+Y
@@ -197,19 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Barming+Old+Boys+[+0+-+0+]+Barming+Bandits
   &description=[L]+Barming+Old+Boys+[+0+-+0+]+Barming+Bandits" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:43:16 [L] Sittingbourne lions U14 [ 0 - 0 ] Hempstead Valley  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Sittingbourne+lions+U14+[+0+-+0+]+Hempstead+Valley+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Sittingbourne+lions+U14+[+0+-+0+]+Hempstead+Valley+
-  &description=[L]+Sittingbourne+lions+U14+[+0+-+0+]+Hempstead+Valley+" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:37:23 [L] Chatham Riverside Rovers U15 [ 0 - 2 ] Real 60 Jaguars  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Chatham+Riverside+Rovers+U15+[+0+-+2+]+Real+60+Jaguars+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Chatham+Riverside+Rovers+U15+[+0+-+2+]+Real+60+Jaguars+
-  &description=[L]+Chatham+Riverside+Rovers+U15+[+0+-+2+]+Real+60+Jaguars+" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>
