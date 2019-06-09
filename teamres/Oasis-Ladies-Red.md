@@ -14,5 +14,6 @@ exclude: true
 |       Teynham LFC       | 1 &mdash; 0 | Oasis Ladies Red |
 | Cray Valley (PM) Ladies | 0 &mdash; 0 | Oasis Ladies Red |
 |    Oasis Ladies Red     | 2 &mdash; 3 |   Barming Blue   |
+|    Oasis Ladies Red     | 1 &mdash; 0 | Belhus Ladies B  |
 
  <br /><br /><br />

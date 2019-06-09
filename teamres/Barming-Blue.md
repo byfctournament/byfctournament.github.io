@@ -14,5 +14,6 @@ exclude: true
 |     Belhus Ladies B     | 1 &mdash; 0 | Barming Blue |
 |       Teynham LFC       | 1 &mdash; 0 | Barming Blue |
 |    Oasis Ladies Red     | 2 &mdash; 3 | Barming Blue |
+| Burgess Hill Town Green | 5 &mdash; 0 | Barming Blue |
 
  <br /><br /><br />
