@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 11:37:36 
+#### Updated 2019-06-09 11:38:52 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -77,12 +77,12 @@ Click on the results summary to see individual match results.
 
 |          Team           | Played |                                                                                   Results                                                                                   | Points |
 |:-----------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Burgess Hill Town Green |  5/6   | <a href="teamres/Burgess-Hill-Town-Green.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>  |   13   |
 |       Teynham LFC       |  6/6   |       <a href="teamres/Teynham-LFC.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>        |   13   |
-| Burgess Hill Town Green |  5/6   | <a href="teamres/Burgess-Hill-Town-Green.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>  |   10   |
 |   Aylesford Allstars    |  5/6   |   <a href="teamres/Aylesford-Allstars-.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   9    |
 |      Barming Blue       |  5/6   |       <a href="teamres/Barming-Blue.html"><font size="1">W</font>1<font size="1">S</font>2<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>       |   7    |
 | Cray Valley (PM) Ladies |  6/6   | <a href="teamres/Cray-Valley-(PM)-Ladies-.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a> |   7    |
-|     Belhus Ladies B     |  4/6   |     <a href="teamres/Belhus-Ladies-B.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>      |   6    |
+|     Belhus Ladies B     |  4/6   |     <a href="teamres/Belhus-Ladies-B.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>      |   3    |
 |    Oasis Ladies Red     |  5/6   |     <a href="teamres/Oasis-Ladies-Red.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>     |   1    |
 
 
