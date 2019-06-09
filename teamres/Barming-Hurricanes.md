@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|       Team 1       |  ::Score::  |    Team 2    |
-|:------------------:|:-----------:|:------------:|
-| Barming Hurricanes | 0 &mdash; 1 | East Peckham |
+|       Team 1       |  ::Score::  |      Team 2       |
+|:------------------:|:-----------:|:-----------------:|
+| Barming Hurricanes | 0 &mdash; 1 |   East Peckham    |
+| Barming Hurricanes | 0 &mdash; 3 | Chatham Town Blue |
 
  <br /><br /><br />

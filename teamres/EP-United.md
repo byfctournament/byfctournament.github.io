@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|  Team 1   |  ::Score::  |      Team 2       |
-|:---------:|:-----------:|:-----------------:|
-| EP United | 3 &mdash; 0 | Barming Spitfires |
+|    Team 1     |  ::Score::  |      Team 2       |
+|:-------------:|:-----------:|:-----------------:|
+|   EP United   | 3 &mdash; 0 | Barming Spitfires |
+| Barming Bulls | 0 &mdash; 4 |     EP United     |
 
  <br /><br /><br />

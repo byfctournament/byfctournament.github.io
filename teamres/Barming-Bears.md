@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|      Team 1       |  ::Score::  |    Team 2     |
-|:-----------------:|:-----------:|:-------------:|
-| Chatham Town Blue | 1 &mdash; 2 | Barming Bears |
+|      Team 1       |  ::Score::  |      Team 2       |
+|:-----------------:|:-----------:|:-----------------:|
+| Chatham Town Blue | 1 &mdash; 2 |   Barming Bears   |
+|   Barming Bears   | 2 &mdash; 1 | Park Farm Rangers |
 
  <br /><br /><br />

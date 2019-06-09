@@ -3,7 +3,91 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 14:31:16 [L] EP United [ 3 - 0 ] Barming Spitfires &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+EP+United+[+3+-+0+]+Barming+Spitfires&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 14:50:50 [L] Loose Lions U18 [ 1 - 0 ] Barming U18 Youth &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Loose+Lions+U18+[+1+-+0+]+Barming+U18+Youth&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Loose+Lions+U18+[+1+-+0+]+Barming+U18+Youth
+  &description=[L]+Loose+Lions+U18+[+1+-+0+]+Barming+U18+Youth" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:50:36 [L] Barming Hurricanes [ 0 - 3 ] Chatham Town Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Hurricanes+[+0+-+3+]+Chatham+Town+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Hurricanes+[+0+-+3+]+Chatham+Town+Blue
+  &description=[L]+Barming+Hurricanes+[+0+-+3+]+Chatham+Town+Blue" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:50:22 [L] Barnhurst FC [ 0 - 0 ] Larkfield Men Res &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barnhurst+FC+[+0+-+0+]+Larkfield+Men+Res&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barnhurst+FC+[+0+-+0+]+Larkfield+Men+Res
+  &description=[L]+Barnhurst+FC+[+0+-+0+]+Larkfield+Men+Res" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:43:16 [L] Barming Blues U18 B [ 0 - 0 ] St.Clere's Gold &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Blues+U18+B+[+0+-+0+]+St.Clere's+Gold&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Blues+U18+B+[+0+-+0+]+St.Clere's+Gold
+  &description=[L]+Barming+Blues+U18+B+[+0+-+0+]+St.Clere's+Gold" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:42:56 [L] Barming Bulls [ 0 - 4 ] EP United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Bulls+[+0+-+4+]+EP+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Bulls+[+0+-+4+]+EP+United
+  &description=[L]+Barming+Bulls+[+0+-+4+]+EP+United" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:39:27 [L] Barming Mens Youth C [ 1 - 0 ] Barming Mens B &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B
+  &description=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:39:11 [L] Larkfield Men Res Plus [ 0 - 0 ] Barming Fenerbackache &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Larkfield+Men+Res+Plus+[+0+-+0+]+Barming+Fenerbackache&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Larkfield+Men+Res+Plus+[+0+-+0+]+Barming+Fenerbackache
+  &description=[L]+Larkfield+Men+Res+Plus+[+0+-+0+]+Barming+Fenerbackache" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:38:55 [L] Barming Blues U18 [ 0 - 0 ] Yalding and Laddingford U18 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Blues+U18+[+0+-+0+]+Yalding+and+Laddingford+U18&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Blues+U18+[+0+-+0+]+Yalding+and+Laddingford+U18
+  &description=[L]+Barming+Blues+U18+[+0+-+0+]+Yalding+and+Laddingford+U18" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:37:55 [L] Maidstone whites U16 ladies [ 0 - 0 ] Heybridge Swift Girls &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Maidstone+whites+U16+ladies+[+0+-+0+]+Heybridge+Swift+Girls&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Maidstone+whites+U16+ladies+[+0+-+0+]+Heybridge+Swift+Girls
+  &description=[L]+Maidstone+whites+U16+ladies+[+0+-+0+]+Heybridge+Swift+Girls" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:37:21 [L] Barming Bears [ 2 - 1 ] Park Farm Rangers &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Bears+[+2+-+1+]+Park+Farm+Rangers&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Bears+[+2+-+1+]+Park+Farm+Rangers
+  &description=[L]+Barming+Bears+[+2+-+1+]+Park+Farm+Rangers" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:35:46 [L] Barming U16 Girls  [ 1 - 0 ] Woodcoombe Ladies U16 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+U16+Girls++[+1+-+0+]+Woodcoombe+Ladies+U16&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+U16+Girls++[+1+-+0+]+Woodcoombe+Ladies+U16
+  &description=[L]+Barming+U16+Girls++[+1+-+0+]+Woodcoombe+Ladies+U16" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:33:27 [L] Barming MENS A [ 4 - 0 ] EU Barming &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+MENS+A+[+4+-+0+]+EU+Barming&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+MENS+A+[+4+-+0+]+EU+Barming
+  &description=[L]+Barming+MENS+A+[+4+-+0+]+EU+Barming" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 14:31:16 [L] EP United [ 3 - 0 ] Barming Spitfires &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+EP+United+[+3+-+0+]+Barming+Spitfires&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+EP+United+[+3+-+0+]+Barming+Spitfires
@@ -127,89 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B
   &description=[L]+Barming+Mens+Youth+C+[+1+-+0+]+Barming+Mens+B" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 14:09:54 [L] Barming Mens B [ 0 - 1 ] Mens Blues Panthers &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Mens+B+[+0+-+1+]+Mens+Blues+Panthers&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Barming+Mens+B+[+0+-+1+]+Mens+Blues+Panthers
-  &description=[L]+Barming+Mens+B+[+0+-+1+]+Mens+Blues+Panthers" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 13:13:24 [F] K Sports Vets BLUES [ 1 - 2 ] Barming Old Boys &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+K+Sports+Vets+BLUES+[+1+-+2+]+Barming+Old+Boys&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[F]+K+Sports+Vets+BLUES+[+1+-+2+]+Barming+Old+Boys
-  &description=[F]+K+Sports+Vets+BLUES+[+1+-+2+]+Barming+Old+Boys" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 13:08:50 [F] Hempstead Valley  [ 0 - 1 ] Biddenden Juniors U14 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+Hempstead+Valley++[+0+-+1+]+Biddenden+Juniors+U14&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[F]+Hempstead+Valley++[+0+-+1+]+Biddenden+Juniors+U14
-  &description=[F]+Hempstead+Valley++[+0+-+1+]+Biddenden+Juniors+U14" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:54:53 [F] Burgess Hill Town Green [ 0 - 1 ] Bexhill United LFC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+Burgess+Hill+Town+Green+[+0+-+1+]+Bexhill+United+LFC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[F]+Burgess+Hill+Town+Green+[+0+-+1+]+Bexhill+United+LFC
-  &description=[F]+Burgess+Hill+Town+Green+[+0+-+1+]+Bexhill+United+LFC" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:44:56 [S] Barming Old Boys [ 3 - 1 ] Barming Duds &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Barming+Old+Boys+[+3+-+1+]+Barming+Duds&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[S]+Barming+Old+Boys+[+3+-+1+]+Barming+Duds
-  &description=[S]+Barming+Old+Boys+[+3+-+1+]+Barming+Duds" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:44:03 [S] K Sports Vets BLUES [ 3 - 1 ] K Sports Vets GREENS &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+K+Sports+Vets+BLUES+[+3+-+1+]+K+Sports+Vets+GREENS&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[S]+K+Sports+Vets+BLUES+[+3+-+1+]+K+Sports+Vets+GREENS
-  &description=[S]+K+Sports+Vets+BLUES+[+3+-+1+]+K+Sports+Vets+GREENS" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:34:37 [S] Hempstead Valley  [ 3 - 0 ] Mersham &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Hempstead+Valley++[+3+-+0+]+Mersham&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[S]+Hempstead+Valley++[+3+-+0+]+Mersham
-  &description=[S]+Hempstead+Valley++[+3+-+0+]+Mersham" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:34:19 [S] Barming Youth [ 0 - 2 ] Biddenden Juniors U14 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Barming+Youth+[+0+-+2+]+Biddenden+Juniors+U14&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[S]+Barming+Youth+[+0+-+2+]+Biddenden+Juniors+U14
-  &description=[S]+Barming+Youth+[+0+-+2+]+Biddenden+Juniors+U14" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:33:27 [F] Eastbourne Borough Blue [ 3 - 2 ] Eastbourne Borough Red  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+Eastbourne+Borough+Blue+[+3+-+2+]+Eastbourne+Borough+Red+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[F]+Eastbourne+Borough+Blue+[+3+-+2+]+Eastbourne+Borough+Red+
-  &description=[F]+Eastbourne+Borough+Blue+[+3+-+2+]+Eastbourne+Borough+Red+" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:26:19 [S] Bexhill United LFC [ 1 - 0 ] Teynham LFC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Bexhill+United+LFC+[+1+-+0+]+Teynham+LFC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[S]+Bexhill+United+LFC+[+1+-+0+]+Teynham+LFC
-  &description=[S]+Bexhill+United+LFC+[+1+-+0+]+Teynham+LFC" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:13:04 [Q] Barming Old Boys [ 1 - 0 ] Heath FC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Barming+Old+Boys+[+1+-+0+]+Heath+FC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[Q]+Barming+Old+Boys+[+1+-+0+]+Heath+FC
-  &description=[Q]+Barming+Old+Boys+[+1+-+0+]+Heath+FC" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 12:11:22 [S] Burgess Hill Town Green [ 1 - 0 ] Eastbourne United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Burgess+Hill+Town+Green+[+1+-+0+]+Eastbourne+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[S]+Burgess+Hill+Town+Green+[+1+-+0+]+Eastbourne+United
-  &description=[S]+Burgess+Hill+Town+Green+[+1+-+0+]+Eastbourne+United" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>

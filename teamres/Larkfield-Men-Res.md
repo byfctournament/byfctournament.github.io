@@ -6,8 +6,9 @@ exclude: true
 ---
 
 
-|            |               |            |
-|:----------:|:-------------:|:----------:|
-| **Team 1** | **::Score::** | **Team 2** |
+
+|    Team 1    |  ::Score::  |      Team 2       |
+|:------------:|:-----------:|:-----------------:|
+| Barnhurst FC | 0 &mdash; 0 | Larkfield Men Res |
 
  <br /><br /><br />

@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|            Team 1            |  ::Score::  |    Team 2    |
-|:----------------------------:|:-----------:|:------------:|
-| Barming Mens Blues Lightning | 0 &mdash; 3 | Barnhurst FC |
+|            Team 1            |  ::Score::  |      Team 2       |
+|:----------------------------:|:-----------:|:-----------------:|
+| Barming Mens Blues Lightning | 0 &mdash; 3 |   Barnhurst FC    |
+|         Barnhurst FC         | 0 &mdash; 0 | Larkfield Men Res |
 
  <br /><br /><br />

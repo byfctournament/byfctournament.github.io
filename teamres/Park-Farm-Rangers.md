@@ -6,8 +6,9 @@ exclude: true
 ---
 
 
-|            |               |            |
-|:----------:|:-------------:|:----------:|
-| **Team 1** | **::Score::** | **Team 2** |
+
+|    Team 1     |  ::Score::  |      Team 2       |
+|:-------------:|:-----------:|:-----------------:|
+| Barming Bears | 2 &mdash; 1 | Park Farm Rangers |
 
  <br /><br /><br />
