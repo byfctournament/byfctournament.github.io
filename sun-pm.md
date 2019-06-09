@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 16:08:08 
+#### Updated 2019-06-09 16:17:26 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -72,12 +72,12 @@ Click on the results summary to see individual match results.
 ### U16 Girls knock-out
  
 
-| Type |            Team 1             | Score |              Team 2              |
-|:----:|:-----------------------------:|:-----:|:--------------------------------:|
-|  QF  |     Junior Reds U15 Roses     |       |      Heybridge Swift Girls       |
-|  QF  |  Grasshoppers JFC U16 girls   |       |       Gravesham Girls U16        |
-|  QF  | Maidstone Utd Women U16 Amber |       |   Maidstone whites U16 ladies    |
-|  QF  |       Barming U16 Girls       |       | Maidstone United U15 Girls Amber |
+| Type |            Team 1             |    Score    |              Team 2              |
+|:----:|:-----------------------------:|:-----------:|:--------------------------------:|
+|  QF  |     Junior Reds U15 Roses     |             |      Heybridge Swift Girls       |
+|  QF  |  Grasshoppers JFC U16 girls   | 0 &mdash; 1 |       Gravesham Girls U16        |
+|  QF  | Maidstone Utd Women U16 Amber |             |   Maidstone whites U16 ladies    |
+|  QF  |       Barming U16 Girls       | 1 &mdash; 4 | Maidstone United U15 Girls Amber |
 
 
 ### U18 Group 1
@@ -86,10 +86,11 @@ Click on the results summary to see individual match results.
 |            Team             | Played |                                                                                    Results                                                                                     | Points |
 |:---------------------------:|:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |       Loose Lions U18       |  4/4   |       <a href="teamres/Loose-Lions-U18.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>       |   9    |
+|      Barming U18 Youth      |  4/4   |      <a href="teamres/Barming-U18-Youth.html"><font size="1">W</font>1<font size="1">S</font>2<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>      |   7    |
 |      Barming Blues U18      |  4/4   |      <a href="teamres/Barming-Blues-U18.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>      |   7    |
 |      St Clere's Orange      |  4/4   |      <a href="teamres/St-Clere's-Orange.html"><font size="1">W</font>0<font size="1">S</font>2<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>      |   5    |
-|      Barming U18 Youth      |  3/4   |      <a href="teamres/Barming-U18-Youth.html"><font size="1">W</font>0<font size="1">S</font>2<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>      |   4    |
-| Yalding and Laddingford U18 |  3/4   | <a href="teamres/Yalding-and-Laddingford-U18.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a> |   3    |
+| Yalding and Laddingford U18 |  4/4   | <a href="teamres/Yalding-and-Laddingford-U18.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a> |   3    |
+
 
 
 ### U18 Group 2
@@ -100,6 +101,18 @@ Click on the results summary to see individual match results.
 | Barming Blues U18 B |  3/3   | <a href="teamres/Barming-Blues-U18-B.html"><font size="1">W</font>0<font size="1">S</font>2<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a> |   5    |
 | Barming Youth U18 B |  3/3   | <a href="teamres/Barming-Youth-U18-B.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   5    |
 |   St.Clere's Gold   |  3/3   |   <a href="teamres/St.Clere's-Gold.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>   |   3    |
+
+
+
+### U18 knock-out
+ 
+
+| Type |      Team 1       | Score |       Team 2        |
+|:----:|:-----------------:|:-----:|:-------------------:|
+|  QF  |  Loose Lions U18  |       |   St.Clere's Gold   |
+|  QF  | Barming Blues U18 |       | Barming Youth U18 B |
+|  QF  | Barming U18 Youth |       | Barming Blues U18 B |
+|  QF  | St Clere's Orange |       |  Rochester FC U18   |
 
 
 ### Men Group 1
