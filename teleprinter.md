@@ -3,7 +3,28 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 17:19:53 [Q] Larkfield Men Res [ 0 - 1 ] Barming Fenerbackache &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Larkfield+Men+Res+[+0+-+1+]+Barming+Fenerbackache&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 17:30:14 [S] Barming U18 Youth [ 0 - 3 ] Rochester FC U18 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Barming+U18+Youth+[+0+-+3+]+Rochester+FC+U18&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[S]+Barming+U18+Youth+[+0+-+3+]+Rochester+FC+U18
+  &description=[S]+Barming+U18+Youth+[+0+-+3+]+Rochester+FC+U18" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:29:05 [S] St.Clere's Gold [ 2 - 1 ] Barming Youth U18 B &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+St.Clere's+Gold+[+2+-+1+]+Barming+Youth+U18+B&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[S]+St.Clere's+Gold+[+2+-+1+]+Barming+Youth+U18+B
+  &description=[S]+St.Clere's+Gold+[+2+-+1+]+Barming+Youth+U18+B" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:24:03 [Q] EU Barming [ 3 - 2 ] Barming Mens Youth C &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+EU+Barming+[+3+-+2+]+Barming+Mens+Youth+C&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[Q]+EU+Barming+[+3+-+2+]+Barming+Mens+Youth+C
+  &description=[Q]+EU+Barming+[+3+-+2+]+Barming+Mens+Youth+C" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:19:53 [Q] Larkfield Men Res [ 0 - 1 ] Barming Fenerbackache &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[Q]+Larkfield+Men+Res+[+0+-+1+]+Barming+Fenerbackache&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[Q]+Larkfield+Men+Res+[+0+-+1+]+Barming+Fenerbackache
@@ -190,26 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+East+Peckham++[+0+-+0+]+Park+Farm+Rangers
   &description=[L]+East+Peckham++[+0+-+0+]+Park+Farm+Rangers" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 15:53:30 [L] Larkfield Men Res [ 0 - 1 ] EU Barming &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Larkfield+Men+Res+[+0+-+1+]+EU+Barming&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Larkfield+Men+Res+[+0+-+1+]+EU+Barming
-  &description=[L]+Larkfield+Men+Res+[+0+-+1+]+EU+Barming" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 15:48:03 [L] Mens Blues Panthers [ 1 - 2 ] Barming Mens Youth C &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Mens+Blues+Panthers+[+1+-+2+]+Barming+Mens+Youth+C&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Mens+Blues+Panthers+[+1+-+2+]+Barming+Mens+Youth+C
-  &description=[L]+Mens+Blues+Panthers+[+1+-+2+]+Barming+Mens+Youth+C" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 15:41:46 [L] Grasshoppers JFC U16 girls [ 1 - 0 ] Woodcoombe Ladies U16 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Grasshoppers+JFC+U16+girls+[+1+-+0+]+Woodcoombe+Ladies+U16&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Grasshoppers+JFC+U16+girls+[+1+-+0+]+Woodcoombe+Ladies+U16
-  &description=[L]+Grasshoppers+JFC+U16+girls+[+1+-+0+]+Woodcoombe+Ladies+U16" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>

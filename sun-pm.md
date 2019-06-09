@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 17:19:56 
+#### Updated 2019-06-09 17:31:37 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -119,8 +119,9 @@ Click on the results summary to see individual match results.
 |  QF  | Barming Blues U18 | 0 &mdash; 1 | Barming Youth U18 B |
 |  QF  | Barming U18 Youth | 1 &mdash; 0 | Barming Blues U18 B |
 |  QF  | St Clere's Orange | 0 &mdash; 2 |  Rochester FC U18   |
-|  SF  |  St.Clere's Gold  |             | Barming Youth U18 B |
-|  SF  | Barming U18 Youth |             |  Rochester FC U18   |
+|  SF  |  St.Clere's Gold  | 2 &mdash; 1 | Barming Youth U18 B |
+|  SF  | Barming U18 Youth | 0 &mdash; 3 |  Rochester FC U18   |
+|  F   |  St.Clere's Gold  |             |  Rochester FC U18   |
 
 
 ### Men Group 1
@@ -155,8 +156,10 @@ Click on the results summary to see individual match results.
 |:----:|:-----------------:|:-----------:|:----------------------:|
 |  QF  |  Barming MENS A   | 1 &mdash; 0 | Larkfield Men Res Plus |
 |  QF  |   Barnhurst FC    | 3 &mdash; 0 |  Mens Blues Panthers   |
-|  QF  |    EU Barming     |             |  Barming Mens Youth C  |
+|  QF  |    EU Barming     | 3 &mdash; 2 |  Barming Mens Youth C  |
 |  QF  | Larkfield Men Res | 0 &mdash; 1 | Barming Fenerbackache  |
+|  SF  |  Barming MENS A   |             |      Barnhurst FC      |
+|  SF  |    EU Barming     |             | Barming Fenerbackache  |
 
 
 
