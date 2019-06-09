@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 11:54:50 
+#### Updated 2019-06-09 12:08:27 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -24,6 +24,7 @@ Click on the results summary to see individual match results.
 |       Barming Reds        |  6/6   |       <a href="teamres/Barming-Reds.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>2<font size="1">G</font></a>        |   6    |
 
 
+
 ### U14 Group 2
 
 |         Team         | Played |                                                                                 Results                                                                                 | Points |
@@ -34,6 +35,16 @@ Click on the results summary to see individual match results.
 | Kings Hill U14 Colts |  5/5   | <a href="teamres/Kings-Hill-U14-Colts.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   6    |
 |  Barming Blues U14   |  5/5   |  <a href="teamres/Barming-Blues-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>   |   3    |
 |     K sports U14     |  5/5   |     <a href="teamres/K-sports-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>     |   3    |
+
+
+
+### U14 knock-out
+ 
+
+| Type |      Team 1      | Score |        Team 2         |
+|:----:|:----------------:|:-----:|:---------------------:|
+|  SF  | Hempstead Valley |       |        Mersham        |
+|  SF  |  Barming Youth   |       | Biddenden Juniors U14 |
 
 
 ### U15 Group 1
@@ -66,10 +77,11 @@ Click on the results summary to see individual match results.
 ### U15 knock-out
  
 
-| Type |         Team 1          | Score |     Team 2      |
-|:----:|:-----------------------:|:-----:|:---------------:|
-|  SF  | Eastbourne Borough Blue |       |   Pilgrims FC   |
-|  SF  | Eastbourne Borough Red  |       | Real 60 Jaguars |
+| Type |         Team 1          |    Score    |         Team 2         |
+|:----:|:-----------------------:|:-----------:|:----------------------:|
+|  SF  | Eastbourne Borough Blue | 2 &mdash; 0 |      Pilgrims FC       |
+|  SF  | Eastbourne Borough Red  | 5 &mdash; 1 |    Real 60 Jaguars     |
+|  F   | Eastbourne Borough Blue |             | Eastbourne Borough Red |
 
 
 ### Ladies Group 1
@@ -136,12 +148,12 @@ Click on the results summary to see individual match results.
 ### Vets knock-out
  
 
-| Type |       Team 1        | Score |        Team 2        |
-|:----:|:-------------------:|:-----:|:--------------------:|
-|  QF  | K Sports Vets BLUES |       |    Barming TNV X     |
-|  QF  | K Sports Vets REDS  |       | K Sports Vets GREENS |
-|  QF  |  Barming Old Boys   |       |       Heath FC       |
-|  QF  |    Barming TNV Y    |       |     Barming Duds     |
+| Type |       Team 1        |    Score    |        Team 2        |
+|:----:|:-------------------:|:-----------:|:--------------------:|
+|  QF  | K Sports Vets BLUES | 4 &mdash; 0 |    Barming TNV X     |
+|  QF  | K Sports Vets REDS  | 0 &mdash; 1 | K Sports Vets GREENS |
+|  QF  |  Barming Old Boys   |             |       Heath FC       |
+|  QF  |    Barming TNV Y    | 0 &mdash; 1 |     Barming Duds     |
 
 
 
