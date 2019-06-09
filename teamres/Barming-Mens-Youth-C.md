@@ -12,5 +12,6 @@ exclude: true
 | Barming Fenerbackache | 2 &mdash; 0 |  Barming Mens Youth C  |
 | Barming Mens Youth C  | 1 &mdash; 0 |     Barming Mens B     |
 | Barming Mens Youth C  | 1 &mdash; 0 | Larkfield Men Res Plus |
+|  Mens Blues Panthers  | 1 &mdash; 2 |  Barming Mens Youth C  |
 
  <br /><br /><br />

@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 15:39:12 
+#### Updated 2019-06-09 15:48:28 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -37,11 +37,12 @@ Click on the results summary to see individual match results.
 
 |             Team              | Played |                                                                                     Results                                                                                      | Points |
 |:-----------------------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|     Junior Reds U15 Roses     |  2/4   |     <a href="teamres/Junior-Reds-U15-Roses.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   6    |
-|  Grasshoppers JFC U16 girls   |  3/4   |  <a href="teamres/Grasshoppers-JFC-U16-girls.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>   |   6    |
-| Maidstone Utd Women U16 Amber |  2/4   | <a href="teamres/Maidstone-Utd-Women-U16-Amber.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   3    |
+|     Junior Reds U15 Roses     |  4/4   |     <a href="teamres/Junior-Reds-U15-Roses.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>     |   10   |
+|  Grasshoppers JFC U16 girls   |  4/4   |  <a href="teamres/Grasshoppers-JFC-U16-girls.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>   |   9    |
+| Maidstone Utd Women U16 Amber |  4/4   | <a href="teamres/Maidstone-Utd-Women-U16-Amber.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a> |   7    |
 |       Barming U16 Girls       |  4/4   |      <a href="teamres/Barming-U16-Girls-.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>       |   3    |
-|     Woodcoombe Ladies U16     |  1/4   |     <a href="teamres/Woodcoombe-Ladies-U16.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   0    |
+|     Woodcoombe Ladies U16     |  4/4   |     <a href="teamres/Woodcoombe-Ladies-U16.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>     |   0    |
+
 
 
 ### U16 Girls Group 2
@@ -52,6 +53,18 @@ Click on the results summary to see individual match results.
 |   Maidstone whites U16 ladies    |  3/3   |   <a href="teamres/Maidstone-whites-U16-ladies.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>    |   4    |
 |       Gravesham Girls U16        |  3/3   |       <a href="teamres/Gravesham-Girls-U16.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>        |   3    |
 |      Heybridge Swift Girls       |  3/3   |      <a href="teamres/Heybridge-Swift-Girls.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>       |   3    |
+
+
+
+### U16 Girls knock-out
+ 
+
+| Type |            Team 1             | Score |              Team 2              |
+|:----:|:-----------------------------:|:-----:|:--------------------------------:|
+|  QF  |     Junior Reds U15 Roses     |       |      Heybridge Swift Girls       |
+|  QF  |  Grasshoppers JFC U16 girls   |       |       Gravesham Girls U16        |
+|  QF  | Maidstone Utd Women U16 Amber |       |   Maidstone whites U16 ladies    |
+|  QF  |       Barming U16 Girls       |       | Maidstone United U15 Girls Amber |
 
 
 ### U18 Group 1
@@ -93,8 +106,8 @@ Click on the results summary to see individual match results.
 |          Team          | Played |                                                                                  Results                                                                                  | Points |
 |:----------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Barming Fenerbackache  |  4/4   | <a href="teamres/Barming-Fenerbackache.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>  |   10   |
-|  Mens Blues Panthers   |  3/4   |  <a href="teamres/Mens-Blues-Panthers.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>   |   6    |
-|  Barming Mens Youth C  |  3/4   |  <a href="teamres/Barming-Mens-Youth-C.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   6    |
+|  Barming Mens Youth C  |  4/4   |  <a href="teamres/Barming-Mens-Youth-C.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   9    |
+|  Mens Blues Panthers   |  4/4   |  <a href="teamres/Mens-Blues-Panthers.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   6    |
 | Larkfield Men Res Plus |  4/4   | <a href="teamres/Larkfield-Men-Res-Plus.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a> |   4    |
 |     Barming Mens B     |  4/4   |     <a href="teamres/Barming-Mens-B.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>     |   0    |
 
