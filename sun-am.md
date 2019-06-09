@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 13:08:55 
+#### Updated 2019-06-09 13:13:41 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -161,8 +161,9 @@ Click on the results summary to see individual match results.
 |  QF  |    Barming TNV Y    | 0 &mdash; 1 |     Barming Duds     |
 |  SF  | K Sports Vets BLUES | 3 &mdash; 1 | K Sports Vets GREENS |
 |  SF  |  Barming Old Boys   | 3 &mdash; 1 |     Barming Duds     |
-|  F   | K Sports Vets BLUES |             |   Barming Old Boys   |
+|  F   | K Sports Vets BLUES | 1 &mdash; 2 |   Barming Old Boys   |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The Vets winner is: Barming Old Boys
 
 <br /><br /><br />
