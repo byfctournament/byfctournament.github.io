@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 15:48:28 
+#### Updated 2019-06-09 16:00:08 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -16,10 +16,10 @@ Click on the results summary to see individual match results.
 |        Team        | Played |                                                                                Results                                                                                | Points |
 |:------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |   Barming Bears    |  4/4   |   <a href="teamres/Barming-Bears.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>    |   9    |
-| Chatham Town Blue  |  3/4   | <a href="teamres/Chatham-Town-Blue.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   6    |
-|    East Peckham    |  2/4   |   <a href="teamres/East-Peckham-.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   6    |
-| Park Farm Rangers  |  2/4   | <a href="teamres/Park-Farm-Rangers.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>  |   0    |
-| Barming Hurricanes |  3/4   | <a href="teamres/Barming-Hurricanes.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   0    |
+|    East Peckham    |  4/4   |   <a href="teamres/East-Peckham-.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>    |   8    |
+| Chatham Town Blue  |  4/4   | <a href="teamres/Chatham-Town-Blue.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>  |   7    |
+| Park Farm Rangers  |  4/4   | <a href="teamres/Park-Farm-Rangers.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>  |   4    |
+| Barming Hurricanes |  4/4   | <a href="teamres/Barming-Hurricanes.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a> |   0    |
 
 
 ### U16 Group 2
@@ -96,9 +96,9 @@ Click on the results summary to see individual match results.
 |:----------------------------:|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |         Barnhurst FC         |  4/4   |         <a href="teamres/Barnhurst-FC.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>          |   9    |
 |        Barming MENS A        |  3/4   |        <a href="teamres/Barming-MENS-A.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>         |   8    |
-|      Larkfield Men Res       |  2/4   |       <a href="teamres/Larkfield-Men-Res.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>       |   2    |
+|          EU Barming          |  3/4   |          <a href="teamres/EU-Barming.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>           |   3    |
+|      Larkfield Men Res       |  3/4   |       <a href="teamres/Larkfield-Men-Res.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>       |   2    |
 | Barming Mens Blues Lightning |  3/4   | <a href="teamres/Barming-Mens-Blues-Lightning-.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a> |   1    |
-|          EU Barming          |  2/4   |          <a href="teamres/EU-Barming.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>           |   0    |
 
 
 ### Men Group 2
