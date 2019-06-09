@@ -14,5 +14,6 @@ exclude: true
 |       Barming Reds        | 0 &mdash; 1 |   Hempstead Valley    |
 |  Sittingbourne lions U14  | 0 &mdash; 0 |   Hempstead Valley    |
 | Kings Hill U14 Hurricanes | 0 &mdash; 1 |   Hempstead Valley    |
+|     Hempstead Valley      | 1 &mdash; 0 |      Charing U14      |
 
  <br /><br /><br />

@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 11:23:41 
+#### Updated 2019-06-09 11:28:32 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -15,9 +15,9 @@ Click on the results summary to see individual match results.
 
 |           Team            | Played |                                                                                   Results                                                                                    | Points |
 |:-------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|     Hempstead Valley      |  6/6   |     <a href="teamres/Hempstead-Valley-.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>     |   13   |
 |   Biddenden Juniors U14   |  6/6   |   <a href="teamres/Biddenden-Juniors-U14.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>   |   10   |
-|     Hempstead Valley      |  5/6   |     <a href="teamres/Hempstead-Valley-.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>     |   10   |
-|        Charing U14        |  5/6   |        <a href="teamres/Charing-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>        |   7    |
+|        Charing U14        |  6/6   |        <a href="teamres/Charing-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>        |   7    |
 |  Sittingbourne lions U14  |  5/6   |  <a href="teamres/Sittingbourne-lions-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>  |   7    |
 | Kings Hill U14 Hurricanes |  5/6   | <a href="teamres/Kings-Hill-U14-Hurricanes.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   6    |
 |    K sports U14 United    |  5/6   |    <a href="teamres/K-sports-U14-United.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>    |   5    |
@@ -49,6 +49,7 @@ Click on the results summary to see individual match results.
 |   Otford United Juniors B    |  5/5   |   <a href="teamres/Otford-United-Juniors-B.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>    |   3    |
 
 
+
 ### U15 Group 2
 
 |          Team           | Played |                                                                                  Results                                                                                   | Points |
@@ -59,6 +60,16 @@ Click on the results summary to see individual match results.
 |    Real 60 Panthers     |  5/5   |    <a href="teamres/Real-60-Panthers-.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>    |   5    |
 | Otford United Juniors A |  5/5   | <a href="teamres/Otford-United-Juniors-A.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a> |   5    |
 |    Barming Blues U15    |  5/5   |    <a href="teamres/Barming-Blues-U15.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>    |   1    |
+
+
+
+### U15 knock-out
+ 
+
+| Type |         Team 1          | Score |     Team 2      |
+|:----:|:-----------------------:|:-----:|:---------------:|
+|  SF  | Eastbourne Borough Blue |       |   Pilgrims FC   |
+|  SF  | Eastbourne Borough Red  |       | Real 60 Jaguars |
 
 
 ### Ladies Group 1

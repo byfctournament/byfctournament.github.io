@@ -3,7 +3,14 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 11:23:29 [L] Charing U14 [ 2 - 0 ] K sports U14 United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Charing+U14+[+2+-+0+]+K+sports+U14+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 11:28:13 [L] Hempstead Valley  [ 1 - 0 ] Charing U14 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Hempstead+Valley++[+1+-+0+]+Charing+U14&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Hempstead+Valley++[+1+-+0+]+Charing+U14
+  &description=[L]+Hempstead+Valley++[+1+-+0+]+Charing+U14" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:23:29 [L] Charing U14 [ 2 - 0 ] K sports U14 United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Charing+U14+[+2+-+0+]+K+sports+U14+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Charing+U14+[+2+-+0+]+K+sports+U14+United
@@ -204,12 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Otford+United+Juniors+B+[+0+-+2+]+Eastbourne+Borough+Blue
   &description=[L]+Otford+United+Juniors+B+[+0+-+2+]+Eastbourne+Borough+Blue" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:47:51 [L] Barming Old Boys [ 0 - 0 ] Barming Bandits &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Old+Boys+[+0+-+0+]+Barming+Bandits&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Barming+Old+Boys+[+0+-+0+]+Barming+Bandits
-  &description=[L]+Barming+Old+Boys+[+0+-+0+]+Barming+Bandits" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>
