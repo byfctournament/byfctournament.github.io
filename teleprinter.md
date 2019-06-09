@@ -3,7 +3,28 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 11:03:50 [L] Eastbourne Borough Blue [ 1 - 0 ] Chatham Riverside Rovers U15 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Eastbourne+Borough+Blue+[+1+-+0+]+Chatham+Riverside+Rovers+U15&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 11:09:47 [L] Oasis Ladies Red [ 2 - 3 ] Barming Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Oasis+Ladies+Red+[+2+-+3+]+Barming+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Oasis+Ladies+Red+[+2+-+3+]+Barming+Blue
+  &description=[L]+Oasis+Ladies+Red+[+2+-+3+]+Barming+Blue" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:07:03 [L] Teynham LFC [ 0 - 1 ] Aylesford Allstars  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Teynham+LFC+[+0+-+1+]+Aylesford+Allstars+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Teynham+LFC+[+0+-+1+]+Aylesford+Allstars+
+  &description=[L]+Teynham+LFC+[+0+-+1+]+Aylesford+Allstars+" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:06:51 [L] Ditton Minors [ 0 - 1 ] Barming Youth &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Ditton+Minors+[+0+-+1+]+Barming+Youth&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Ditton+Minors+[+0+-+1+]+Barming+Youth
+  &description=[L]+Ditton+Minors+[+0+-+1+]+Barming+Youth" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:03:50 [L] Eastbourne Borough Blue [ 1 - 0 ] Chatham Riverside Rovers U15 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Eastbourne+Borough+Blue+[+1+-+0+]+Chatham+Riverside+Rovers+U15&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Eastbourne+Borough+Blue+[+1+-+0+]+Chatham+Riverside+Rovers+U15
@@ -190,26 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Kings+Hill+U14+Colts+[+0+-+1+]+Ditton+Minors
   &description=[L]+Kings+Hill+U14+Colts+[+0+-+1+]+Ditton+Minors" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:35:17 [L] Real 60 Panthers  [ 0 - 0 ] Coxheath & Farleigh U15 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Real+60+Panthers++[+0+-+0+]+Coxheath+&+Farleigh+U15&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Real+60+Panthers++[+0+-+0+]+Coxheath+&+Farleigh+U15
-  &description=[L]+Real+60+Panthers++[+0+-+0+]+Coxheath+&+Farleigh+U15" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:33:12 [L] Kings Hill U14 Hurricanes [ 2 - 0 ] K sports U14 United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Kings+Hill+U14+Hurricanes+[+2+-+0+]+K+sports+U14+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Kings+Hill+U14+Hurricanes+[+2+-+0+]+K+sports+U14+United
-  &description=[L]+Kings+Hill+U14+Hurricanes+[+2+-+0+]+K+sports+U14+United" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:32:43 [L] Eastbourne Borough Red  [ 4 - 0 ] Pilgrims FC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Eastbourne+Borough+Red++[+4+-+0+]+Pilgrims+FC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Eastbourne+Borough+Red++[+4+-+0+]+Pilgrims+FC
-  &description=[L]+Eastbourne+Borough+Red++[+4+-+0+]+Pilgrims+FC" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>

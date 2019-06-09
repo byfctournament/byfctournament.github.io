@@ -13,5 +13,6 @@ exclude: true
 | Belhus Ladies B | 0 &mdash; 1 |       Teynham LFC       |
 |   Teynham LFC   | 1 &mdash; 0 |    Oasis Ladies Red     |
 |   Teynham LFC   | 1 &mdash; 0 |      Barming Blue       |
+|   Teynham LFC   | 0 &mdash; 1 |   Aylesford Allstars    |
 
  <br /><br /><br />

@@ -13,5 +13,6 @@ exclude: true
 |   Aylesford Allstars    | 2 &mdash; 0 |    Oasis Ladies Red     |
 | Cray Valley (PM) Ladies | 0 &mdash; 0 |   Aylesford Allstars    |
 |   Aylesford Allstars    | 0 &mdash; 1 | Burgess Hill Town Green |
+|       Teynham LFC       | 0 &mdash; 1 |   Aylesford Allstars    |
 
  <br /><br /><br />

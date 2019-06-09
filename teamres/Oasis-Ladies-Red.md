@@ -13,5 +13,6 @@ exclude: true
 | Burgess Hill Town Green | 1 &mdash; 0 | Oasis Ladies Red |
 |       Teynham LFC       | 1 &mdash; 0 | Oasis Ladies Red |
 | Cray Valley (PM) Ladies | 0 &mdash; 0 | Oasis Ladies Red |
+|    Oasis Ladies Red     | 2 &mdash; 3 |   Barming Blue   |
 
  <br /><br /><br />
