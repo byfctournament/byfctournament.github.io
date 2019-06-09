@@ -13,5 +13,6 @@ exclude: true
 |        Charing U14        | 1 &mdash; 0 | Kings Hill U14 Hurricanes |
 | Kings Hill U14 Hurricanes | 0 &mdash; 1 |  Sittingbourne lions U14  |
 | Kings Hill U14 Hurricanes | 2 &mdash; 0 |    K sports U14 United    |
+| Kings Hill U14 Hurricanes | 0 &mdash; 1 |     Hempstead Valley      |
 
  <br /><br /><br />
