@@ -3,7 +3,21 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 17:48:27 [F] East Peckham  [ 0 - 2 ] EP United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+East+Peckham++[+0+-+2+]+EP+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 18:08:16 [F] St.Clere's Gold [ 3 - 2 ] Rochester FC U18 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+St.Clere's+Gold+[+3+-+2+]+Rochester+FC+U18&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[F]+St.Clere's+Gold+[+3+-+2+]+Rochester+FC+U18
+  &description=[F]+St.Clere's+Gold+[+3+-+2+]+Rochester+FC+U18" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:58:18 [S] EU Barming [ 3 - 4 ] Barming Fenerbackache &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+EU+Barming+[+3+-+4+]+Barming+Fenerbackache&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[S]+EU+Barming+[+3+-+4+]+Barming+Fenerbackache
+  &description=[S]+EU+Barming+[+3+-+4+]+Barming+Fenerbackache" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:48:27 [F] East Peckham  [ 0 - 2 ] EP United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+East+Peckham++[+0+-+2+]+EP+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[F]+East+Peckham++[+0+-+2+]+EP+United
@@ -197,19 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Barming+Mens+Blues+Lightning++[+0+-+0+]+EU+Barming
   &description=[L]+Barming+Mens+Blues+Lightning++[+0+-+0+]+EU+Barming" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 16:07:36 [L] St Clere's Orange [ 1 - 1 ] Yalding and Laddingford U18 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+St+Clere's+Orange+[+1+-+1+]+Yalding+and+Laddingford+U18&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+St+Clere's+Orange+[+1+-+1+]+Yalding+and+Laddingford+U18
-  &description=[L]+St+Clere's+Orange+[+1+-+1+]+Yalding+and+Laddingford+U18" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 16:04:26 [L] Loose Lions U18 [ 1 - 0 ] St Clere's Orange &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Loose+Lions+U18+[+1+-+0+]+St+Clere's+Orange&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Loose+Lions+U18+[+1+-+0+]+St+Clere's+Orange
-  &description=[L]+Loose+Lions+U18+[+1+-+0+]+St+Clere's+Orange" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>

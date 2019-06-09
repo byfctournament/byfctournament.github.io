@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 17:48:44 
+#### Updated 2019-06-09 18:08:25 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -123,9 +123,10 @@ Click on the results summary to see individual match results.
 |  QF  | St Clere's Orange | 0 &mdash; 2 |  Rochester FC U18   |
 |  SF  |  St.Clere's Gold  | 2 &mdash; 1 | Barming Youth U18 B |
 |  SF  | Barming U18 Youth | 0 &mdash; 3 |  Rochester FC U18   |
-|  F   |  St.Clere's Gold  |             |  Rochester FC U18   |
+|  F   |  St.Clere's Gold  | 3 &mdash; 2 |  Rochester FC U18   |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U18 winner is: St.Clere's Gold
 ### Men Group 1
  Two groups. QF: 1st Group A v 4th Group B, 2nd Group A v 3rd Group B, 3rd Group A v 2nd Group B, 4th Group A v 1st Group B; SF: QF1 v QF2, QF3 v QF4; Final: SF1 v SF2
 
@@ -161,7 +162,8 @@ Click on the results summary to see individual match results.
 |  QF  |    EU Barming     | 3 &mdash; 2 |  Barming Mens Youth C  |
 |  QF  | Larkfield Men Res | 0 &mdash; 1 | Barming Fenerbackache  |
 |  SF  |  Barming MENS A   | 0 &mdash; 1 |      Barnhurst FC      |
-|  SF  |    EU Barming     |             | Barming Fenerbackache  |
+|  SF  |    EU Barming     | 3 &mdash; 4 | Barming Fenerbackache  |
+|  F   |   Barnhurst FC    |             | Barming Fenerbackache  |
 
 
 
