@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|      Team 1      |  ::Score::  |    Team 2     |
-|:----------------:|:-----------:|:-------------:|
-| Chatham Town Red | 2 &mdash; 0 | Barming Bulls |
+|      Team 1      |  ::Score::  |      Team 2       |
+|:----------------:|:-----------:|:-----------------:|
+| Chatham Town Red | 2 &mdash; 0 |   Barming Bulls   |
+| Chatham Town Red | 3 &mdash; 0 | Barming Spitfires |
 
  <br /><br /><br />

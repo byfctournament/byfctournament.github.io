@@ -7,8 +7,9 @@ exclude: true
 
 
 
-|  Team 1   |  ::Score::  |      Team 2       |
-|:---------:|:-----------:|:-----------------:|
-| EP United | 3 &mdash; 0 | Barming Spitfires |
+|      Team 1      |  ::Score::  |      Team 2       |
+|:----------------:|:-----------:|:-----------------:|
+|    EP United     | 3 &mdash; 0 | Barming Spitfires |
+| Chatham Town Red | 3 &mdash; 0 | Barming Spitfires |
 
  <br /><br /><br />
