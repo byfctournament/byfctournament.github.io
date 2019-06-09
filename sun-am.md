@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 12:08:27 
+#### Updated 2019-06-09 12:15:00 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -115,10 +115,10 @@ Click on the results summary to see individual match results.
 ### Ladies knock-out
  
 
-| Type |         Team 1          | Score |      Team 2       |
-|:----:|:-----------------------:|:-----:|:-----------------:|
-|  SF  | Burgess Hill Town Green |       | Eastbourne United |
-|  SF  |   Bexhill United LFC    |       |    Teynham LFC    |
+| Type |         Team 1          |    Score    |      Team 2       |
+|:----:|:-----------------------:|:-----------:|:-----------------:|
+|  SF  | Burgess Hill Town Green | 1 &mdash; 0 | Eastbourne United |
+|  SF  |   Bexhill United LFC    |             |    Teynham LFC    |
 
 
 ### Vets Group 1
@@ -152,8 +152,10 @@ Click on the results summary to see individual match results.
 |:----:|:-------------------:|:-----------:|:--------------------:|
 |  QF  | K Sports Vets BLUES | 4 &mdash; 0 |    Barming TNV X     |
 |  QF  | K Sports Vets REDS  | 0 &mdash; 1 | K Sports Vets GREENS |
-|  QF  |  Barming Old Boys   |             |       Heath FC       |
+|  QF  |  Barming Old Boys   | 1 &mdash; 0 |       Heath FC       |
 |  QF  |    Barming TNV Y    | 0 &mdash; 1 |     Barming Duds     |
+|  SF  | K Sports Vets BLUES |             | K Sports Vets GREENS |
+|  SF  |  Barming Old Boys   |             |     Barming Duds     |
 
 
 
