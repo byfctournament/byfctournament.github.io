@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 16:47:51 
+#### Updated 2019-06-09 17:10:01 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -44,7 +44,7 @@ Click on the results summary to see individual match results.
 |  QF  | Chatham Town Blue | 1 &mdash; 2 | Chatham Town Red  |
 |  QF  | Park Farm Rangers | 0 &mdash; 1 |     EP United     |
 |  SF  |   Barming Bears   |             |   East Peckham    |
-|  SF  | Chatham Town Red  |             |     EP United     |
+|  SF  | Chatham Town Red  | 0 &mdash; 1 |     EP United     |
 
 
 ### U16 Girls Group 1
@@ -80,8 +80,9 @@ Click on the results summary to see individual match results.
 |  QF  |  Grasshoppers JFC U16 girls   | 0 &mdash; 1 |       Gravesham Girls U16        |
 |  QF  | Maidstone Utd Women U16 Amber | 1 &mdash; 3 |   Maidstone whites U16 ladies    |
 |  QF  |       Barming U16 Girls       | 1 &mdash; 4 | Maidstone United U15 Girls Amber |
-|  SF  |     Junior Reds U15 Roses     |             |       Gravesham Girls U16        |
-|  SF  |  Maidstone whites U16 ladies  |             | Maidstone United U15 Girls Amber |
+|  SF  |     Junior Reds U15 Roses     | 1 &mdash; 0 |       Gravesham Girls U16        |
+|  SF  |  Maidstone whites U16 ladies  | 3 &mdash; 2 | Maidstone United U15 Girls Amber |
+|  F   |     Junior Reds U15 Roses     |             |   Maidstone whites U16 ladies    |
 
 
 ### U18 Group 1
@@ -113,10 +114,12 @@ Click on the results summary to see individual match results.
 
 | Type |      Team 1       |    Score    |       Team 2        |
 |:----:|:-----------------:|:-----------:|:-------------------:|
-|  QF  |  Loose Lions U18  |             |   St.Clere's Gold   |
-|  QF  | Barming Blues U18 |             | Barming Youth U18 B |
-|  QF  | Barming U18 Youth |             | Barming Blues U18 B |
+|  QF  |  Loose Lions U18  | 3 &mdash; 4 |   St.Clere's Gold   |
+|  QF  | Barming Blues U18 | 0 &mdash; 1 | Barming Youth U18 B |
+|  QF  | Barming U18 Youth | 1 &mdash; 0 | Barming Blues U18 B |
 |  QF  | St Clere's Orange | 0 &mdash; 2 |  Rochester FC U18   |
+|  SF  |  St.Clere's Gold  |             | Barming Youth U18 B |
+|  SF  | Barming U18 Youth |             |  Rochester FC U18   |
 
 
 ### Men Group 1
@@ -147,12 +150,12 @@ Click on the results summary to see individual match results.
 ### Men knock-out
  
 
-| Type |      Team 1       | Score |         Team 2         |
-|:----:|:-----------------:|:-----:|:----------------------:|
-|  QF  |  Barming MENS A   |       | Larkfield Men Res Plus |
-|  QF  |   Barnhurst FC    |       |  Mens Blues Panthers   |
-|  QF  |    EU Barming     |       |  Barming Mens Youth C  |
-|  QF  | Larkfield Men Res |       | Barming Fenerbackache  |
+| Type |      Team 1       |    Score    |         Team 2         |
+|:----:|:-----------------:|:-----------:|:----------------------:|
+|  QF  |  Barming MENS A   | 1 &mdash; 0 | Larkfield Men Res Plus |
+|  QF  |   Barnhurst FC    | 3 &mdash; 0 |  Mens Blues Panthers   |
+|  QF  |    EU Barming     |             |  Barming Mens Youth C  |
+|  QF  | Larkfield Men Res |             | Barming Fenerbackache  |
 
 
 
