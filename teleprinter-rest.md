@@ -3,7 +3,21 @@ layout: page
 title: Teleprinter (earlier)
 ---
 
-<table><tr><td>2019-06-09 10:51:01 [L] Charing U14 [ 0 - 0 ] Barming Reds &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Charing+U14+[+0+-+0+]+Barming+Reds&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 10:52:53 [L] K Sports Vets BLUES [ 0 - 2 ] K Sports Vets REDS &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+K+Sports+Vets+BLUES+[+0+-+2+]+K+Sports+Vets+REDS&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+K+Sports+Vets+BLUES+[+0+-+2+]+K+Sports+Vets+REDS
+  &description=[L]+K+Sports+Vets+BLUES+[+0+-+2+]+K+Sports+Vets+REDS" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 10:52:29 [L] Teynham LFC [ 1 - 0 ] Barming Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Teynham+LFC+[+1+-+0+]+Barming+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Teynham+LFC+[+1+-+0+]+Barming+Blue
+  &description=[L]+Teynham+LFC+[+1+-+0+]+Barming+Blue" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 10:51:01 [L] Charing U14 [ 0 - 0 ] Barming Reds &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Charing+U14+[+0+-+0+]+Barming+Reds&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Charing+U14+[+0+-+0+]+Barming+Reds

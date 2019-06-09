@@ -14,5 +14,6 @@ exclude: true
 | Cray Valley (PM) Ladies | 0 &mdash; 0 |   Aylesford Allstars    |
 |   Aylesford Allstars    | 0 &mdash; 1 | Burgess Hill Town Green |
 |       Teynham LFC       | 0 &mdash; 1 |   Aylesford Allstars    |
+|     Belhus Ladies B     | 0 &mdash; 4 |   Aylesford Allstars    |
 
  <br /><br /><br />

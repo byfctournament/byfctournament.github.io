@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 11:48:23 
+#### Updated 2019-06-09 11:54:50 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -19,9 +19,9 @@ Click on the results summary to see individual match results.
 |   Biddenden Juniors U14   |  6/6   |   <a href="teamres/Biddenden-Juniors-U14.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>   |   10   |
 |  Sittingbourne lions U14  |  6/6   |  <a href="teamres/Sittingbourne-lions-U14.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>  |   9    |
 |    K sports U14 United    |  6/6   |    <a href="teamres/K-sports-U14-United.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>    |   7    |
+| Kings Hill U14 Hurricanes |  6/6   | <a href="teamres/Kings-Hill-U14-Hurricanes.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a> |   7    |
 |        Charing U14        |  6/6   |        <a href="teamres/Charing-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>        |   7    |
-| Kings Hill U14 Hurricanes |  5/6   | <a href="teamres/Kings-Hill-U14-Hurricanes.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   6    |
-|       Barming Reds        |  5/6   |       <a href="teamres/Barming-Reds.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a>        |   5    |
+|       Barming Reds        |  6/6   |       <a href="teamres/Barming-Reds.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>2<font size="1">G</font></a>        |   6    |
 
 
 ### U14 Group 2
@@ -79,11 +79,12 @@ Click on the results summary to see individual match results.
 |:-----------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Burgess Hill Town Green |  6/6   | <a href="teamres/Burgess-Hill-Town-Green.html"><font size="1">W</font>5<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>  |   16   |
 |       Teynham LFC       |  6/6   |       <a href="teamres/Teynham-LFC.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>        |   13   |
-|   Aylesford Allstars    |  5/6   |   <a href="teamres/Aylesford-Allstars-.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   9    |
+|   Aylesford Allstars    |  6/6   |   <a href="teamres/Aylesford-Allstars-.html"><font size="1">W</font>3<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   12   |
 |      Barming Blue       |  6/6   |       <a href="teamres/Barming-Blue.html"><font size="1">W</font>1<font size="1">S</font>2<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>       |   7    |
 | Cray Valley (PM) Ladies |  6/6   | <a href="teamres/Cray-Valley-(PM)-Ladies-.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a> |   7    |
 |    Oasis Ladies Red     |  6/6   |     <a href="teamres/Oasis-Ladies-Red.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>     |   4    |
-|     Belhus Ladies B     |  5/6   |     <a href="teamres/Belhus-Ladies-B.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>      |   3    |
+|     Belhus Ladies B     |  6/6   |     <a href="teamres/Belhus-Ladies-B.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>5<font size="1">G</font></a>      |   3    |
+
 
 
 ### Ladies Group 2
@@ -96,6 +97,16 @@ Click on the results summary to see individual match results.
 |     Barming White     |  5/5   |     <a href="teamres/Barming-White.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>     |   6    |
 | Burgess Hill Town Red |  5/5   | <a href="teamres/Burgess-Hill-Town-Red.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a> |   3    |
 |   Oasis Ladies Blue   |  5/5   |   <a href="teamres/Oasis-Ladies-Blue.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>3<font size="1">G</font></a>   |   2    |
+
+
+
+### Ladies knock-out
+ 
+
+| Type |         Team 1          | Score |      Team 2       |
+|:----:|:-----------------------:|:-----:|:-----------------:|
+|  SF  | Burgess Hill Town Green |       | Eastbourne United |
+|  SF  |   Bexhill United LFC    |       |    Teynham LFC    |
 
 
 ### Vets Group 1

@@ -3,7 +3,21 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 11:46:32 [L] Burgess Hill Town Green [ 5 - 0 ] Barming Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Burgess+Hill+Town+Green+[+5+-+0+]+Barming+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 11:51:41 [L] Barming Reds [ 0 - 0 ] Kings Hill U14 Hurricanes &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Reds+[+0+-+0+]+Kings+Hill+U14+Hurricanes&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Barming+Reds+[+0+-+0+]+Kings+Hill+U14+Hurricanes
+  &description=[L]+Barming+Reds+[+0+-+0+]+Kings+Hill+U14+Hurricanes" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:50:50 [L] Belhus Ladies B [ 0 - 4 ] Aylesford Allstars  &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Belhus+Ladies+B+[+0+-+4+]+Aylesford+Allstars+&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[L]+Belhus+Ladies+B+[+0+-+4+]+Aylesford+Allstars+
+  &description=[L]+Belhus+Ladies+B+[+0+-+4+]+Aylesford+Allstars+" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 11:46:32 [L] Burgess Hill Town Green [ 5 - 0 ] Barming Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Burgess+Hill+Town+Green+[+5+-+0+]+Barming+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Burgess+Hill+Town+Green+[+5+-+0+]+Barming+Blue
@@ -197,19 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Goudhurst+Dynamos+U14+[+1+-+2+]+Otford+United+Juniors+B
   &description=[L]+Goudhurst+Dynamos+U14+[+1+-+2+]+Otford+United+Juniors+B" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:52:53 [L] K Sports Vets BLUES [ 0 - 2 ] K Sports Vets REDS &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+K+Sports+Vets+BLUES+[+0+-+2+]+K+Sports+Vets+REDS&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+K+Sports+Vets+BLUES+[+0+-+2+]+K+Sports+Vets+REDS
-  &description=[L]+K+Sports+Vets+BLUES+[+0+-+2+]+K+Sports+Vets+REDS" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 10:52:29 [L] Teynham LFC [ 1 - 0 ] Barming Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Teynham+LFC+[+1+-+0+]+Barming+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Teynham+LFC+[+1+-+0+]+Barming+Blue
-  &description=[L]+Teynham+LFC+[+1+-+0+]+Barming+Blue" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>
