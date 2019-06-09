@@ -11,5 +11,6 @@ exclude: true
 |:-----------------------:|:-----------:|:----------------:|
 |   Aylesford Allstars    | 2 &mdash; 0 | Oasis Ladies Red |
 | Burgess Hill Town Green | 1 &mdash; 0 | Oasis Ladies Red |
+|       Teynham LFC       | 1 &mdash; 0 | Oasis Ladies Red |
 
  <br /><br /><br />
