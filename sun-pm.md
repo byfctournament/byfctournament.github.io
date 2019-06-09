@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 18:08:25 
+#### Updated 2019-06-09 18:15:48 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -163,8 +163,9 @@ Click on the results summary to see individual match results.
 |  QF  | Larkfield Men Res | 0 &mdash; 1 | Barming Fenerbackache  |
 |  SF  |  Barming MENS A   | 0 &mdash; 1 |      Barnhurst FC      |
 |  SF  |    EU Barming     | 3 &mdash; 4 | Barming Fenerbackache  |
-|  F   |   Barnhurst FC    |             | Barming Fenerbackache  |
+|  F   |   Barnhurst FC    | 4 &mdash; 0 | Barming Fenerbackache  |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The Men winner is: Barnhurst FC
 
 <br /><br /><br />
