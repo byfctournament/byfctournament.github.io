@@ -3,7 +3,14 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 12:54:53 [F] Burgess Hill Town Green [ 0 - 1 ] Bexhill United LFC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+Burgess+Hill+Town+Green+[+0+-+1+]+Bexhill+United+LFC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 13:08:50 [F] Hempstead Valley  [ 0 - 1 ] Biddenden Juniors U14 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+Hempstead+Valley++[+0+-+1+]+Biddenden+Juniors+U14&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[F]+Hempstead+Valley++[+0+-+1+]+Biddenden+Juniors+U14
+  &description=[F]+Hempstead+Valley++[+0+-+1+]+Biddenden+Juniors+U14" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 12:54:53 [F] Burgess Hill Town Green [ 0 - 1 ] Bexhill United LFC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+Burgess+Hill+Town+Green+[+0+-+1+]+Bexhill+United+LFC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[F]+Burgess+Hill+Town+Green+[+0+-+1+]+Bexhill+United+LFC
@@ -204,12 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Teynham+LFC+[+0+-+1+]+Aylesford+Allstars+
   &description=[L]+Teynham+LFC+[+0+-+1+]+Aylesford+Allstars+" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 11:06:51 [L] Ditton Minors [ 0 - 1 ] Barming Youth &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Ditton+Minors+[+0+-+1+]+Barming+Youth&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Ditton+Minors+[+0+-+1+]+Barming+Youth
-  &description=[L]+Ditton+Minors+[+0+-+1+]+Barming+Youth" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>

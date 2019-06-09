@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2019-06-09 12:55:06 
+#### Updated 2019-06-09 13:08:55 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -45,9 +45,10 @@ Click on the results summary to see individual match results.
 |:----:|:----------------:|:-----------:|:---------------------:|
 |  SF  | Hempstead Valley | 3 &mdash; 0 |        Mersham        |
 |  SF  |  Barming Youth   | 0 &mdash; 2 | Biddenden Juniors U14 |
-|  F   | Hempstead Valley |             | Biddenden Juniors U14 |
+|  F   | Hempstead Valley | 0 &mdash; 1 | Biddenden Juniors U14 |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U14 winner is: Biddenden Juniors U14
 ### U15 Group 1
  Two groups. SF: 1st Group A v 2nd Group B, 2nd Group A v 1st Group B; Final: SF1 v SF2
 
