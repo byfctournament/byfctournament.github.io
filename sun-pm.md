@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2019-06-09 17:31:37 
+#### Updated 2019-06-09 17:48:44 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -45,9 +45,10 @@ Click on the results summary to see individual match results.
 |  QF  | Park Farm Rangers | 0 &mdash; 1 |     EP United     |
 |  SF  |   Barming Bears   | 0 &mdash; 2 |   East Peckham    |
 |  SF  | Chatham Town Red  | 0 &mdash; 1 |     EP United     |
-|  F   |   East Peckham    |             |     EP United     |
+|  F   |   East Peckham    | 0 &mdash; 2 |     EP United     |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U16 winner is: EP United
 ### U16 Girls Group 1
  Two groups. QF: 1st Group A v 4th Group B, 2nd Group A v 3rd Group B, 3rd Group A v 2nd Group B, 4th Group A v 1st Group B; SF: QF1 v QF2, QF3 v QF4; Final: SF1 v SF2
 
@@ -83,9 +84,10 @@ Click on the results summary to see individual match results.
 |  QF  |       Barming U16 Girls       | 1 &mdash; 4 | Maidstone United U15 Girls Amber |
 |  SF  |     Junior Reds U15 Roses     | 1 &mdash; 0 |       Gravesham Girls U16        |
 |  SF  |  Maidstone whites U16 ladies  | 3 &mdash; 2 | Maidstone United U15 Girls Amber |
-|  F   |     Junior Reds U15 Roses     |             |   Maidstone whites U16 ladies    |
+|  F   |     Junior Reds U15 Roses     | 2 &mdash; 0 |   Maidstone whites U16 ladies    |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U16 Girls winner is: Junior Reds U15 Roses
 ### U18 Group 1
  Two groups. QF: 1st Group A v 4th Group B, 2nd Group A v 3rd Group B, 3rd Group A v 2nd Group B, 4th Group A v 1st Group B; SF: QF1 v QF2, QF3 v QF4; Final: SF1 v SF2
 
@@ -158,7 +160,7 @@ Click on the results summary to see individual match results.
 |  QF  |   Barnhurst FC    | 3 &mdash; 0 |  Mens Blues Panthers   |
 |  QF  |    EU Barming     | 3 &mdash; 2 |  Barming Mens Youth C  |
 |  QF  | Larkfield Men Res | 0 &mdash; 1 | Barming Fenerbackache  |
-|  SF  |  Barming MENS A   |             |      Barnhurst FC      |
+|  SF  |  Barming MENS A   | 0 &mdash; 1 |      Barnhurst FC      |
 |  SF  |    EU Barming     |             | Barming Fenerbackache  |
 
 

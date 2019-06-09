@@ -3,7 +3,28 @@ layout: page
 title: Teleprinter (recent)
 ---
 
-<table><tr><td>2019-06-09 17:30:14 [S] Barming U18 Youth [ 0 - 3 ] Rochester FC U18 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Barming+U18+Youth+[+0+-+3+]+Rochester+FC+U18&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+<table><tr><td>2019-06-09 17:48:27 [F] East Peckham  [ 0 - 2 ] EP United &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+East+Peckham++[+0+-+2+]+EP+United&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[F]+East+Peckham++[+0+-+2+]+EP+United
+  &description=[F]+East+Peckham++[+0+-+2+]+EP+United" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:47:02 [S] Barming MENS A [ 0 - 1 ] Barnhurst FC &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Barming+MENS+A+[+0+-+1+]+Barnhurst+FC&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[S]+Barming+MENS+A+[+0+-+1+]+Barnhurst+FC
+  &description=[S]+Barming+MENS+A+[+0+-+1+]+Barnhurst+FC" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:32:38 [F] Junior Reds U15 Roses [ 2 - 0 ] Maidstone whites U16 ladies &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[F]+Junior+Reds+U15+Roses+[+2+-+0+]+Maidstone+whites+U16+ladies&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
+&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
+  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
+  &quote=[F]+Junior+Reds+U15+Roses+[+2+-+0+]+Maidstone+whites+U16+ladies
+  &description=[F]+Junior+Reds+U15+Roses+[+2+-+0+]+Maidstone+whites+U16+ladies" target="_blank">
+    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
+    </a></td></tr>
+<tr><td>2019-06-09 17:30:14 [S] Barming U18 Youth [ 0 - 3 ] Rochester FC U18 &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[S]+Barming+U18+Youth+[+0+-+3+]+Rochester+FC+U18&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
 &picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[S]+Barming+U18+Youth+[+0+-+3+]+Rochester+FC+U18
@@ -190,26 +211,5 @@ title: Teleprinter (recent)
   &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
   &quote=[L]+Loose+Lions+U18+[+1+-+0+]+St+Clere's+Orange
   &description=[L]+Loose+Lions+U18+[+1+-+0+]+St+Clere's+Orange" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 15:59:53 [L] Barming Hurricanes [ 1 - 2 ] Park Farm Rangers &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+Barming+Hurricanes+[+1+-+2+]+Park+Farm+Rangers&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+Barming+Hurricanes+[+1+-+2+]+Park+Farm+Rangers
-  &description=[L]+Barming+Hurricanes+[+1+-+2+]+Park+Farm+Rangers" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 15:59:40 [L] East Peckham  [ 0 - 0 ] Chatham Town Blue &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+East+Peckham++[+0+-+0+]+Chatham+Town+Blue&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+East+Peckham++[+0+-+0+]+Chatham+Town+Blue
-  &description=[L]+East+Peckham++[+0+-+0+]+Chatham+Town+Blue" target="_blank">
-    <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
-    </a></td></tr>
-<tr><td>2019-06-09 15:59:24 [L] East Peckham  [ 0 - 0 ] Park Farm Rangers &nbsp;<a class="" href="https://twitter.com/intent/tweet?text=[L]+East+Peckham++[+0+-+0+]+Park+Farm+Rangers&hashtags=BYFCtournament2017">Tweet</a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftournament.barmingyouth.co.uk%2Fteleprinter.html
-&picture=https%3A%2F%2Fscontent-lhr3-1.xx.fbcdn.net%2Fv%2Ft1.0-9%2F10906024_1597801090451427_3821196858506344826_n.jpg%3Foh%3Db070fab9d4cc6d0fa728858df853d53b%26oe%3D59B17872
-  &title=Barming%20Youth%20Football%20Club%20tournament%202017%3A%20result
-  &quote=[L]+East+Peckham++[+0+-+0+]+Park+Farm+Rangers
-  &description=[L]+East+Peckham++[+0+-+0+]+Park+Farm+Rangers" target="_blank">
     <img src="assets/images/facebook-share-button-60.png" alt="Share on Facebook">
     </a></td></tr></table>
