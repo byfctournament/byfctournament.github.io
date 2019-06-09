@@ -11,5 +11,6 @@ exclude: true
 |:----------------------------:|:-----------:|:-----------------:|
 | Barming Mens Blues Lightning | 0 &mdash; 3 |   Barnhurst FC    |
 |         Barnhurst FC         | 0 &mdash; 0 | Larkfield Men Res |
+|          EU Barming          | 0 &mdash; 1 |   Barnhurst FC    |
 
  <br /><br /><br />

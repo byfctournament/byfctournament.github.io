@@ -11,5 +11,6 @@ exclude: true
 |:-------------------:|:-----------:|:-------------------:|
 |  Rochester FC U18   | 2 &mdash; 2 | Barming Blues U18 B |
 | Barming Blues U18 B | 0 &mdash; 0 |   St.Clere's Gold   |
+| Barming Blues U18 B | 1 &mdash; 1 | Barming Youth U18 B |
 
  <br /><br /><br />
