@@ -11,7 +11,7 @@ city: Maidstone
 state: Kent
 zip_code: ME16 9DU
 country: 
-phone: 07952 267596
+phone: 
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
