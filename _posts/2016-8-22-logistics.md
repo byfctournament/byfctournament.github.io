@@ -5,8 +5,9 @@ description: Logistics and important information
 image: 
 ---
 
+# *** TO BE REVIEWED FOR 2020 ***
 
-8–9 June, 2019. Oakwood Park, Maidstone, Kent ME16 0LD
+6–7 June, 2020. Oakwood Park, Maidstone, Kent ME16 0LD
 
 1. The address for the venue is Oakwood Park, Maidstone, Kent ME16 8AG however please ensure all visitors access the complex via Queens Road and not Oakwood Road or Tonbridge Road (ME16 0LD). If vehicles attempt to access the complex via Oakwood Road or Tonbridge Road they will be redirected to Queens Road.
 For those just dropping off, use the same access and you will be directed accordingly.
@@ -19,10 +20,11 @@ For those just dropping off, use the same access and you will be directed accord
 
 5. Confirmation of times/dates: -
 
-	* Sat 8th June a.m. (first k.o. 9.00 a.m.): Under 7, Under 8, Under 9, Under 10
-	* Sat 9th June p.m. (first k.o. 2.00 p.m.): Under 10 Girls, Under 11, Under 12, Under 13
-	* Sun 9th June a.m. (first k.o. 9.00 a.m.): Under 14, Under 15, Ladies, Vets
-	* Sun 9th June p.m. (first k.o. 2.00 p.m.): Under 16, Under 16 Girls, Under 18, Men
+	* Sat 6th June a.m. (first k.o. 9.00 a.m.): Under 7, Under 8, Under 9, Under 10
+	* Sat 6th June p.m. (first k.o. 2.00 p.m.): Under 11, Under 11 girls, Under 12, Under 13
+	* Sun 7th June a.m. (first k.o. 9.00 a.m.): Under 14, Under 15, Under 16, Vets
+	* Sun 7th June p.m. (first k.o. 2.00 p.m.): Ladies 16+, Under 18, Men
+
 
 6. Ten minutes prior to first kick off (8.50 a.m. or 1.50 p.m.) please report to the registration desk again. They will confirm the number of teams competing.
 
