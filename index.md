@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'BYFC Tournament 2020<br />6&ndash;7 June'
+landing-title: 'BYFC Tournament 2022<br />11&ndash;12 June'
 description: null
 image: null
 author: null
