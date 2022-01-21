@@ -5,9 +5,7 @@ description: Logistics and important information
 image: 
 ---
 
-# *** TO BE REVIEWED FOR 2020 ***
-
-6–7 June, 2020. Oakwood Park, Maidstone, Kent ME16 0LD
+11&mdash;12 June, 2022. Oakwood Park, Maidstone, Kent ME16 0LD
 
 1. The address for the venue is Oakwood Park, Maidstone, Kent ME16 8AG however please ensure all visitors access the complex via Queens Road and not Oakwood Road or Tonbridge Road (ME16 0LD). If vehicles attempt to access the complex via Oakwood Road or Tonbridge Road they will be redirected to Queens Road.
 For those just dropping off, use the same access and you will be directed accordingly.
@@ -28,7 +26,7 @@ For those just dropping off, use the same access and you will be directed accord
 
 6. Ten minutes prior to first kick off (8.50 a.m. or 1.50 p.m.) please report to the registration desk again. They will confirm the number of teams competing.
 
-7. In accordance with direction received from the Kent FA we are making the U7s, U8s and U9s a competitive competition with group and knock out stages. Players of all teams will receive a medal.
+7. In accordance with direction received from the Kent FA we are making the U7s, U8s and U9s a competitive competition with group and knock out stages. Players of all teams in these age groups will receive a medal.
 
 8. [Tournament Rules](/2016/08/24/rules.html) 
 
