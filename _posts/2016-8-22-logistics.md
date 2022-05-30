@@ -12,7 +12,7 @@ For those just dropping off, use the same access and you will be directed accord
 
 2. When you enter the complex you will be directed to designated parking areas. Please do not park anywhere other than as directed. Under no circumstances should you park at, or restrict access to, the main car park at Oakwood House. They have functions ongoing over the entire weekend.
 
-3. Upon entry into the tournament grounds you will be offered a programme which includes a list of fixtures, the cost of which will be £2.50. Please ensure you have the appropriate change readily available.
+3. Upon entry into the tournament grounds you will be offered a programme which includes a list of fixtures, the cost of which will be £3. Please ensure you have the appropriate change readily available.
 
 4. On arrival, and no later than 30 minutes before first kick off (8.30 a.m. or 1.30 p.m.), please register your team at the registration desk. You will need to complete a Player Registration Form. [Click here](https://drive.google.com/open?id=0B1cbuv4Ixxadb0hrdnRUek5xRU0) to get a copy or see below. If you haven't paid please do so when you register your team. Failure to pay will result in your exclusion from the tournament.
 
