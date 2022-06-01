@@ -14,7 +14,7 @@ For those just dropping off, use the same access and you will be directed accord
 
 3. Upon entry into the tournament grounds you will be offered a programme which includes the list of fixtures and free parking, the cost of which will be £3. Please ensure you have the appropriate change readily available.
 
-4. On arrival, and no later than 30 minutes before first kick off (8.30 a.m. or 1.30 p.m.), please register your team at the registration desk. You will need to complete a Player Registration Form. [Click here](https://www.dropbox.com/s/vwzhpuw6q6lvyqu/Player%20Registration%20Form.pdf?dl=0) to get a copy or see below. If you haven't paid please do so when you register your team. Failure to pay will result in your exclusion from the tournament.
+4. On arrival, and no later than 30 minutes before first kick off (8.30 a.m. or 1.30 p.m.), please register your team at the registration desk. You will need to complete a Player Registration Form. [Click here](https://www.dropbox.com/s/vwzhpuw6q6lvyqu/Player%20Registration%20Form.pdf?dl=1) to get a copy or see below. If you haven't paid please do so when you register your team. Failure to pay will result in your exclusion from the tournament.
 
 5. Confirmation of times/dates: -
 
