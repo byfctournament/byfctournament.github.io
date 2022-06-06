@@ -28,7 +28,7 @@ For those just dropping off, use the same access and you will be directed accord
 
 7. In accordance with direction received from the Kent FA we are making the U7s, U8s and U9s a competitive competition with group and knock out stages. Players of all teams in these age groups will receive a medal.
 
-8. [Tournament Rules](/2016/08/24/rules.html) 
+8. Please check here for the [Tournament Rules](/2016/08/24/rules.html) 
 
 9. You will be provided with a litter bag when you register. Please ensure these are used. Thank you.
 
