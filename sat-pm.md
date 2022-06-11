@@ -3,7 +3,7 @@ layout: page
 title: Saturday pm
 ---
 
-#### Updated 2022-06-11 17:13:39 
+#### Updated 2022-06-11 17:29:50 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -66,10 +66,10 @@ Click on the results summary to see individual match results.
 ### U12 knock-out
  
 
-| Type |       Team 1        | Score |         Team 2          |
-|:----:|:-------------------:|:-----:|:-----------------------:|
-|  SF  | TWYFC U12 Spitfires |       |  BARMING U12 BARRACUDA  |
-|  SF  |  Barming U12 Youth  |       | Barming Blues U12 Hawks |
+| Type |       Team 1        |    Score    |         Team 2          |
+|:----:|:-------------------:|:-----------:|:-----------------------:|
+|  SF  | TWYFC U12 Spitfires |             |  BARMING U12 BARRACUDA  |
+|  SF  |  Barming U12 Youth  | 1 &mdash; 0 | Barming Blues U12 Hawks |
 
 
 ### U14 Group 1
@@ -106,8 +106,9 @@ Click on the results summary to see individual match results.
 |  QF  |      MPE U14 Sports A      | 1 &mdash; 0 |  K Sports U14 Rangers Red  |
 |  QF  |     Thamesview FC U14      | 0 &mdash; 1 | Tunbridge Wells Tigers U14 |
 |  QF  | K Sports U14 Rangers Blue  | 0 &mdash; 2 |      MPE U14 Sports B      |
-|  SF  |     Barming Blades U14     |             |      MPE U14 Sports A      |
-|  SF  | Tunbridge Wells Tigers U14 |             |      MPE U14 Sports B      |
+|  SF  |     Barming Blades U14     | 0 &mdash; 1 |      MPE U14 Sports A      |
+|  SF  | Tunbridge Wells Tigers U14 | 1 &mdash; 2 |      MPE U14 Sports B      |
+|  F   |      MPE U14 Sports A      |             |      MPE U14 Sports B      |
 
 
 
