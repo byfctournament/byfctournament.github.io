@@ -1,0 +1,1000 @@
+  640  cd Downloads/
+  641  git clone https://github.com/horst3180/arc-icon-theme --depth 1 && cd arc-icon-theme
+  642  ./autogen.sh --prefix=/usr
+  643  apt-cache search autoreconf
+  644  sudo apt install dh-autoreconf 
+  645  ./autogen.sh --prefix=/usr
+  646  sudo make install
+  647  exit
+  648  nmcli
+  649  iwconfig 
+  650  iwconfig scanning
+  651  iwconfig --scanning
+  652  man iwconfig 
+  653  nmcli --help
+  654  nmcli c
+  655  man nmcli
+  656  nmcli device show
+  657  nmcli device status
+  658  nmcli device connect
+  659  nmcli device connect wlp3s0
+  660  nmcli device connect wlp3s0 kinondoni-5G
+  661  nmcli device up
+  662  nmcli connection show
+  663  nmcli -p con up "kinondoni-5G" ifname wlp3s0
+  664  ssh server
+  665  nmcli
+  666  exit
+  667  ssh server
+  668  nmcli
+  669  ssh server
+  670  nmcli show
+  671  nmcli connection show
+  672  nmcli c up id mikocheni
+  673  journalctl -xe NM_CONNECTION=0d15a0f9-8895-4774-a685-85fed9cee692 + NM_DEVICE=wlp3s0
+  674  nmcli networking off
+  675  nmcli networking on
+  676  sudo iw wlp3s0 scan 
+  677  sudo ip link set wlp3s0 up
+  678  $ sudo rfkill unblock all
+  679  sudo rfkill unblock all
+  680  sudo iw wlp3s0 scan
+  681  ping 192.168.0.31
+  682  iw dev
+  683  sudo iwlist
+  684  sudo iwlist wlp3s0 scanning
+  685  nmcli connection show
+  686  nmcli show
+  687  sudo iw wlp3s0 scan
+  688  ssh server
+  689  cd /var/log
+  690  mc
+  691  cd
+  692  nmcli show
+  693  sudo iw wlp3s0 scan
+  694  history | grep nmcli
+  695  nmcli device show
+  696  history | grep nmc
+  697  nmcli networking off
+  698  nmcli networking on
+  699  tail -f syslog 
+  700  nmcli
+  701  nmcli device show
+  702  lspci
+  703  lspci | grep -i controller
+  704  lshw -C network
+  705  sudo lshw -C network
+  706  nmcli device show wlan1 | grep IP4.DNS
+  707  nmcli device show wlp3s0 | grep IP4.DNS
+  708  sudo lshw -C network
+  709  ping 192.168.0.31
+  710  ping 192.168.0.1
+  711  htop
+  712  ping 192.168.0.31
+  713  ping 192.168.0.1
+  714  ssh server
+  715  cd .config/awesome/
+  716  ls
+  717  git diff
+  718  grep lock | rc.lu
+  719  grep lock | rc.lua
+  720  grep lock rc.lua
+  721  gnome-screensaver-command --lock
+  722  sudo apt install gnome-screensaver
+  723  i rc.lua
+  724  vi rc.lua
+  725  sudo lspci
+  726  sudo lshw -C network
+  727  nmcli device show wlp3s0 | grep IP4.DNS
+  728  nmcli device show wlp3s0 
+  729  sudo ifdown wlp3s0 && sudo ifup -v wlp3s0
+  730  sudo service network-manager restart
+  731  ping 192.168.0.31
+  732  ping 192.168.0.1
+  733  ping 8.8.8.8
+  734  sudo service network-manager restart
+  735  ping 192.168.0.31
+  736  ping 192.168.0.1
+  737  ping 192.168.0.31
+  738  ping www.yahoo.co.uk
+  739  sudo service network-manager restart
+  740  vi ~/.bash_aliases 
+  741  ping 192.168.0.31
+  742  ping 8.8.8.8
+  743  nmcli
+  744  nmcli list
+  745  nmcli show
+  746  nmcli help
+  747  nmcli g
+  748  nmcli n
+  749  nmcli r
+  750  nmcli c
+  751  nmcli device wifi connect "kinondoni-5G"
+  752  nmcli device wifi connect "kinondoni-2G"
+  753  source ~/.bash_aliases 
+  754  network-restart 
+  755  psgrep station
+  756  sudo apt update
+  757  sudo apt upgrade 
+  758  reboot-required-packages 
+  759  d
+  760  cd
+  761  locate -i station 
+  762  locate -i station  | grep bin
+  763  locate -i station  | grep david
+  764  locate -i station  | grep david | less
+  765  locate -i station  | grep david | grep -v Cache | less
+  766  locate -i station  | grep -v Cache | grep -v laptop 
+  767  locate -i station  | grep -v Cache | grep -v laptop | less
+  768  locate -i station  | grep -v Cache | grep -v laptop | grep -v config | less
+  769  cd Documents/
+  770  ls [Ss]t*
+  771  ./Station-1.51.1-x86_64.AppImage 
+  772  sudo apt update
+  773  sudo apt upgrade 
+  774  reboot-required-packages 
+  775  sudo reboot
+  776  sensors
+  777  cd Documents/BYFC/treasurer/
+  778  finddoc.sh topay | grep BC
+  779  finddoc.sh topay | grep BB
+  780  finddoc.sh topay | grep BC
+  781  ssh jsna
+  782  source ~/.bash_aliases 
+  783  network-restart 
+  784  ssh jsna
+  785  cd Documents/BYFC/club-website/
+  786  jekyll serve
+  787  network-restart 
+  788  ssh server
+  789  jekyll serve
+  790  htop
+  791  locate -i station | grep Document
+  792  cd bin
+  793  vi station
+  794  ls ~/Documents/Station-1.51.1-x86_64.AppImage 
+  795  echo "~/Documents/Station-1.51.1-x86_64.AppImage " > station
+  796  chmod +x station 
+  797  cd
+  798  cd Documents/BYFC/treasurer/
+  799  finddoc.sh topay
+  800  finddoc.sh topay | grep BC
+  801  cd ..
+  802  cd club-website/
+  803  ls
+  804  vi teams-to-18.md 
+  805  git suno
+  806  git add _data/teams.csv 
+  807  git commit -m"Added links for results"
+  808  git push
+  809  vi teams-to-18.md 
+  810  git suno
+  811  git add teams-to-18.md _data/teams.csv 
+  812  git commit -m"Added league tables to team pages"
+  813  git push
+  814  vi teams-to-18.md 
+  815  git suno
+  816  git add teams-other.md _data/teams.csv 
+  817  git commit -m"Added tables for adult teams"
+  818  git push
+  819  git suno
+  820  git add _data/teams.csv 
+  821  git commit -m"Corrected link for Men's Colts results table"
+  822  git push
+  823  vi teams-to-11.md 
+  824  git suno
+  825  git add teams-to-11.md _data/teams.csv 
+  826  git commit -m"Added fixtures link for U7 to U11"
+  827  git push
+  828  cd ..
+  829  cd treasurer/
+  830  finddoc.sh topay | grep BC
+  831  cd 
+  832  cd Documents/BYFC/club-website/
+  833  ls
+  834  git lg
+  835  cd ..
+  836  cd /.
+  837  cd
+  838  cd Documents/
+  839  cd phutils
+  840  git lg
+  841  cd ..
+  842  cd BYFC/treasurer/
+  843  network-restart 
+  844  cd Documents/BYFC/treasurer/accounts/
+  845  ls *.LCK
+  846  rm *.LCK
+  847  cd ..
+  848  locate -i juice
+  849  sudo apt install sound-juicer 
+  850  network-restart 
+  851  ssh server
+  852  network-restart 
+  853  cd
+  854  cd Documents/R
+  855  ls
+  856  cd ..
+  857  cd R
+  858  ls
+  859  du -csh x86_64-pc-linux-gnu-library/
+  860  du -csh x86_64-unknown-linux-gnu-library/
+  861  which Rscript
+  862  which Rstudio
+  863  locate Rstudio
+  864  locate -i Rstudio
+  865  ssh server
+  866  cd
+  867  ssh server
+  868  network-restart 
+  869  pwgen
+  870  sudo apt install pwgen
+  871  pwgen
+  872  network-restart 
+  873  cd Documents/BYFC/treasurer/
+  874  cd accounts/
+  875  ls -lth 
+  876  ls -lth  | head
+  877  cd
+  878  cd Downloads/
+  879  ls -lth | head
+  880  chmod +x gdrive-linux-x64 
+  881  sudo install gdrive-linux-x64 /usr/local/bin/gdrive 
+  882  gdrive list
+  883  gdrive list --help
+  884  gdrive help
+  885  gdrive list gnucash
+  886  gdrive help 
+  887  gdrive list /gnucash
+  888  gdrive list gnucash
+  889  gdrive list --query
+  890  gdrive list --query "root"
+  891  gdrive help list
+  892  gdrive list
+  893  gdrive list | grep -i gnucash
+  894  gdrive list | grep -i ladies
+  895  gdrive list | grep -i BYFC
+  896  gdrive list | less
+  897  gdrive list | grep -i cas
+  898  gdrive list -m 100 | grep -i gnucash
+  899  gdrive list -m 100 | grep -i byfc
+  900  gdrive list --query "name contains 'gnucash'"
+  901  gdrive upload --parent 0B47Lk9Quu8u0YXNxRnA5cmdhRGc ~/Documents/BYFC/treasurer/accounts/BYFC3.gnucash 
+  902  pwgen
+  903  gdrive help
+  904  gdrive help delete
+  905  gdrive list --query "name contains 'gnucash'"
+  906  gdrive delete 1tpuwNNX2N5aGPZvWgITesLbCNTjEgBaX
+  907  gdrive list --query "name contains 'gnucash'"
+  908  gdrive upload --parent 0B47Lk9Quu8u0YXNxRnA5cmdhRGc ~/Documents/BYFC/treasurer/accounts/BYFC3.gnucash 
+  909  gdrive list --query "name contains 'gnucash'"
+  910  gdrive help upload
+  911  echo "gdrive upload --parent 0B47Lk9Quu8u0YXNxRnA5cmdhRGc ~/Documents/BYFC/treasurer/accounts/BYFC3.gnucash " >> ~/.bash_aliases 
+  912  vi ~/.bash_aliases
+  913  gdrive list
+  914  gdrive list --query "name contains 'gnucash'"
+  915  gdrive update 1d1YELEZjlnQvugR6Pg-ILqcPqZmRJ_04 ~/Documents/BYFC/treasurer/accounts/BYFC3.gnucash
+  916  gdrive list --query "name contains 'gnucash'"
+  917  gdrive update 1d1YELEZjlnQvugR6Pg-ILqcPqZmRJ_04 ~/Documents/BYFC/treasurer/accounts/BYFC3.gnucash
+  918  gdrive list --query "name contains 'gnucash'"
+  919  gdrive delete 1Y32t-8tZWzTx1L9D-AONGe9qx1ABlB8C
+  920  echo "gdrive update 1d1YELEZjlnQvugR6Pg-ILqcPqZmRJ_04 ~/Documents/BYFC/treasurer/accounts/BYFC3.gnucash" >> ~/.bash_aliases 
+  921  vi ~/.bash_aliases
+  922  source ~/.bash_aliases
+  923  mkdir temp1
+  924  cd temp1
+  925  git init --bare test.git
+  926  git clone test.git/ t1
+  927  cd t1
+  928  ls
+  929  ls -a
+  930  vi file1.txt
+  931  git add file1.txt
+  932  git commit -m"Initial commit"
+  933  git push
+  934  cd ..
+  935  git clone test.git/ t2
+  936  cd t2
+  937  ls
+  938  vi file1.txt 
+  939  git add file1.txt
+  940  git commit -m"First commit from t2"
+  941  cd ,,
+  942  git push
+  943  git pull
+  944  git lg
+  945  gitk
+  946  apt-cache search smartgit
+  947  git pull
+  948  vi file1.txt 
+  949  git add file1.txt
+  950  git commit -m"Added in t2"
+  951  vi file1.txt 
+  952  git add file1.txt
+  953  git commit -m"Added another in t2"
+  954  git lg
+  955  git push
+  956  git pull
+  957  git lg
+  958  git push
+  959  cat file1.txt 
+  960  git pull
+  961  cd ../..
+  962  ls *.deb
+  963  sudo dpkg -i gitkraken-amd64.deb 
+  964  rm gitkraken-amd64.deb
+  965  apt-cache search git | grep -i gui
+  966  ls *.sh
+  967  sh GitAhead-2.5.10.sh 
+  968  cd GitAhead/
+  969  ls
+  970  ls -lth
+  971  ./GitAhead 
+  972  mc
+  973  cd
+  974  cd Documents/GitAhead/
+  975  ls
+  976  cd
+  977  cd bin
+  978  ln --help
+  979  ln ~/Documents/GitAhead/GitAhead GitAhead
+  980  ./GitAhead 
+  981  cd
+  982  cd Documents/GitAhead/
+  983  ls
+  984  cd ~/bin
+  985  rm GitAhead 
+  986  vi GitAhead
+  987  chmod +x GitAhead 
+  988  cd
+  989  GitAhead 
+  990  cd
+  991  cd bin
+  992  vi GitAhead 
+  993  GitAhead 
+  994  exit
+  995  htop
+  996  exit
+  997  cd
+  998  cd Documents/GitAhead/
+  999  ./GitAhead 
+ 1000  network-restart 
+ 1001  cd
+ 1002  cd Documents/BYFC/treasurer/
+ 1003  finddoc.sh BA
+ 1004  finddoc.sh BB
+ 1005  network-restart 
+ 1006  gnucash-update 
+ 1007  network-restart 
+ 1008  gnucash-update 
+ 1009  network-restart 
+ 1010  finddoc.sh BB
+ 1011  gnucash-update 
+ 1012  network-restart 
+ 1013  exit
+ 1014  cd ..
+ 1015  cd t2
+ 1016  vi file1.txt 
+ 1017  git add file1.txt
+ 1018  git commit -m"Added to the bottom in t2"
+ 1019  vi file1.txt 
+ 1020  git add file1.txt
+ 1021  git commit -m"Added to the last line in t2"
+ 1022  git lg
+ 1023  git push
+ 1024  vi file1.txt 
+ 1025  git add file1.txt
+ 1026  git commit -m"Another new line in t2"
+ 1027  git push
+ 1028  git pull --rebase
+ 1029  git lg
+ 1030  vi file1.txt 
+ 1031  cd ..
+ 1032  cd km_pcn_profiles/
+ 1033  exit
+ 1034  ssh server
+ 1035  #
+ 1036  nmcli c up "kinondoni-5G"
+ 1037  sudo nmcli c up "kinondoni-5G"
+ 1038  nmcli c up "kinondoni-5G"
+ 1039  nmcli c up "kinondoni-5G" password rugseypj
+ 1040  network-restart 
+ 1041  sensors
+ 1042  cd Downloads/temp1
+ 1043  cd t1
+ 1044  git pull
+ 1045  git l1
+ 1046  git lg
+ 1047  vi file1.txt 
+ 1048  git add file1.txt
+ 1049  git commit -m"t1"
+ 1050  git push 
+ 1051  vi file1.txt 
+ 1052  git add file1.txt
+ 1053  git commit -m"added in t1
+ 1054  "
+ 1055  vi file1.txt 
+ 1056  git add file1.txt
+ 1057  git commit -m"Added in t1"
+ 1058  git lg
+ 1059  git push
+ 1060  git pull
+ 1061  git lg
+ 1062  cd
+ 1063  cd bin
+ 1064  rm GitAhead 
+ 1065  d
+ 1066  cd 
+ 1067  cd Downloads/temp1
+ 1068  ls
+ 1069  cd km_pcn_profiles/
+ 1070  ls
+ 1071  git log
+ 1072  git lg
+ 1073  cd ..
+ 1074  cd t1
+ 1075  git lg
+ 1076  vi file1.txt 
+ 1077  git add file1.txt 
+ 1078  git commit -m"t1"
+ 1079  vi file1.txt 
+ 1080  git add file1.txt 
+ 1081  git commit -m"t1 again"
+ 1082  git lg
+ 1083  git push
+ 1084  git pull --rebase origin master
+ 1085  git lg
+ 1086  vi file1.txt 
+ 1087  git add file1.txt
+ 1088  git commit -m"t1"
+ 1089  vi file1.txt 
+ 1090  git add file1.txt
+ 1091  git commit -m"t1 again 2"
+ 1092  git pull --rebase
+ 1093  git lg
+ 1094  git push
+ 1095  exit
+ 1096  htop
+ 1097  eixt
+ 1098  exit
+ 1099  htop
+ 1100  station
+ 1101  ls Documents/Stat*
+ 1102  vi ~/bin/station 
+ 1103  sudo apt purge gitkraken 
+ 1104  sudo apt update
+ 1105  sensors
+ 1106  htop
+ 1107  sudo apt update
+ 1108  sudo apt upgrade 
+ 1109  reboot-required-packages 
+ 1110  sudo reboot
+ 1111  htop
+ 1112  sudo do-release-upgrade 
+ 1113  sensors
+ 1114  ping gb.archive.ubuntu.com
+ 1115  traceroute6 gb.archive.ubuntu.com
+ 1116  grep -i supplicant *.log
+ 1117  sudo grep -i supplicant *.log
+ 1118  grep -i supplicant syslog 
+ 1119  grep -i supplicant syslog | less
+ 1120  network-restart 
+ 1121  htop
+ 1122  lshw -C network 
+ 1123  sudo lshw -C network 
+ 1124  mc
+ 1125  cd
+ 1126  network-restart 
+ 1127  grep "supplicant" /var/log/syslog | less
+ 1128  tail -F /var/log/syslog
+ 1129  cd Documents/BYFC/club-website/
+ 1130  ls
+ 1131  cd _posts/
+ 1132  ls
+ 1133  ls -1
+ 1134  cd ..
+ 1135  git branch
+ 1136  git pull https://github.com/Pam-BYFC/BYFC.github.io.git master
+ 1137  ls
+ 1138  ls _posts/
+ 1139  ls 2019*
+ 1140  git mv 2019* _posts/
+ 1141  diff -u 2019-11-27-rainbow-laces.txt _posts/2019-11-27-rainbow-laces.txt 
+ 1142  git rm 2019-11-27-rainbow-laces.txt 
+ 1143  git suno
+ 1144  got commit -m"Removed duplicate news item"
+ 1145  git commit -m"Removed duplicate news item"
+ 1146  ls 201*
+ 1147  git mv 2019-27-19-AGM.txt _posts/
+ 1148  cd _posts/
+ 1149  ls
+ 1150  mv 2019-27-19-AGM.txt 2019-10-19-AGM.txt 
+ 1151  vi 2019-10-19-AGM.txt
+ 1152  grep "football.jpg" *
+ 1153  grep "images" *
+ 1154  ls ..
+ 1155  ls ../images
+ 1156  vi 2017-04-28-looking-for-ladies.md 
+ 1157  vi 2019-10-19-AGM.txt
+ 1158  git suno
+ 1159  git add 2019-10-19-AGM.txt
+ 1160  ls
+ 1161  git mv 2019-10-19-AGM.txt 2019-10-19-AGM.md
+ 1162  vi 2019-10-19-AGM.md
+ 1163  tail -F /var/log/syslog
+ 1164  git suno
+ 1165  git diff 2019-10-19-AGM.md
+ 1166  git add 2019-10-19-AGM.md
+ 1167  git commit -m"Moved and fixed AGM news"
+ 1168  ls
+ 1169  git mv 2019-11-27-rainbow-laces.txt 2019-10-20-rainbow-laces.md
+ 1170  vi 2019-10-20-rainbow-laces.md 
+ 1171  vi 2019-10-20-rainbow-laces.md #
+ 1172  git suno
+ 1173  git add 2019-10-20-rainbow-laces.md
+ 1174  gut suno
+ 1175  git suno
+ 1176  git commit -m"Fixed rainbow laces news post"
+ 1177  git suno
+ 1178  touch 2019-27-19-AGM.txt
+ 1179  git suno
+ 1180  git rm 2019-27-19-AGM.txt
+ 1181  git rm -f 2019-27-19-AGM.txt
+ 1182  git commit -m"Removed erroneous file"
+ 1183  git suno
+ 1184  git co master
+ 1185  git pull pam
+ 1186  git merge pam
+ 1187  git suno
+ 1188  git pull
+ 1189  git push
+ 1190  ls
+ 1191  git branch
+ 1192  git branch -d pam
+ 1193  cp 2019-10-20-rainbow-laces.md 
+ 1194  cp 2019-10-20-rainbow-laces.md 2019-10-21-retain-the-game.md 
+ 1195  vi 2019-10-21-retain-the-game.md
+ 1196  cd ..
+ 1197  cd treasurer/
+ 1198  finddoc.sh TOPAY | grep BC
+ 1199  network-restart 
+ 1200  7zip
+ 1201  sudo apt update
+ 1202  sudo apt upgrade 
+ 1203  sudo apt install p7zip-full 
+ 1204  cd
+ 1205  cd Downloads/NHS-R/
+ 1206  ls
+ 1207  git remote add origin git@github.com:daudi/NHS-R-workshop2019.git # Sets the new remote
+ 1208  git remote -v
+ 1209  git pull
+ 1210  git branch --set-upstream-to=origin/master master
+ 1211  git pull
+ 1212  git remote add origin git@github.com:daudi/NHS-R-workshop2019.git
+ 1213  git push -u origin master
+ 1214  network-restart 
+ 1215  locate scanned
+ 1216  locate scanned | les
+ 1217  locate scanned | less
+ 1218  locate scanned | grep -v treas
+ 1219  locate -i silwood
+ 1220  mc
+ 1221  ls
+ 1222  ls -a
+ 1223  git log
+ 1224  git remote add origin git@github.com:daudi/NHS-R-workshop2019.git
+ 1225  git remote -v
+ 1226  cd ..
+ 1227  cd -=
+ 1228  cd -
+ 1229  git remote -v
+ 1230  git log
+ 1231  git push -u origin master
+ 1232  git push origin --tags
+ 1233  git push -u origin step01-branch
+ 1234  cd ..c
+ 1235  cd ..
+ 1236  cd NHS-R2
+ 1237  ls
+ 1238  git remote -v
+ 1239  git remote add origin git@github.com:daudi/NHS-R-workshop2019.git
+ 1240  git remote -v
+ 1241  git push -u origin master
+ 1242  git push origin --tags
+ 1243  git push -u origin step01-branch
+ 1244  git push -u origin step02-branch
+ 1245  git push -u origin step03-branch
+ 1246  git push -u origin step04-branch
+ 1247  git push -u origin step05-branch
+ 1248  git push -u origin step06-branch
+ 1249  git push -u origin step07-branch
+ 1250  git push -u origin step08-branch
+ 1251  git push -u origin step09-branch
+ 1252  git push -u origin step10-branch
+ 1253  git push -u origin step11-branch
+ 1254  git push -u origin step12-branch
+ 1255  sudo apt install filezilla
+ 1256  dc
+ 1257  cd
+ 1258  alias
+ 1259  zoom7
+ 1260  sudo apt install wine
+ 1261  0;85;56M0;85;56mreset
+ 1262  reset
+ 1263  zoom7
+ 1264  zoom6
+ 1265  locate ZoomIndexer
+ 1266  ssh server
+ 1267  ssh jans
+ 1268  ssh jsna 
+ 1269  reset
+ 1270  station 
+ 1271  cd bin
+ 1272  vi station 
+ 1273  man static-sh 
+ 1274  static-sh -h
+ 1275  which static-sh 
+ 1276  file /bin/static-sh 
+ 1277  cd
+ 1278  locate -i bar | grep 6 | grep BYFC
+ 1279  locate -i "bar 6" | grep BYFC
+ 1280  locate  "Bar 6" | grep BYFC
+ 1281  locate  "Bar 6"
+ 1282  cd Documents/BYFC/club-website/
+ 1283  ls
+ 1284  git suno
+ 1285  git add _data/teams.csv 
+ 1286  git commit -m"Updated Men's Colts sponsor"
+ 1287  git push
+ 1288  cd ..
+ 1289  cd treasurer/
+ 1290  finddoc.sh topay | grep BC
+ 1291  man flameshot
+ 1292  network-restart 
+ 1293  vi rc.lua 
+ 1294  vi xrandr.lua 
+ 1295  exit
+ 1296  exit
+ 1297  htop
+ 1298  exit
+ 1299  cd Documents/BYFC/treasurer/accounts/
+ 1300  ls *.LCK
+ 1301  rm *.LCK
+ 1302  cd ..
+ 1303  finddoc.sh BA
+ 1304  network-restart 
+ 1305  alias | grep restart
+ 1306  network-restart 
+ 1307  NetworkManager 
+ 1308  sudo NetworkManager 
+ 1309  NetworkManager --help
+ 1310  mc
+ 1311  xrandr
+ 1312  xrandr | less
+ 1313  man xrandr
+ 1314  xrandr --output eDP-1 --output HDMI-2
+ 1315  network-restart 
+ 1316  mc
+ 1317  cd
+ 1318  cd .config/awesome/
+ 1319  vi xrandr.lua 
+ 1320  network-restart 
+ 1321  vi rc.lua
+ 1322  xrandr --output <projector> --same-as <desktop>
+ 1323  xrandr --output HDMI-2 --same-as eDP-1
+ 1324  xrandr --output "HDMI-2" --same-as "eDP-1"
+ 1325  xrandr --output eDP-1 --same-as HDMI-2
+ 1326  xrandr --output HDMI-2 --same-as eDP-1
+ 1327  xrandr
+ 1328  xrandr -q --current
+ 1329  xrandr -q --current | less
+ 1330  network-restart 
+ 1331  ssh jsna
+ 1332  network-restart 
+ 1333  cd Documents/BYFC/club-website/
+ 1334  jekyll serve
+ 1335  cd Documents/BYFC/club-website/
+ 1336  ls
+ 1337  vi teams-to-18.md 
+ 1338  git diff
+ 1339  cd 
+ 1340  cd -
+ 1341  cd ..
+ 1342  cd treasurer/accounts/
+ 1343  ls *.LCK
+ 1344  rm *.LCK
+ 1345  htop
+ 1346  sudo shutdown -h now
+ 1347  exit
+ 1348  cd Documents/BYFC/club-website/
+ 1349  jekyll serve
+ 1350  exit
+ 1351  station 
+ 1352  ls Documents/Stat*
+ 1353  vi ~/bin/station 
+ 1354  network-restart 
+ 1355  locate -i consultant
+ 1356  locate -i consultant | grep -i job
+ 1357  locate -i consultant |
+ 1358  locate -i consultant
+ 1359  locate FPH | grep -i cpd
+ 1360  cd Documents/BYFC/club-website/
+ 1361  git suno
+ 1362  git add _data/committee.csv 
+ 1363  git add _data/committeesections.csv 
+ 1364  git commit -m"Added AGM 2019 documents"
+ 1365  git push
+ 1366  exit
+ 1367  sudo shutdown -h now
+ 1368  locate pins 
+ 1369  locate pins  | grep Docu
+ 1370  tail -F /var/log/syslog
+ 1371  tail -F /var/log/syslog | grep -i network
+ 1372  tail -F /var/log/syslog | grep -i "network|supplicant"
+ 1373  tail -F /var/log/syslog | grep -i supplicant
+ 1374  tail -F /var/log/syslog 
+ 1375  htop
+ 1376  exit
+ 1377  ssh jsna
+ 1378  exit
+ 1379  network
+ 1380  network-restart 
+ 1381  ssh server
+ 1382  ssh jsna 
+ 1383  ssh server
+ 1384  ssh root@178.62.92.14
+ 1385  ssh jsna
+ 1386  sudo apt update
+ 1387  apt list -- upgrade-system 
+ 1388  apt list --upgradable 
+ 1389  sudo apt upgrade 
+ 1390  sudo apt install audacity
+ 1391  apt-cache search sound | grep convert
+ 1392  sudo apt install soundconverter 
+ 1393  htop
+ 1394  ssh jsna
+ 1395  htop
+ 1396  ssh jsna
+ 1397  0;11;16M0;11;16m
+ 1398  reset
+ 1399  cd Documents/BYFC/tournament-website-github/
+ 1400  jekyll serve
+ 1401  cd ..
+ 1402  cd club-website/
+ 1403  jekyll serve
+ 1404  cd ..
+ 1405  cd tournament-website-github/
+ 1406  jekyll serve
+ 1407  bundle update
+ 1408  jekyll serve
+ 1409  ls
+ 1410  vi Gemfile
+ 1411  vi Gemfile.lock 
+ 1412  vi _config.yml 
+ 1413  sudo gem update jekyll --no-rdoc --no-ri
+ 1414  jekyll serve
+ 1415  cd ..
+ 1416  cd club-website/
+ 1417  jekyll serve
+ 1418  ls
+ 1419  ls G*
+ 1420  cd ..
+ 1421  cd tournament-website-github/
+ 1422  ls g*
+ 1423  ls G*
+ 1424  mv Gemfile ORIG-Gemfile
+ 1425  mv Gemfile.lock ORIG-Gemfile.lock 
+ 1426  jekyll serve
+ 1427  ssh jsna
+ 1428  finddoc.sh topay | grep BC
+ 1429  sudo vi /usr/share/gnucash/gtkbuilder/dialog-search.glade
+ 1430  cd ..
+ 1431  cd club-website/
+ 1432  ls
+ 1433  cd .,
+ 1434  cd ..
+ 1435  mv tournament-website-2019-github/ tournament-website-github
+ 1436  cd tournament-website-github/
+ 1437  git suno
+ 1438  git pull
+ 1439  git log
+ 1440  grep 2019 *
+ 1441  grep 2019 * | less
+ 1442  vi index.md 
+ 1443  grep Welcome *
+ 1444  vi _config.yml 
+ 1445  emacs &
+ 1446  xirc
+ 1447  sudo apt update 
+ 1448  sudo apt upgrade 
+ 1449  reboot-required-packages 
+ 1450  git suno
+ 1451  git rm Gemfile 
+ 1452  git add _config.yml index.md 
+ 1453  git commit -m"Updated for 2020"
+ 1454  sudo apt install xchat
+ 1455  cd Documents/BYFC/treasurer/accounts/
+ 1456  ls *.LCK
+ 1457  rm *.LCK
+ 1458  cd
+ 1459  network-restart 
+ 1460  ssh server
+ 1461  network-restart 
+ 1462  ssh server
+ 1463  network-restart 
+ 1464  alias
+ 1465  gnucash-update 
+ 1466  network-restart 
+ 1467  cd Documents/BYFC/treasurer/
+ 1468  finddoc.sh topay | grep BC
+ 1469  network-restart 
+ 1470  apt-cache search csv | grep emacs
+ 1471  network-restart 
+ 1472  sudo apt update
+ 1473  sudo apt upgrade 
+ 1474  reboot-required-packages 
+ 1475  nm-applet &
+ 1476  nm-applet 
+ 1477  fg
+ 1478  nm-applet 
+ 1479  systemctl status NetworkManager
+ 1480  NetworkManager 
+ 1481  sudo NetworkManager 
+ 1482  systemctl status NetworkManager
+ 1483  wifi-menu
+ 1484  sudo apt install netctl
+ 1485  wifi-menu 
+ 1486  sudo wifi-menu 
+ 1487  netctl-auto 
+ 1488  netctl-auto list
+ 1489  sudo netctl-auto list
+ 1490  sudo wifi-menu 
+ 1491  journalctl -xe
+ 1492  sudo wifi-menu 
+ 1493  network-restart 
+ 1494  sudo apt update
+ 1495  sudo apt upgrade 
+ 1496  reboot-required-packages 
+ 1497  network-restart 
+ 1498  finddoc.sh topay | grep BC
+ 1499  network-restart 
+ 1500  network-restart ; time
+ 1501  network-restart ; systime
+ 1502  network-restart ; date
+ 1503  finddoc.sh topay | grep BC
+ 1504  tail -F /var/log/syslog 
+ 1505  sudo mc
+ 1506  cd .ssh/
+ 1507  ls
+ 1508  mv known_hosts known_hosts.ORIG
+ 1509  rm known_hosts
+ 1510  mv known_hosts.ORIG known_hosts
+ 1511  cd
+ 1512  network-restart 
+ 1513  cat "10024314- C: Ellis Coster (03/11/2019)0% (ZRO)\nFixture: Aylesford Mens Reserves v Barming Youth Men's Blues, played on 03/11/2019 \nDiscipline Admin Fee - Kent FA £0.00 0% (ZRO)\n10033114- C: Ellis Costa (17/11/2019)0% (ZRO)\nFixture: Cross Keys (Sunday) First v Barming Youth Men's Blues, played on 17/11/2019 \nDiscipline Admin Fee - Kent FA £0.00 0% (ZRO)\n10033118- C: Harry Joshua Orchard (17/11/2019)0% (ZRO)\nFixture: Cross Keys (Sunday) First v Barming Youth Men's Blues, played on 17/11/2019 \nDiscipline Admin Fee - Kent FA £10.00 0% (ZRO)\n10033119- C: Jack Semadeni (17/11/2019)0% (ZRO)\nFixture: Cross Keys (Sunday) First v Barming Youth Men's Blues, played on 17/11/2019 \nDiscipline Admin Fee - Kent FA £10.00 0% (ZRO)\n10033124- C: Martin Burgum (17/11/2019)0% (ZRO)\nFixture: Cross Keys (Sunday) First v Barming Youth Men's Blues, played on 17/11/2019 \nDiscipline Admin Fee - Kent FA £10.00 0% (ZRO)\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£0.00\n£10.00\n£10.00\n£10.00\n
+ 1514  "
+ 1515  network-restart 
+ 1516  network-restart; date
+ 1517  htop
+ 1518  network-restart; date
+ 1519  htop
+ 1520  ssh server
+ 1521  network-restart; date
+ 1522  ssh server
+ 1523  sudo reboot
+ 1524  ls bin
+ 1525  cat ~/bin/station 
+ 1526  ls Documents/Stat*
+ 1527  cd bin
+ 1528  vi station 
+ 1529  ./station 
+ 1530  vi station 
+ 1531  ./station 
+ 1532  cd
+ 1533  ssh server
+ 1534  cd Documents/BYFC/tournament-website-github/
+ 1535  grep 7th
+ 1536  grep 7th *
+ 1537  grep Under *
+ 1538  ssh server
+ 1539  cd
+ 1540  cd .gnupg/
+ 1541  k
+ 1542  ls
+ 1543  ls -1
+ 1544  less gpg.conf 
+ 1545  ls -a
+ 1546  mount
+ 1547  fdisk -l
+ 1548  sudo fdisk -l
+ 1549  apt-cache search sound | grep -i record
+ 1550  sudo apt install gnome-sound-recorder
+ 1551  sudo apt purge gnome-sound-recorder
+ 1552  apt-cache search audio | grep -i record
+ 1553  sudo apt-add-repository ppa:osmoma/audio-recorder
+ 1554  apt-cache search spotify
+ 1555  sudo apt-add-repository ppa:osmoma/audio-recorder
+ 1556  sudo add-apt-repository --remove ppa:osmoma/audio-recorder
+ 1557  sudo add-apt-repository ppa:audio-recorder/ppa
+ 1558  sudo apt-get -y update
+ 1559  sudo apt-get install --reinstall audio-recorder
+ 1560  snap install spotify
+ 1561  sudo snap install spotify
+ 1562  ssh server
+ 1563  cd
+ 1564  locate trans | grep scm
+ 1565  cd .local/share/gnucash/
+ 1566  ls
+ 1567  grep "BYFC" *.scm
+ 1568  vi member-transaction-report.scm 
+ 1569  ls
+ 1570  reset
+ 1571  sed -e 's/\(\\(\)/***\1/g' member-transaction-report.scm
+ 1572  cp member-transaction-report.scm member-transaction-report-TEST.scm
+ 1573  ls *TEST*
+ 1574  sed -e 's/\(.*\) .*/\1/' member-transaction-report-TEST.scm 
+ 1575  sed -e 's/\(.*\) .*/\1XXXX/' member-transaction-report-TEST.scm 
+ 1576  sed -e 's/\(.*\) [a-z].*/\1XXXX/' member-transaction-report-TEST.scm 
+ 1577  sort member-transaction-report-TEST.scm
+ 1578  sort member-transaction-report-TEST.scm > f-list.txt
+ 1579  vi f-list.txt 
+ 1580  mc
+ 1581  cd
+ 1582  locate fastrade
+ 1583  mc /home/david/Documents/idf-laptop/dwhiting/Desktop
+ 1584  mc /home/david/Documents/idf-laptop/dwhiting/Dropbox/tax
+ 1585  network-restart; date
+ 1586  mc
+ 1587  htop
+ 1588  cd Documents/charles\ stanley\ fastrade/
+ 1589  ls
+ 1590  mutt -F mutt-maildir.rc -f fastrade
+ 1591  sudo apt update
+ 1592  sudo apt upgrade 
+ 1593  sudo apt install mutt
+ 1594  mutt -F mutt-maildir.rc -f fastrade
+ 1595  cd
+ 1596  cd Documents/BYFC/tournament-website-github/
+ 1597  jekyll serve
+ 1598  sudo apt update
+ 1599  cd ..
+ 1600  ls *website*
+ 1601  git pull
+ 1602  cd tournament-website-github/
+ 1603  git pull
+ 1604  jekyll serve
+ 1605  ls
+ 1606  mc
+ 1607  jekyll serve
+ 1608  git suno
+ 1609  git l1
+ 1610  ls *gem*
+ 1611  less forty_jekyll_theme.gemspec 
+ 1612  sudo apt purge jekyll 
+ 1613  gem uninstall jekyll
+ 1614  sudo gem uninstall jekyll
+ 1615  sudo gem install jekyll bundler
+ 1616  bundle update
+ 1617  sudo bundle update
+ 1618  jekyll serve
+ 1619  grep Kramdown *
+ 1620  ruby -v
+ 1621  jekyll serve --trace
+ 1622  git branch
+ 1623  git branch t2020
+ 1624  git branch
+ 1625  git branch -d t2020 
+ 1626  git log
+ 1627  git branch t2020
+ 1628  git reset --hard HEAD~1
+ 1629  git log
+ 1630  git co t2020 
+ 1631  git log
+ 1632  git push -u origin v2020
+ 1633  git branch -a
+ 1634  git branch -a -v
+ 1635  git push -u origin v2020
+ 1636  bundle exec jekyll serve
+ 1637  jekyll serve 
+ 1638  grep OrderedHash *
+ 1639  history > temp.txt

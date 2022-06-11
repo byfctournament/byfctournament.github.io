@@ -7,11 +7,11 @@ exclude: true
 
 
 
-|        Team 1         |  ::Score::  |       Team 2        |
-|:---------------------:|:-----------:|:-------------------:|
-|    Vinters Park U9    | 0 &mdash; 1 | Aylesford Royals U9 |
-|      Charing U9       | 1 &mdash; 2 |   Vinters Park U9   |
-| Medway town U9 whites | 1 &mdash; 1 |   Vinters Park U9   |
-|    Vinters Park U9    | 1 &mdash; 0 |     Usm Marly B     |
+|             Team 1             |  ::Score::  |     Team 2      |
+|:------------------------------:|:-----------:|:---------------:|
+|        Barming U9 Colts        | 1 &mdash; 1 | Vinters Park U9 |
+| Maidstone United Under 9 Black | 6 &mdash; 0 | Vinters Park U9 |
+|        Vinters Park U9         | 3 &mdash; 0 |  Thamesview U9  |
+|    Hollands & Blair Devils     | 2 &mdash; 0 | Vinters Park U9 |
 
  <br /><br /><br />

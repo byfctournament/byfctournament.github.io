@@ -7,12 +7,11 @@ exclude: true
 
 
 
-|          Team 1           |  ::Score::  |      Team 2      |
-|:-------------------------:|:-----------:|:----------------:|
-|      Castle Athletic      | 2 &mdash; 0 | Barming U8 Blues |
-|    Hartley De Sales U8    | 2 &mdash; 0 | Barming U8 Blues |
-|     Barming U8 Blues      | 1 &mdash; 0 | Rochester FC U8  |
-|     K-Sports Colts U8     | 4 &mdash; 0 | Barming U8 Blues |
-| Tunbridge Wells Torpedoes | 5 &mdash; 0 | Barming U8 Blues |
+|             Team 1             |  ::Score::  |          Team 2           |
+|:------------------------------:|:-----------:|:-------------------------:|
+|        Barming U8 Blues        | 1 &mdash; 0 |      KIngshill FC U8      |
+|        Barming U8 Blues        | 0 &mdash; 1 | Tunbridge Wells Tigers U8 |
+|        Barming U8 Blues        | 1 &mdash; 0 |       MPE U8 Sports       |
+| Coxheath and Farleigh Colts U8 | 1 &mdash; 1 |     Barming U8 Blues      |
 
  <br /><br /><br />
