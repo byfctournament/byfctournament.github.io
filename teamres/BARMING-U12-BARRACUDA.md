@@ -14,5 +14,6 @@ exclude: true
 |       BARMING U12 BARRACUDA        | 1 &mdash; 0 | Barming Blues U12 Eagles |
 |       BARMING U12 BARRACUDA        | 2 &mdash; 1 | Barming Blues U12 Hawks  |
 |       BARMING U12 BARRACUDA        | 2 &mdash; 0 | Paddock Wood U12 Pirates |
+|         Barming U12 Youth          | 1 &mdash; 0 |  BARMING U12 BARRACUDA   |
 
  <br /><br /><br />
