@@ -12,5 +12,6 @@ exclude: true
 | Barming Blades U14 | 1 &mdash; 0 | K Sports U14 Rangers Blue |
 | Barming Blades U14 | 1 &mdash; 0 |     Thamesview FC U14     |
 |  MPE U14 Sports A  | 1 &mdash; 0 |    Barming Blades U14     |
+| Barming U14 Colts  | 0 &mdash; 2 |    Barming Blades U14     |
 
  <br /><br /><br />

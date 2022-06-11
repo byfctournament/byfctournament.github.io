@@ -12,5 +12,6 @@ exclude: true
 | Yalding and Laddingford Eagles U12 | 1 &mdash; 2 |       BARMING U12 BARRACUDA        |
 | Yalding and Laddingford Eagles U12 | 1 &mdash; 2 |      Barming Blues U12 Hawks       |
 |        TWYFC U12 Spitfires         | 4 &mdash; 0 | Yalding and Laddingford Eagles U12 |
+| Yalding and Laddingford Eagles U12 | 0 &mdash; 2 |         Barming U12 Youth          |
 
  <br /><br /><br />

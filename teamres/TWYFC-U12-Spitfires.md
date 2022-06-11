@@ -12,5 +12,6 @@ exclude: true
 |  TWYFC U12 Spitfires  | 3 &mdash; 0 |      Barming Blues U12 Eagles      |
 | BARMING U12 BARRACUDA | 0 &mdash; 2 |        TWYFC U12 Spitfires         |
 |  TWYFC U12 Spitfires  | 4 &mdash; 0 | Yalding and Laddingford Eagles U12 |
+|  TWYFC U12 Spitfires  | 5 &mdash; 0 |      Paddock Wood U12 Pirates      |
 
  <br /><br /><br />

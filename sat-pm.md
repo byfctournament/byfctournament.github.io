@@ -3,7 +3,7 @@ layout: page
 title: Saturday pm
 ---
 
-#### Updated 2022-06-11 15:29:20 
+#### Updated 2022-06-11 15:59:44 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -15,12 +15,12 @@ Click on the results summary to see individual match results.
 
 |           Team           | Played |                                                                                   Results                                                                                   | Points |
 |:------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|   Castle Athletic U11    |  3/5   |   <a href="teamres/Castle-Athletic-U11.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   9    |
-|   Ebbsfleet U11 White    |  2/5   |   <a href="teamres/Ebbsfleet-U11-White.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   6    |
-| TW Foresters U11 Bobcats |  2/5   | <a href="teamres/TW-Foresters-U11-Bobcats.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   6    |
+|   Ebbsfleet U11 White    |  4/5   |   <a href="teamres/Ebbsfleet-U11-White.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   12   |
+| TW Foresters U11 Bobcats |  4/5   | <a href="teamres/TW-Foresters-U11-Bobcats.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   9    |
+|   Castle Athletic U11    |  4/5   |   <a href="teamres/Castle-Athletic-U11.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>    |   9    |
 |    Barming U11 Colts     |  4/5   |    <a href="teamres/Barming-U11-Colts.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>     |   4    |
 |      Leybourne u11       |  4/5   |      <a href="teamres/Leybourne-u11.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>       |   1    |
-|    Mersham Sports U11    |  3/5   |    <a href="teamres/Mersham-Sports-U11.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   0    |
+|    Mersham Sports U11    |  4/5   |    <a href="teamres/Mersham-Sports-U11.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>    |   0    |
 
 
 ### U11 Group 2
@@ -28,11 +28,11 @@ Click on the results summary to see individual match results.
 |        Team        | Played |                                                                                Results                                                                                | Points |
 |:------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
 |  Medway Town Navy  |  4/5   |  <a href="teamres/Medway-Town-Navy.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>  |   12   |
-| Ebbsfleet U11 Reds |  3/5   | <a href="teamres/Ebbsfleet-U11-Reds.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   6    |
-| Rusthall U11 Lions |  3/5   | <a href="teamres/Rusthall-U11-Lions.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   6    |
-| Kings Hill U11 FC  |  2/5   | <a href="teamres/Kings-Hill-U11-FC.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   3    |
-| West Farleigh U11  |  2/5   | <a href="teamres/West-Farleigh-U11.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>  |   0    |
-| Barming youth U11  |  4/5   | <a href="teamres/Barming-youth-U11.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>  |   0    |
+| Ebbsfleet U11 Reds |  4/5   | <a href="teamres/Ebbsfleet-U11-Reds.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   9    |
+| Kings Hill U11 FC  |  4/5   | <a href="teamres/Kings-Hill-U11-FC.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   9    |
+| Rusthall U11 Lions |  4/5   | <a href="teamres/Rusthall-U11-Lions.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a> |   6    |
+| West Farleigh U11  |  5/5   | <a href="teamres/West-Farleigh-U11.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>  |   2    |
+| Barming youth U11  |  5/5   | <a href="teamres/Barming-youth-U11.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>  |   2    |
 
 
 ### U12 Group 1
@@ -40,13 +40,13 @@ Click on the results summary to see individual match results.
 
 |                Team                | Played |                                                                                        Results                                                                                        | Points |
 |:----------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|        TWYFC U12 Spitfires         |  3/6   |        <a href="teamres/TWYFC-U12-Spitfires.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>         |   9    |
+|        TWYFC U12 Spitfires         |  4/6   |        <a href="teamres/TWYFC-U12-Spitfires.html"><font size="1">W</font>4<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>         |   12   |
+|         Barming U12 Youth          |  4/6   |         <a href="teamres/Barming-U12-Youth.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>          |   9    |
 |      Barming Blues U12 Hawks       |  3/6   |      <a href="teamres/Barming-Blues-U12-Hawks.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>       |   9    |
-|         Barming U12 Youth          |  3/6   |         <a href="teamres/Barming-U12-Youth.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>          |   6    |
-|       BARMING U12 BARRACUDA        |  2/6   |       <a href="teamres/BARMING-U12-BARRACUDA.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>        |   3    |
-|      Paddock Wood U12 Pirates      |  3/6   |      <a href="teamres/Paddock-Wood-U12-Pirates.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>      |   1    |
-|      Barming Blues U12 Eagles      |  3/6   |      <a href="teamres/Barming-Blues-U12-Eagles.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>      |   1    |
-| Yalding and Laddingford Eagles U12 |  3/6   | <a href="teamres/Yalding-and-Laddingford-Eagles-U12.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   0    |
+|       BARMING U12 BARRACUDA        |  3/6   |       <a href="teamres/BARMING-U12-BARRACUDA.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>        |   6    |
+|      Paddock Wood U12 Pirates      |  4/6   |      <a href="teamres/Paddock-Wood-U12-Pirates.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>      |   1    |
+|      Barming Blues U12 Eagles      |  4/6   |      <a href="teamres/Barming-Blues-U12-Eagles.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>      |   1    |
+| Yalding and Laddingford Eagles U12 |  4/6   | <a href="teamres/Yalding-and-Laddingford-Eagles-U12.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a> |   0    |
 
 
 ### U14 Group 1
@@ -54,10 +54,10 @@ Click on the results summary to see individual match results.
 
 |           Team            | Played |                                                                                   Results                                                                                    | Points |
 |:-------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|     MPE U14 Sports A      |  2/4   |     <a href="teamres/MPE-U14-Sports-A.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>      |   6    |
-|    Barming Blades U14     |  3/4   |    <a href="teamres/Barming-Blades-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   6    |
-|     Thamesview FC U14     |  2/4   |     <a href="teamres/Thamesview-FC-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   3    |
-|     Barming U14 Colts     |  2/4   |     <a href="teamres/Barming-U14-Colts.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>     |   1    |
+|    Barming Blades U14     |  4/4   |    <a href="teamres/Barming-Blades-U14.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>     |   9    |
+|     MPE U14 Sports A      |  3/4   |     <a href="teamres/MPE-U14-Sports-A.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>      |   7    |
+|     Thamesview FC U14     |  3/4   |     <a href="teamres/Thamesview-FC-U14.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>     |   4    |
+|     Barming U14 Colts     |  3/4   |     <a href="teamres/Barming-U14-Colts.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>     |   1    |
 | K Sports U14 Rangers Blue |  3/4   | <a href="teamres/K-Sports-U14-Rangers-Blue.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a> |   1    |
 
 
@@ -65,11 +65,11 @@ Click on the results summary to see individual match results.
 
 |            Team            | Played |                                                                                    Results                                                                                    | Points |
 |:--------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|      MPE U14 Sports B      |  2/4   |      <a href="teamres/MPE-U14-Sports-B.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>      |   6    |
 | Tunbridge Wells Tigers U14 |  2/4   | <a href="teamres/Tunbridge-Wells-Tigers-U14.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a> |   6    |
 |  K Sports U14 Rangers Red  |  3/4   |  <a href="teamres/K-Sports-U14-Rangers-Red.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   5    |
-|      MPE U14 Sports B      |  1/4   |      <a href="teamres/MPE-U14-Sports-B.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>      |   3    |
-|   Barming Sky Blues U14    |  2/4   |   <a href="teamres/Barming-Sky-Blues-U14.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>    |   2    |
-|  Barming Youth U14 Colts   |  2/4   |  <a href="teamres/Barming-Youth-U14-Colts.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   0    |
+|  Barming Youth U14 Colts   |  3/4   |  <a href="teamres/Barming-Youth-U14-Colts.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   3    |
+|   Barming Sky Blues U14    |  4/4   |   <a href="teamres/Barming-Sky-Blues-U14.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>    |   2    |
 
 
 

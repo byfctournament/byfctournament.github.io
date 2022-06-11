@@ -13,5 +13,6 @@ exclude: true
 | Kings Hill U11 FC | 3 &mdash; 0 | Barming youth U11  |
 | Barming youth U11 | 0 &mdash; 1 | Rusthall U11 Lions |
 | Barming youth U11 | 0 &mdash; 2 |  Medway Town Navy  |
+| Barming youth U11 | 1 &mdash; 1 | West Farleigh U11  |
 
  <br /><br /><br />
