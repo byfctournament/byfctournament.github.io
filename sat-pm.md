@@ -3,7 +3,7 @@ layout: page
 title: Saturday pm
 ---
 
-#### Updated 2022-06-11 16:53:21 
+#### Updated 2022-06-11 17:13:39 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -42,10 +42,12 @@ Click on the results summary to see individual match results.
 
 | Type |       Team 1        |    Score    |          Team 2          |
 |:----:|:-------------------:|:-----------:|:------------------------:|
-|  SF  | Ebbsfleet U11 White |             |    Ebbsfleet U11 Reds    |
+|  SF  | Ebbsfleet U11 White | 1 &mdash; 0 |    Ebbsfleet U11 Reds    |
 |  SF  |  Medway Town Navy   | 1 &mdash; 0 | TW Foresters U11 Bobcats |
+|  F   | Ebbsfleet U11 White | 2 &mdash; 0 |     Medway Town Navy     |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U11 winner is: Ebbsfleet U11 White
 ### U12 Group 1
  Two groups. QF: 1st Group A v 4th Group B, 2nd Group A v 3rd Group B, 3rd Group A v 2nd Group B, 4th Group A v 1st Group B; SF: QF1 v QF2, QF3 v QF4; Final: SF1 v SF2
 
@@ -98,12 +100,14 @@ Click on the results summary to see individual match results.
 ### U14 knock-out
  
 
-| Type |          Team 1           |    Score    |           Team 2           |
-|:----:|:-------------------------:|:-----------:|:--------------------------:|
-|  QF  |    Barming Blades U14     |             |  Barming Youth U14 Colts   |
-|  QF  |     MPE U14 Sports A      | 1 &mdash; 0 |  K Sports U14 Rangers Red  |
-|  QF  |     Thamesview FC U14     | 0 &mdash; 1 | Tunbridge Wells Tigers U14 |
-|  QF  | K Sports U14 Rangers Blue | 0 &mdash; 2 |      MPE U14 Sports B      |
+| Type |           Team 1           |    Score    |           Team 2           |
+|:----:|:--------------------------:|:-----------:|:--------------------------:|
+|  QF  |     Barming Blades U14     | 3 &mdash; 1 |  Barming Youth U14 Colts   |
+|  QF  |      MPE U14 Sports A      | 1 &mdash; 0 |  K Sports U14 Rangers Red  |
+|  QF  |     Thamesview FC U14      | 0 &mdash; 1 | Tunbridge Wells Tigers U14 |
+|  QF  | K Sports U14 Rangers Blue  | 0 &mdash; 2 |      MPE U14 Sports B      |
+|  SF  |     Barming Blades U14     |             |      MPE U14 Sports A      |
+|  SF  | Tunbridge Wells Tigers U14 |             |      MPE U14 Sports B      |
 
 
 
