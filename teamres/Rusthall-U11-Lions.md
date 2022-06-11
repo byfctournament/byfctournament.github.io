@@ -13,5 +13,6 @@ exclude: true
 | Rusthall U11 Lions | 0 &mdash; 1 | Ebbsfleet U11 Reds |
 | Barming youth U11  | 0 &mdash; 1 | Rusthall U11 Lions |
 | Rusthall U11 Lions | 0 &mdash; 1 | Kings Hill U11 FC  |
+|  Medway Town Navy  | 2 &mdash; 1 | Rusthall U11 Lions |
 
  <br /><br /><br />

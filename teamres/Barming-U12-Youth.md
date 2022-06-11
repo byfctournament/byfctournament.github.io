@@ -13,5 +13,6 @@ exclude: true
 |      Paddock Wood U12 Pirates      | 0 &mdash; 4 |    Barming U12 Youth     |
 |      Barming Blues U12 Hawks       | 1 &mdash; 0 |    Barming U12 Youth     |
 | Yalding and Laddingford Eagles U12 | 0 &mdash; 2 |    Barming U12 Youth     |
+|         Barming U12 Youth          | 2 &mdash; 3 |   TWYFC U12 Spitfires    |
 
  <br /><br /><br />

@@ -7,10 +7,11 @@ exclude: true
 
 
 
-|      Team 1      |  ::Score::  |       Team 2       |
-|:----------------:|:-----------:|:------------------:|
-| MPE U14 Sports A | 1 &mdash; 0 | Barming U14 Colts  |
-| MPE U14 Sports A | 1 &mdash; 0 | Barming Blades U14 |
-| MPE U14 Sports A | 0 &mdash; 0 | Thamesview FC U14  |
+|      Team 1      |  ::Score::  |          Team 2           |
+|:----------------:|:-----------:|:-------------------------:|
+| MPE U14 Sports A | 1 &mdash; 0 |     Barming U14 Colts     |
+| MPE U14 Sports A | 1 &mdash; 0 |    Barming Blades U14     |
+| MPE U14 Sports A | 0 &mdash; 0 |     Thamesview FC U14     |
+| MPE U14 Sports A | 0 &mdash; 1 | K Sports U14 Rangers Blue |
 
  <br /><br /><br />

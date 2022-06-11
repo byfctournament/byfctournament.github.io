@@ -13,5 +13,6 @@ exclude: true
 |    Barming U11 Colts     | 0 &mdash; 7 | Ebbsfleet U11 White |
 | TW Foresters U11 Bobcats | 0 &mdash; 1 | Ebbsfleet U11 White |
 |    Mersham Sports U11    | 0 &mdash; 1 | Ebbsfleet U11 White |
+|   Castle Athletic U11    | 0 &mdash; 2 | Ebbsfleet U11 White |
 
  <br /><br /><br />

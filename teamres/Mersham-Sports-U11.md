@@ -13,5 +13,6 @@ exclude: true
 |    Mersham Sports U11    | 0 &mdash; 1 | Castle Athletic U11 |
 |    Mersham Sports U11    | 0 &mdash; 1 |  Barming U11 Colts  |
 |    Mersham Sports U11    | 0 &mdash; 1 | Ebbsfleet U11 White |
+|    Mersham Sports U11    | 0 &mdash; 1 |    Leybourne u11    |
 
  <br /><br /><br />

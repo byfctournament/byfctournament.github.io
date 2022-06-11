@@ -13,5 +13,6 @@ exclude: true
 |    Mersham Sports U11    | 0 &mdash; 1 | Castle Athletic U11 |
 |   Castle Athletic U11    | 2 &mdash; 0 |    Leybourne u11    |
 | TW Foresters U11 Bobcats | 4 &mdash; 0 | Castle Athletic U11 |
+|   Castle Athletic U11    | 0 &mdash; 2 | Ebbsfleet U11 White |
 
  <br /><br /><br />
