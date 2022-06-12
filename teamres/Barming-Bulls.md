@@ -7,10 +7,12 @@ exclude: true
 
 
 
-|      Team 1       |  ::Score::  |    Team 2     |
-|:-----------------:|:-----------:|:-------------:|
-| Chatham Town Red  | 2 &mdash; 0 | Barming Bulls |
-|   Barming Bulls   | 0 &mdash; 4 |   EP United   |
-| Barming Spitfires | 1 &mdash; 0 | Barming Bulls |
+|       Team 1       |  ::Score::  |     Team 2     |
+|:------------------:|:-----------:|:--------------:|
+|   Barming Bulls    | 1 &mdash; 0 |  Allington FC  |
+|   Barming Bulls    | 1 &mdash; 1 | Rochester FC A |
+| Marden Sunday B FC | 3 &mdash; 0 | Barming Bulls  |
+|   Snodland Town    | 1 &mdash; 0 | Barming Bulls  |
+| Five Oak Green FC  | 1 &mdash; 1 | Barming Bulls  |
 
  <br /><br /><br />

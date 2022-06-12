@@ -7,10 +7,10 @@ exclude: true
 
 
 
-|    Team 1     |  ::Score::  |        Team 2        |
-|:-------------:|:-----------:|:--------------------:|
-| Barming Duds  | 1 &mdash; 1 |       Heath FC       |
-| Barming Duds  | 0 &mdash; 0 | K Sports Vets GREENS |
-| Barming TNV X | 0 &mdash; 4 |     Barming Duds     |
+|      Team 1       |  ::Score::  |    Team 2    |
+|:-----------------:|:-----------:|:------------:|
+|   Barming Duds    | 2 &mdash; 0 | Barming Vets |
+| Castle Colts vets | 2 &mdash; 0 | Barming Duds |
+|   Barming Duds    | 0 &mdash; 1 |   MPE Vets   |
 
  <br /><br /><br />
