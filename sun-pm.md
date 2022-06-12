@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2022-06-12 16:00:52 
+#### Updated 2022-06-12 16:16:22 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -27,11 +27,11 @@ Click on the results summary to see individual match results.
 
 |              Team               | Played |                                                                                      Results                                                                                       | Points |
 |:-------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|     Sittingbourne All Stars     |  4/4   |     <a href="teamres/Sittingbourne-All-Stars.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>     |   8    |
 | Kings Hill Hurricanes U13 girls |  4/4   | <a href="teamres/Kings-Hill-Hurricanes-U13-girls.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a> |   8    |
 |          KFU U13 Girls          |  4/4   |          <a href="teamres/KFU-U13-Girls.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>0<font size="1">G</font></a>          |   6    |
-|     Sittingbourne All Stars     |  3/4   |     <a href="teamres/Sittingbourne-All-Stars.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>     |   5    |
 |    Barming Thunder Burgundy     |  4/4   |    <a href="teamres/Barming-Thunder-Burgundy.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>     |   3    |
-|          Danson sports          |  3/4   |          <a href="teamres/Danson-sports.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>          |   1    |
+|          Danson sports          |  4/4   |          <a href="teamres/Danson-sports.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>          |   1    |
 
 
 ### Ladies 16+ Group 1
@@ -45,6 +45,16 @@ Click on the results summary to see individual match results.
 |     Kings Hill Ladies      |  5/5   |     <a href="teamres/Kings-Hill-Ladies.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>2<font size="1">G</font></a>      |   6    |
 | Kings Hill ladies 2nd team |  5/5   | <a href="teamres/Kings-Hill-ladies-2nd-team.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>2<font size="1">L</font>2<font size="1">G</font></a> |   4    |
 |       Barming Ladies       |  5/5   |       <a href="teamres/Barming-Ladies.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>4<font size="1">G</font></a>       |   1    |
+
+
+
+### Ladies 16+ knock-out
+ 
+
+| Type |        Team 1        | Score |        Team 2        |
+|:----:|:--------------------:|:-----:|:--------------------:|
+|  SF  | Maidstone Utd Amber  |       |  Kings Hill Ladies   |
+|  SF  | Maidstone Utd Purple |       | Borough Green Ladies |
 
 
 

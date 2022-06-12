@@ -12,5 +12,6 @@ exclude: true
 |    Barming Thunder Burgundy     | 0 &mdash; 1 | Sittingbourne All Stars |
 |     Sittingbourne All Stars     | 0 &mdash; 0 |      KFU U13 Girls      |
 | Kings Hill Hurricanes U13 girls | 0 &mdash; 0 | Sittingbourne All Stars |
+|     Sittingbourne All Stars     | 1 &mdash; 0 |      Danson sports      |
 
  <br /><br /><br />
