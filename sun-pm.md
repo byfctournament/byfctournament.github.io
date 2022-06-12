@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2022-06-12 16:16:22 
+#### Updated 2022-06-12 17:22:40 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -23,15 +23,30 @@ Click on the results summary to see individual match results.
 |      Castle Colts U13G      |  5/5   |      <a href="teamres/Castle-Colts-U13G.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>      |   4    |
 
 
+
 ### U13 girls Group 2
 
 |              Team               | Played |                                                                                      Results                                                                                       | Points |
 |:-------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|     Sittingbourne All Stars     |  4/4   |     <a href="teamres/Sittingbourne-All-Stars.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>     |   8    |
 | Kings Hill Hurricanes U13 girls |  4/4   | <a href="teamres/Kings-Hill-Hurricanes-U13-girls.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a> |   8    |
+|     Sittingbourne All Stars     |  4/4   |     <a href="teamres/Sittingbourne-All-Stars.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>0<font size="1">G</font></a>     |   8    |
 |          KFU U13 Girls          |  4/4   |          <a href="teamres/KFU-U13-Girls.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>0<font size="1">G</font></a>          |   6    |
 |    Barming Thunder Burgundy     |  4/4   |    <a href="teamres/Barming-Thunder-Burgundy.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>     |   3    |
 |          Danson sports          |  4/4   |          <a href="teamres/Danson-sports.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>          |   1    |
+
+
+
+### U13 girls knock-out
+ 
+
+| Type |           Team 1            |    Score    |             Team 2              |
+|:----:|:---------------------------:|:-----------:|:-------------------------------:|
+|  QF  |  Kings Hill HILL U3 GIRLS   | 4 &mdash; 0 |    Barming Thunder Burgundy     |
+|  QF  | Maidstone United U12 Ladies | 0 &mdash; 1 |          KFU U13 Girls          |
+|  QF  |   Sittingbourne U13 Girls   | 0 &mdash; 1 |     Sittingbourne All Stars     |
+|  QF  |     Gravesham Girls U13     | 0 &mdash; 1 | Kings Hill Hurricanes U13 girls |
+|  SF  |  Kings Hill HILL U3 GIRLS   |             |          KFU U13 Girls          |
+|  SF  |   Sittingbourne All Stars   | 0 &mdash; 1 | Kings Hill Hurricanes U13 girls |
 
 
 ### Ladies 16+ Group 1
@@ -51,10 +66,11 @@ Click on the results summary to see individual match results.
 ### Ladies 16+ knock-out
  
 
-| Type |        Team 1        | Score |        Team 2        |
-|:----:|:--------------------:|:-----:|:--------------------:|
-|  SF  | Maidstone Utd Amber  |       |  Kings Hill Ladies   |
-|  SF  | Maidstone Utd Purple |       | Borough Green Ladies |
+| Type |        Team 1        |    Score    |        Team 2        |
+|:----:|:--------------------:|:-----------:|:--------------------:|
+|  SF  | Maidstone Utd Amber  | 2 &mdash; 0 |  Kings Hill Ladies   |
+|  SF  | Maidstone Utd Purple | 0 &mdash; 1 | Borough Green Ladies |
+|  F   | Maidstone Utd Amber  |             | Borough Green Ladies |
 
 
 
