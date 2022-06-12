@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2022-06-12 15:03:34 
+#### Updated 2022-06-12 15:05:16 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -15,10 +15,10 @@ Click on the results summary to see individual match results.
 
 |            Team             | Played |                                                                                    Results                                                                                     | Points |
 |:---------------------------:|:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|  Kings Hill HILL U3 GIRLS   |  2/5   |  <a href="teamres/Kings-Hill-HILL-U3-GIRLS.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>   |   6    |
-|    Barming Thunder Blues    |  2/5   |    <a href="teamres/Barming-Thunder-Blues.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>    |   4    |
-|      Castle Colts U13G      |  2/5   |      <a href="teamres/Castle-Colts-U13G.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>      |   4    |
-| Maidstone United U12 Ladies |  2/5   | <a href="teamres/Maidstone-United-U12-Ladies.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   3    |
+|  Kings Hill HILL U3 GIRLS   |  3/5   |  <a href="teamres/Kings-Hill-HILL-U3-GIRLS.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>   |   9    |
+| Maidstone United U12 Ladies |  3/5   | <a href="teamres/Maidstone-United-U12-Ladies.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   6    |
+|    Barming Thunder Blues    |  3/5   |    <a href="teamres/Barming-Thunder-Blues.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>    |   4    |
+|      Castle Colts U13G      |  3/5   |      <a href="teamres/Castle-Colts-U13G.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>      |   4    |
 |   Sittingbourne U13 Girls   |  2/5   |   <a href="teamres/Sittingbourne-U13-Girls.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>   |   0    |
 |     Gravesham Girls U13     |  2/5   |     <a href="teamres/Gravesham-Girls-U13.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>     |   0    |
 
