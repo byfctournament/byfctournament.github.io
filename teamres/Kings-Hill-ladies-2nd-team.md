@@ -13,5 +13,6 @@ exclude: true
 |    Maidstone Utd Purple    | 2 &mdash; 0 | Kings Hill ladies 2nd team |
 | Kings Hill ladies 2nd team | 0 &mdash; 0 |       Barming Ladies       |
 | Kings Hill ladies 2nd team | 0 &mdash; 0 |    Borough Green Ladies    |
+| Kings Hill ladies 2nd team | 0 &mdash; 1 |    Maidstone Utd Amber     |
 
  <br /><br /><br />

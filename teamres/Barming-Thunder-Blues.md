@@ -13,5 +13,6 @@ exclude: true
 | Barming Thunder Blues | 1 &mdash; 0 |     Gravesham Girls U13     |
 | Barming Thunder Blues | 0 &mdash; 3 | Maidstone United U12 Ladies |
 | Barming Thunder Blues | 1 &mdash; 3 |  Kings Hill HILL U3 GIRLS   |
+| Barming Thunder Blues | 0 &mdash; 2 |   Sittingbourne U13 Girls   |
 
  <br /><br /><br />

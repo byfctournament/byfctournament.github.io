@@ -13,5 +13,6 @@ exclude: true
 |       Barming Ladies       | 0 &mdash; 2 | Maidstone Utd Amber  |
 | Kings Hill ladies 2nd team | 0 &mdash; 0 |    Barming Ladies    |
 |       Barming Ladies       | 0 &mdash; 5 | Maidstone Utd Purple |
+|       Barming Ladies       | 0 &mdash; 2 |  Kings Hill Ladies   |
 
  <br /><br /><br />
