@@ -3,7 +3,7 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2022-06-12 11:23:14 
+#### Updated 2022-06-12 12:44:16 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -15,11 +15,12 @@ Click on the results summary to see individual match results.
 
 |            Team             | Played |                                                                                    Results                                                                                     | Points |
 |:---------------------------:|:------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|    Longfield Tigers U15     |  4/4   |    <a href="teamres/Longfield-Tigers-U15.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>     |   9    |
 | Tonbridge Juniors U15 Lions |  4/4   | <a href="teamres/Tonbridge-Juniors-U15-Lions.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   8    |
 |  Medway United Central U15  |  4/4   |  <a href="teamres/Medway-United-Central-U15.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   8    |
-|    Longfield Tigers U15     |  3/4   |    <a href="teamres/Longfield-Tigers-U15.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>     |   8    |
-| Tunbridge Wells Tigers U15  |  3/4   | <a href="teamres/Tunbridge-Wells-Tigers-U15.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>  |   5    |
+| Tunbridge Wells Tigers U15  |  4/4   | <a href="teamres/Tunbridge-Wells-Tigers-U15.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>  |   6    |
 |  Barming Blues U15 B Team   |  4/4   |  <a href="teamres/Barming-Blues-U15-B-Team.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>   |   0    |
+
 
 
 ### U15 Group 2
@@ -30,6 +31,21 @@ Click on the results summary to see individual match results.
 | Tonbridge Juniors U15 Sharks |  3/3   | <a href="teamres/Tonbridge-Juniors-U15-Sharks.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a> |   4    |
 |      Barming U15 Blues       |  3/3   |      <a href="teamres/Barming-U15-Blues.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>3<font size="1">L</font>0<font size="1">G</font></a>       |   3    |
 |      Medway United East      |  3/3   |      <a href="teamres/Medway-United-East.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>2<font size="1">L</font>1<font size="1">G</font></a>      |   2    |
+
+
+
+### U15 knock-out
+ 
+
+| Type |            Team 1            |    Score    |            Team 2            |
+|:----:|:----------------------------:|:-----------:|:----------------------------:|
+|  QF  |     Longfield Tigers U15     | 0 &mdash; 1 |      Medway United East      |
+|  QF  | Tonbridge Juniors U15 Lions  | 0 &mdash; 2 |      Barming U15 Blues       |
+|  QF  |  Medway United Central U15   | 0 &mdash; 2 | Tonbridge Juniors U15 Sharks |
+|  QF  |  Tunbridge Wells Tigers U15  | 0 &mdash; 2 |   Medway United central B    |
+|  SF  |      Medway United East      | 4 &mdash; 3 |      Barming U15 Blues       |
+|  SF  | Tonbridge Juniors U15 Sharks | 1 &mdash; 0 |   Medway United central B    |
+|  F   |      Medway United East      |             | Tonbridge Juniors U15 Sharks |
 
 
 ### U18 Group 1
@@ -98,12 +114,14 @@ Click on the results summary to see individual match results.
 ### Men knock-out
  
 
-| Type |           Team 1           | Score |       Team 2       |
-|:----:|:--------------------------:|:-----:|:------------------:|
-|  QF  | Yalding and Laddingford FC |       | Five Oak Green FC  |
-|  QF  |       Barming Blues        |       | Invicta Sunday (A) |
-|  QF  |      Rubicon Limerick      |       |   Rochester FC A   |
-|  QF  |       Snodland Town        |       | Barming Stallions  |
+| Type |           Team 1           |    Score    |       Team 2       |
+|:----:|:--------------------------:|:-----------:|:------------------:|
+|  QF  | Yalding and Laddingford FC | 2 &mdash; 0 | Five Oak Green FC  |
+|  QF  |       Barming Blues        | 1 &mdash; 2 | Invicta Sunday (A) |
+|  QF  |      Rubicon Limerick      | 2 &mdash; 0 |   Rochester FC A   |
+|  QF  |       Snodland Town        | 3 &mdash; 1 | Barming Stallions  |
+|  SF  | Yalding and Laddingford FC |             |   Snodland Town    |
+|  SF  |     Invicta Sunday (A)     | 0 &mdash; 2 |  Rubicon Limerick  |
 
 
 ### Vets Group 1
