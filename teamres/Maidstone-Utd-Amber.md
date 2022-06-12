@@ -12,5 +12,6 @@ exclude: true
 | Maidstone Utd Amber | 3 &mdash; 0 | Maidstone Utd Purple |
 |   Barming Ladies    | 0 &mdash; 2 | Maidstone Utd Amber  |
 | Maidstone Utd Amber | 1 &mdash; 0 | Borough Green Ladies |
+| Maidstone Utd Amber | 3 &mdash; 0 |  Kings Hill Ladies   |
 
  <br /><br /><br />

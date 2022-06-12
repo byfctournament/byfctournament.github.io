@@ -11,5 +11,6 @@ exclude: true
 |:--------------------:|:-----------:|:--------------------------:|
 | Maidstone Utd Amber  | 3 &mdash; 0 |    Maidstone Utd Purple    |
 | Maidstone Utd Purple | 2 &mdash; 0 | Kings Hill ladies 2nd team |
+| Maidstone Utd Purple | 1 &mdash; 0 |     Kings Hill Ladies      |
 
  <br /><br /><br />

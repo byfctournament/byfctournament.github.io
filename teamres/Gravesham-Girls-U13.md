@@ -11,5 +11,6 @@ exclude: true
 |:---------------------:|:-----------:|:------------------------:|
 |  Gravesham Girls U13  | 0 &mdash; 2 | Kings Hill HILL U3 GIRLS |
 | Barming Thunder Blues | 1 &mdash; 0 |   Gravesham Girls U13    |
+|  Gravesham Girls U13  | 0 &mdash; 0 | Sittingbourne U13 Girls  |
 
  <br /><br /><br />
