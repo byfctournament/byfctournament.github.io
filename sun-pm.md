@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2022-06-12 17:22:40 
+#### Updated 2022-06-12 18:01:25 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -45,10 +45,12 @@ Click on the results summary to see individual match results.
 |  QF  | Maidstone United U12 Ladies | 0 &mdash; 1 |          KFU U13 Girls          |
 |  QF  |   Sittingbourne U13 Girls   | 0 &mdash; 1 |     Sittingbourne All Stars     |
 |  QF  |     Gravesham Girls U13     | 0 &mdash; 1 | Kings Hill Hurricanes U13 girls |
-|  SF  |  Kings Hill HILL U3 GIRLS   |             |          KFU U13 Girls          |
+|  SF  |  Kings Hill HILL U3 GIRLS   | 3 &mdash; 0 |          KFU U13 Girls          |
 |  SF  |   Sittingbourne All Stars   | 0 &mdash; 1 | Kings Hill Hurricanes U13 girls |
+|  F   |  Kings Hill HILL U3 GIRLS   | 1 &mdash; 0 | Kings Hill Hurricanes U13 girls |
 
 
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U13 girls winner is: Kings Hill HILL U3 GIRLS
 ### Ladies 16+ Group 1
  One group. SF: 1st v 4th, 2nd v 3rd; Final: SF1 v SF2
 
