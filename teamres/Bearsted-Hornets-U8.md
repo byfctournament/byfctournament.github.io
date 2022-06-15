@@ -12,5 +12,6 @@ exclude: true
 | Bearsted Hornets U8 | 0 &mdash; 9 | Kings hill rangers U8  |
 | Bearsted Hornets U8 | 5 &mdash; 1 | TW Foresters U8 Tigers |
 |       MPE U8        | 0 &mdash; 2 |  Bearsted Hornets U8   |
+| Bearsted Hornets U8 | 0 &mdash; 0 |     BYFC U8 Youth      |
 
  <br /><br /><br />

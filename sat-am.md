@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2022-06-11 11:57:28 
+#### Updated 2022-06-15 08:49:25 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
@@ -52,12 +52,14 @@ Click on the results summary to see individual match results.
 ### U7 knock-out
  
 
-| Type |      Team 1      | Score |        Team 2        |
-|:----:|:----------------:|:-----:|:--------------------:|
-|  QF  | Kings Hill FC U7 |       |  K Sports Colts U7   |
-|  QF  | Ditton Minors U7 |       | Bredhurst juniors U7 |
-|  QF  | Leybourne FC U7  |       |   Castle Colts U7    |
-|  QF  |  Bearsted FC U7  |       |  Aylesford Colts U7  |
+| Type |      Team 1      |    Score    |        Team 2        |
+|:----:|:----------------:|:-----------:|:--------------------:|
+|  QF  | Kings Hill FC U7 | 1 &mdash; 0 |  K Sports Colts U7   |
+|  QF  | Ditton Minors U7 | 3 &mdash; 1 | Bredhurst juniors U7 |
+|  QF  | Leybourne FC U7  | 3 &mdash; 0 |   Castle Colts U7    |
+|  QF  |  Bearsted FC U7  | 2 &mdash; 4 |  Aylesford Colts U7  |
+|  SF  | Kings Hill FC U7 |             |  Aylesford Colts U7  |
+|  SF  | Ditton Minors U7 |             |   Leybourne FC U7    |
 
 
 ### U8 Group 1
@@ -73,28 +75,46 @@ Click on the results summary to see individual match results.
 |        K Sports youth U8        |  5/5   |        <a href="teamres/K-Sports-youth-U8.html"><font size="1">W</font>0<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>3<font size="1">G</font></a>        |   3    |
 
 
+
 ### U8 Group 2
 
 |          Team          | Played |                                                                                  Results                                                                                  | Points |
 |:----------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-|  Bearsted Hornets U8   |  3/4   |  <a href="teamres/Bearsted-Hornets-U8.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>   |   6    |
+|     BYFC U8 Youth      |  4/4   |     <a href="teamres/BYFC-U8-Youth.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>      |   10   |
+|  Bearsted Hornets U8   |  4/4   |  <a href="teamres/Bearsted-Hornets-U8.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a>   |   7    |
 |         MPE U8         |  4/4   |         <a href="teamres/MPE-U8.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>         |   6    |
-|     BYFC U8 Youth      |  2/4   |     <a href="teamres/BYFC-U8-Youth.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>      |   6    |
 | Kings hill rangers U8  |  4/4   | <a href="teamres/Kings-hill-rangers-U8.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a>  |   3    |
-| TW Foresters U8 Tigers |  3/4   | <a href="teamres/TW-Foresters-U8-Tigers.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a> |   3    |
+| TW Foresters U8 Tigers |  4/4   | <a href="teamres/TW-Foresters-U8-Tigers.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>3<font size="1">G</font></a> |   3    |
+
 
 
 ### U8 Group 3
 
 |              Team              | Played |                                                                                      Results                                                                                      | Points |
 |:------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|   Tunbridge Wells Tigers U8    |  4/4   |   <a href="teamres/Tunbridge-Wells-Tigers-U8.html"><font size="1">W</font>3<font size="1">S</font>0<font size="1">N</font>1<font size="1">L</font>0<font size="1">G</font></a>    |   10   |
 |        Barming U8 Blues        |  4/4   |        <a href="teamres/Barming-U8-Blues.html"><font size="1">W</font>2<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a>        |   8    |
-|   Tunbridge Wells Tigers U8    |  2/4   |   <a href="teamres/Tunbridge-Wells-Tigers-U8.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>0<font size="1">G</font></a>    |   6    |
-| Coxheath and Farleigh Colts U8 |  3/4   | <a href="teamres/Coxheath-and-Farleigh-Colts-U8.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>0<font size="1">L</font>1<font size="1">G</font></a> |   5    |
-|        KIngshill FC U8         |  3/4   |        <a href="teamres/KIngshill-FC-U8.html"><font size="1">W</font>1<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>         |   3    |
-|         MPE U8 Sports          |  2/4   |         <a href="teamres/MPE-U8-Sports.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>          |   0    |
+| Coxheath and Farleigh Colts U8 |  4/4   | <a href="teamres/Coxheath-and-Farleigh-Colts-U8.html"><font size="1">W</font>1<font size="1">S</font>1<font size="1">N</font>1<font size="1">L</font>1<font size="1">G</font></a> |   6    |
+|        KIngshill FC U8         |  4/4   |        <a href="teamres/KIngshill-FC-U8.html"><font size="1">W</font>2<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>2<font size="1">G</font></a>         |   6    |
+|         MPE U8 Sports          |  4/4   |         <a href="teamres/MPE-U8-Sports.html"><font size="1">W</font>0<font size="1">S</font>0<font size="1">N</font>0<font size="1">L</font>4<font size="1">G</font></a>          |   0    |
 
 
+
+### U8 knock-out
+ 
+
+| Type |          Team 1           |    Score    |             Team 2              |
+|:----:|:-------------------------:|:-----------:|:-------------------------------:|
+|  QF  |  Maidstone Utd U8 Blacks  | 2 &mdash; 1 |             MPE U8              |
+|  QF  |       BYFC U8 Youth       | 5 &mdash; 2 | Tunbridge Wells Foresters Lions |
+|  QF  | Tunbridge Wells Tigers U8 | 0 &mdash; 3 |       Bearsted Hornets U8       |
+|  QF  |   Upchurch Colts United   | 1 &mdash; 2 |        Barming U8 Blues         |
+|  SF  |  Maidstone Utd U8 Blacks  | 3 &mdash; 0 |        Barming U8 Blues         |
+|  SF  |       BYFC U8 Youth       | 0 &mdash; 1 |       Bearsted Hornets U8       |
+|  F   |  Maidstone Utd U8 Blacks  | 1 &mdash; 2 |       Bearsted Hornets U8       |
+
+
+#### <img src="assets/images/animated-trophy.gif" height="50"> The U8 winner is: Bearsted Hornets U8
 ### U9 Group 1
  Three groups. QF: Top 2 from each group + the two best third-placed teams. Those 8 teams seeded as below then 1st v 8th, 2nd v 7th, 3rd v 6th, 4th v 5th. SF: QF1 v QF4, QF2 v QF3. Final: SF1 v SF2. Determination of seedings/placings: Points, then goal difference, then goals scored.
 
@@ -135,12 +155,14 @@ Click on the results summary to see individual match results.
 ### U9 knock-out
  
 
-| Type |             Team 1             | Score |           Team 2           |
-|:----:|:------------------------------:|:-----:|:--------------------------:|
-|  QF  | Maidstone United Under 9 Black |       | Hollands and Blair Under 9 |
-|  QF  |        Barming U9 Youth        |       |     K Sports Youth U9      |
-|  QF  |       Russellers Blue U9       |       |     Valley View FC U9      |
-|  QF  |    Hollands & Blair Devils     |       |      Vinters Green U9      |
+| Type |             Team 1             |    Score    |           Team 2           |
+|:----:|:------------------------------:|:-----------:|:--------------------------:|
+|  QF  | Maidstone United Under 9 Black | 9 &mdash; 0 | Hollands and Blair Under 9 |
+|  QF  |        Barming U9 Youth        | 1 &mdash; 0 |     K Sports Youth U9      |
+|  QF  |       Russellers Blue U9       | 2 &mdash; 1 |     Valley View FC U9      |
+|  QF  |    Hollands & Blair Devils     | 2 &mdash; 3 |      Vinters Green U9      |
+|  SF  | Maidstone United Under 9 Black |             |      Vinters Green U9      |
+|  SF  |        Barming U9 Youth        | 0 &mdash; 2 |     Russellers Blue U9     |
 
 
 ### U10 Group 1
@@ -176,7 +198,7 @@ Click on the results summary to see individual match results.
 | Type |          Team 1          |    Score    |      Team 2       |
 |:----:|:------------------------:|:-----------:|:-----------------:|
 |  SF  |     Bearsted FC U10      | 1 &mdash; 0 |  Kings Hill U10   |
-|  SF  | West Farleigh Wolves U10 |             | Barming U10 Youth |
+|  SF  | West Farleigh Wolves U10 | 2 &mdash; 1 | Barming U10 Youth |
 
 
 

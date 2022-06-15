@@ -12,5 +12,6 @@ exclude: true
 |         MPE U8 Sports          | 0 &mdash; 3 | Coxheath and Farleigh Colts U8 |
 | Coxheath and Farleigh Colts U8 | 0 &mdash; 2 |        KIngshill FC U8         |
 | Coxheath and Farleigh Colts U8 | 1 &mdash; 1 |        Barming U8 Blues        |
+| Coxheath and Farleigh Colts U8 | 0 &mdash; 0 |   Tunbridge Wells Tigers U8    |
 
  <br /><br /><br />

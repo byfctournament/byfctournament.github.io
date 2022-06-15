@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2022-06-12 18:01:25 
+#### Updated 2022-06-15 08:49:22 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
 
