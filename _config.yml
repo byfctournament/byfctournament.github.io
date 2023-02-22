@@ -2,20 +2,20 @@
 title: BYFC
 subtitle: Tournament 2023
 email: tournament.committee@barmingyouth.co.uk
-description: Welcome to the Barming Youth FC tournament 2023. See below for useful information; use the menu (top right) to view results.
+description: Welcome to the Barming Youth FC tournament 2023.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 55 Beverley Road
+street_address:
 city: Maidstone
 state: Kent
-zip_code: ME16 9DU
+zip_code:
 country:
 phone:
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 8
+tiles-count: 0
 
 # Social settings
 500px_url:
